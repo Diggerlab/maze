@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<SceneProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectDir>E:\project\diggerlab\maze\maze\CocoStudio\ccsprojs\c1_l1_Scene</ProjectDir>
+  <Version>1.4.0.1</Version>
+  <Resources>E:\project\diggerlab\maze\maze</Resources>
+  <Name>c1_l1_Scene</Name>
+  <JsonFileName>c1_l1_Scene.json</JsonFileName>
+  <JsonFolder>E:\project\diggerlab\maze\maze\CocoStudio\assets\publish</JsonFolder>
+  <JsonList />
+  <CanvasSize>
+    <Width>1024</Width>
+    <Height>768</Height>
+  </CanvasSize>
+  <filePath>E:\project\diggerlab\maze\maze\CocoStudio\ccsprojs\c1_l1_Scene\c1_l1_Scene.xml.scene</filePath>
+  <ProjectType>SceneProject</ProjectType>
+  <ResRelativePath>\\..\\..\\assets</ResRelativePath>
+  <JSFileList />
+  <DefaultUI_JSList />
+  <Res>E:\project\diggerlab\maze\maze\CocoStudio\assets</Res>
+</SceneProject>
