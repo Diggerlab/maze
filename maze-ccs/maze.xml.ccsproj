@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <GameProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <ProjectDir>E:\project\diggerlab\maze\maze-ccs</ProjectDir>
+  <ProjectDir>C:\Users\Render\Documents\GitHub\maze\maze-ccs</ProjectDir>
   <Version>1.4.0.1</Version>
-  <Resources>E:\project\diggerlab\maze\maze-ccs</Resources>
+  <Resources>C:\Users\Render\Documents\GitHub\maze\maze-ccs</Resources>
   <Name>maze</Name>
   <JsonFileName>maze.json</JsonFileName>
   <JsonList />
@@ -10,10 +10,10 @@
     <Width>480</Width>
     <Height>320</Height>
   </CanvasSize>
-  <filePath>E:\project\diggerlab\maze\maze-ccs\maze.xml.ccsproj</filePath>
+  <filePath>C:\Users\Render\Documents\GitHub\maze\maze-ccs\maze.xml.ccsproj</filePath>
   <ProjectType>GameProject</ProjectType>
   <ResRelativePath />
-  <ResProjFolder>E:\project\diggerlab\maze\maze-ccs\CocoStudio\ccsprojs</ResProjFolder>
-  <AssetsDir>E:\project\diggerlab\maze\maze-ccs\CocoStudio\assets</AssetsDir>
+  <ResProjFolder>C:\Users\Render\Documents\GitHub\maze\maze-ccs\CocoStudio\ccsprojs</ResProjFolder>
+  <AssetsDir>C:\Users\Render\Documents\GitHub\maze\maze-ccs\CocoStudio\assets</AssetsDir>
   <LanaguageType>cpp</LanaguageType>
 </GameProject>
