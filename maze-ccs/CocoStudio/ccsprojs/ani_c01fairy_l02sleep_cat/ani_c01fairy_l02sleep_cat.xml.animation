@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<AnimationProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectDir>C:\Users\Render\Documents\GitHub\maze\maze-ccs\CocoStudio\ccsprojs\ani_c01fairy_l02sleep_cat</ProjectDir>
+  <Version>1.4.0.1</Version>
+  <Resources>C:\Users\Render\Documents\GitHub\maze\maze-ccs\CocoStudio\assets</Resources>
+  <Name>ani_c01fairy_l02sleep_cat</Name>
+  <JsonFileName>ani_c01fairy_l02sleep_cat.json</JsonFileName>
+  <JsonFolder>C:\Users\Render\Documents\GitHub\maze\maze-ccs\CocoStudio\ccsprojs\ani_c01fairy_l02sleep_cat\Json</JsonFolder>
+  <JsonList />
+  <CanvasSize>
+    <Width>0</Width>
+    <Height>0</Height>
+  </CanvasSize>
+  <filePath>C:\Users\Render\Documents\GitHub\maze\maze-ccs\CocoStudio\ccsprojs\ani_c01fairy_l02sleep_cat\ani_c01fairy_l02sleep_cat.xml.animation</filePath>
+  <ProjectType>AnimationProject</ProjectType>
+  <ResRelativePath>\\..\\..\\assets</ResRelativePath>
+  <ResourceFileList />
+  <bBatchImage>false</bBatchImage>
+</AnimationProject>
