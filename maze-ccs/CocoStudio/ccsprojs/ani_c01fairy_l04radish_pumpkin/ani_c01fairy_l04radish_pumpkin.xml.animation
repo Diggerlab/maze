@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<AnimationProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectDir>C:\Users\Render\Documents\GitHub\maze\maze-ccs\CocoStudio\ccsprojs\ani_c01fairy_l04radish_pumpkin</ProjectDir>
+  <Version>1.4.0.1</Version>
+  <Resources>C:\Users\Render\Documents\GitHub\maze\maze-ccs\CocoStudio\assets</Resources>
+  <Name>ani_c01fairy_l04radish_pumpkin</Name>
+  <JsonFileName>ani_c01fairy_l04radish_pumpkin.json</JsonFileName>
+  <JsonFolder>C:\Users\Render\Documents\GitHub\maze\maze-ccs\CocoStudio\ccsprojs\ani_c01fairy_l04radish_pumpkin\Json</JsonFolder>
+  <JsonList />
+  <CanvasSize>
+    <Width>0</Width>
+    <Height>0</Height>
+  </CanvasSize>
+  <filePath>C:\Users\Render\Documents\GitHub\maze\maze-ccs\CocoStudio\ccsprojs\ani_c01fairy_l04radish_pumpkin\ani_c01fairy_l04radish_pumpkin.xml.animation</filePath>
+  <ProjectType>AnimationProject</ProjectType>
+  <ResRelativePath>\\..\\..\\assets</ResRelativePath>
+  <ResourceFileList>
+    <string>ani_c01fairy_l04radish_pumpkin0.plist</string>
+  </ResourceFileList>
+  <bBatchImage>true</bBatchImage>
+</AnimationProject>
