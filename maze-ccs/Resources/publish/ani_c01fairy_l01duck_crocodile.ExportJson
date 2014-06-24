@@ -2,14 +2,14 @@
   "content_scale": 1.0,
   "armature_data": [
     {
-      "strVersion": "1.4.0.1",
-      "version": 1.401,
+      "strVersion": "1.5.0.0",
+      "version": 1.5,
       "name": "ani_c01fairy_l01duck_crocodile",
       "bone_data": [
         {
           "name": "Layer3",
           "parent": "",
-          "dI": 0,
+          "dI": 1,
           "x": 19.5,
           "y": 8.67333984375,
           "z": 1,
@@ -117,7 +117,7 @@
         {
           "name": "ani_catch",
           "dr": 27,
-          "lp": true,
+          "lp": false,
           "to": 0,
           "drTW": 0,
           "twE": 0,
@@ -212,7 +212,7 @@
       ]
     }
   ],
-  "texture_data": [],
+  "texture_data": null,
   "config_file_path": [
     "ani_c01fairy_l01duck_crocodile0.plist"
   ],
