@@ -16,7 +16,12 @@
   <filePath>E:\project\diggerlab\maze\maze-ccs\CocoStudio\ccsprojs\ui_c01fairy\ui_c01fairy.xml.ui</filePath>
   <ProjectType>UIProject</ProjectType>
   <ResRelativePath>\\..\\..\\assets</ResRelativePath>
-  <imagePngList />
+  <imageFileList>
+    <string>ui_c01fairy0.plist</string>
+  </imageFileList>
+  <imagePngList>
+    <string>ui_c01fairy0.png</string>
+  </imagePngList>
   <JsonSuffix>.json</JsonSuffix>
   <CurrentUIJson>ui_c01fairy_l01duck.json</CurrentUIJson>
 </UIProject>

@@ -118,15 +118,15 @@
         {
           "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
           "classname": "CCNode",
-          "name": "ani_dog_Copy",
+          "name": "ani_fox",
           "canedit": true,
           "objecttag": 10007,
           "rotation": 0,
           "scalex": 1,
           "scaley": 1,
           "visible": 1,
-          "x": 906.44476318359375,
-          "y": 402.22235107421875,
+          "x": 890.44476318359375,
+          "y": 432.22235107421875,
           "zorder": 1,
           "gameobjects": [],
           "components": [
@@ -136,12 +136,102 @@
               "name": "CCArmature",
               "file": null,
               "fileData": {
-                "path": "publish/ani_c01fairy_l01duck_dog.ExportJson",
+                "path": "publish/ani_c01fairy_l01duck_fox.ExportJson",
                 "plistFile": "",
                 "resourceType": 0
               },
               "isShowColliderRect": false,
               "selectedactionname": "ani_catch"
+            }
+          ]
+        },
+        {
+          "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+          "classname": "CCNode",
+          "name": "ani_snake",
+          "canedit": true,
+          "objecttag": 10008,
+          "rotation": 0,
+          "scalex": 1,
+          "scaley": 1,
+          "visible": 1,
+          "x": 620.44476318359375,
+          "y": 488.22235107421875,
+          "zorder": 1,
+          "gameobjects": [],
+          "components": [
+            {
+              "__type": "ComArmatureAdapterSurrogate:#EditorCommon.JsonModel.Component",
+              "classname": "CCArmature",
+              "name": "CCArmature",
+              "file": null,
+              "fileData": {
+                "path": "publish/ani_c01fairy_l01duck_snake.ExportJson",
+                "plistFile": "",
+                "resourceType": 0
+              },
+              "isShowColliderRect": false,
+              "selectedactionname": "ani_catch"
+            }
+          ]
+        },
+        {
+          "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+          "classname": "CCNode",
+          "name": "ani_carb",
+          "canedit": true,
+          "objecttag": 10010,
+          "rotation": 0,
+          "scalex": 1,
+          "scaley": 1,
+          "visible": 1,
+          "x": 582.44476318359375,
+          "y": 560.222412109375,
+          "zorder": 1,
+          "gameobjects": [],
+          "components": [
+            {
+              "__type": "ComArmatureAdapterSurrogate:#EditorCommon.JsonModel.Component",
+              "classname": "CCArmature",
+              "name": "CCArmature",
+              "file": null,
+              "fileData": {
+                "path": "publish/ani_c01fairy_l01duck_carb.ExportJson",
+                "plistFile": "",
+                "resourceType": 0
+              },
+              "isShowColliderRect": false,
+              "selectedactionname": "ani_catch"
+            }
+          ]
+        },
+        {
+          "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+          "classname": "CCNode",
+          "name": "ani_ending",
+          "canedit": true,
+          "objecttag": 10009,
+          "rotation": 0,
+          "scalex": 0.5,
+          "scaley": 0.5,
+          "visible": 1,
+          "x": 998.44476318359375,
+          "y": 670.222412109375,
+          "zorder": 1,
+          "gameobjects": [],
+          "components": [
+            {
+              "__type": "ComArmatureAdapterSurrogate:#EditorCommon.JsonModel.Component",
+              "classname": "CCArmature",
+              "name": "CCArmature",
+              "file": null,
+              "fileData": {
+                "path": "publish/ani_c01fairy_l01duck_ending.ExportJson",
+                "plistFile": "",
+                "resourceType": 0
+              },
+              "isShowColliderRect": false,
+              "selectedactionname": "ani_ending"
             }
           ]
         }
