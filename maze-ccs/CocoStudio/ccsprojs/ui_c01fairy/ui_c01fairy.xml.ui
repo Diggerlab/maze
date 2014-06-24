@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<UIProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectDir>E:\project\diggerlab\maze\maze-ccs\CocoStudio\ccsprojs\ui_c01fairy</ProjectDir>
+  <Version>1.5.0.0</Version>
+  <Resources>E:\project\diggerlab\maze\maze-ccs\CocoStudio\assets</Resources>
+  <Name>ui_c01fairy</Name>
+  <JsonFileName>ui_c01fairy.json</JsonFileName>
+  <JsonFolder>E:\project\diggerlab\maze\maze-ccs\CocoStudio\ccsprojs\ui_c01fairy\Json</JsonFolder>
+  <JsonList>
+    <string>ui_c01fairy_l01duck.json</string>
+  </JsonList>
+  <CanvasSize>
+    <Width>1365</Width>
+    <Height>768</Height>
+  </CanvasSize>
+  <filePath>E:\project\diggerlab\maze\maze-ccs\CocoStudio\ccsprojs\ui_c01fairy\ui_c01fairy.xml.ui</filePath>
+  <ProjectType>UIProject</ProjectType>
+  <ResRelativePath>\\..\\..\\assets</ResRelativePath>
+  <imagePngList />
+  <JsonSuffix>.json</JsonSuffix>
+  <CurrentUIJson>ui_c01fairy_l01duck.json</CurrentUIJson>
+</UIProject>
