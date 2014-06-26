@@ -19,7 +19,9 @@
   <imageFileList>
     <string>ui_c01fairy0.plist</string>
   </imageFileList>
-  <imagePngList />
+  <imagePngList>
+    <string>ui_c01fairy0.png</string>
+  </imagePngList>
   <JsonSuffix>.json</JsonSuffix>
   <CurrentUIJson>ui_c01fairy_l01duck.json</CurrentUIJson>
 </UIProject>
