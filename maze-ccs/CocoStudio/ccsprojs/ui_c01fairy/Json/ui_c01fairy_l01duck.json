@@ -12,9 +12,7 @@
   "textures": [
     "ui_c01fairy0.plist"
   ],
-  "texturesPng": [
-    "ui_c01fairy0.png"
-  ],
+  "texturesPng": [],
   "version": "1.5.0.0",
   "widgetTree": {
     "classname": "Panel",
@@ -5448,7 +5446,7 @@
             "options": {
               "__type": "ImageViewSurrogate:#EditorCommon.JsonModel.Component.GUI",
               "classname": "ImageView",
-              "name": "H001_B_H",
+              "name": "H002_B_H",
               "ZOrder": 0,
               "actiontag": 30405923,
               "anchorPointX": 0.5,
@@ -6706,8 +6704,8 @@
               "ignoreSize": true,
               "layoutParameter": null,
               "opacity": 255,
-              "positionPercentX": 0.3216117,
-              "positionPercentY": 0.397135377,
+              "positionPercentX": 0.320879132,
+              "positionPercentY": 0.395833343,
               "positionType": 0,
               "rotation": 0,
               "scaleX": 1,
