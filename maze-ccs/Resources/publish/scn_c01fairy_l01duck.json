@@ -28,7 +28,7 @@
         {
           "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
           "classname": "CCNode",
-          "name": "ani_crocodile",
+          "name": "ani_crocodile_LJ004D003",
           "canedit": true,
           "objecttag": 10004,
           "rotation": 0,
@@ -58,7 +58,7 @@
         {
           "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
           "classname": "CCNode",
-          "name": "ani_chicken",
+          "name": "ani_chicken_LC004",
           "canedit": true,
           "objecttag": 10005,
           "rotation": 0,
@@ -88,7 +88,7 @@
         {
           "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
           "classname": "CCNode",
-          "name": "ani_dog",
+          "name": "ani_dog_LI001S001",
           "canedit": true,
           "objecttag": 10006,
           "rotation": 0,
@@ -118,7 +118,7 @@
         {
           "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
           "classname": "CCNode",
-          "name": "ani_fox",
+          "name": "ani_fox_LK001P004",
           "canedit": true,
           "objecttag": 10007,
           "rotation": 0,
@@ -148,7 +148,7 @@
         {
           "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
           "classname": "CCNode",
-          "name": "ani_snake",
+          "name": "ani_snake_LN001Q001",
           "canedit": true,
           "objecttag": 10008,
           "rotation": 0,
@@ -178,7 +178,7 @@
         {
           "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
           "classname": "CCNode",
-          "name": "ani_carb",
+          "name": "ani_carb_LM001R003",
           "canedit": true,
           "objecttag": 10010,
           "rotation": 0,
@@ -208,7 +208,7 @@
         {
           "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
           "classname": "CCNode",
-          "name": "ani_ending",
+          "name": "ani_ending_LA079_E",
           "canedit": true,
           "objecttag": 10009,
           "rotation": 0,
