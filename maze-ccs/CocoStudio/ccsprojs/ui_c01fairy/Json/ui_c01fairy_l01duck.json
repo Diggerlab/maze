@@ -12,7 +12,9 @@
   "textures": [
     "ui_c01fairy0.plist"
   ],
-  "texturesPng": [],
+  "texturesPng": [
+    "ui_c01fairy0.png"
+  ],
   "version": "1.5.0.0",
   "widgetTree": {
     "classname": "Panel",
