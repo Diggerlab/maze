@@ -2,14 +2,14 @@
   "content_scale": 1.0,
   "armature_data": [
     {
-      "strVersion": "1.4.0.1",
-      "version": 1.401,
+      "strVersion": "1.5.0.0",
+      "version": 1.5,
       "name": "ani_c01fairy_l01duck_snake",
       "bone_data": [
         {
           "name": "Layer2",
           "parent": "",
-          "dI": 0,
+          "dI": 1,
           "x": 7.5,
           "y": -5.32666015625,
           "z": 2,
@@ -134,7 +134,7 @@
         {
           "name": "ani_catch",
           "dr": 25,
-          "lp": true,
+          "lp": false,
           "to": 0,
           "drTW": 0,
           "twE": 0,
@@ -153,7 +153,7 @@
                   "cY": 1.0,
                   "kX": 0.0,
                   "kY": 0.0,
-                  "fi": 0,
+                  "fi": 1,
                   "twE": 0,
                   "tweenFrame": true
                 },
@@ -280,7 +280,7 @@
       ]
     }
   ],
-  "texture_data": [],
+  "texture_data": null,
   "config_file_path": [
     "ani_c01fairy_l01duck_snake0.plist"
   ],
