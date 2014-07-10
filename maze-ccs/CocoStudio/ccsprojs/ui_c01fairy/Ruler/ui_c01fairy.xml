@@ -4,4 +4,16 @@
     <Project>ui_c01fairy_l01duck</Project>
     <GuidesList />
   </GuidesProject>
+  <GuidesProject>
+    <Project>ui_c01fairy_l02sleep</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>ui_c01fairy_l03fish</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>ui_c01fairy_l04radish</Project>
+    <GuidesList />
+  </GuidesProject>
 </ArrayOfGuidesProject>

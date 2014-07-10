@@ -4,7 +4,7 @@
 	<dict>
 		<key>frames</key>
 		<dict>
-			<key>ui/c01_fairy/l01_duck/map.png</key>
+			<key>ui/c01_fairy/l03_fish/map.png</key>
 			<dict>
 				<key>width</key>
 				<integer>1024</integer>
@@ -42,16 +42,16 @@
 				<key>offsetY</key>
 				<real>0</real>
 			</dict>
-			<key>ui/c01_fairy/l01_duck/player.png</key>
+			<key>ui/c01_fairy/l03_fish/icon.png</key>
 			<dict>
 				<key>width</key>
-				<integer>327</integer>
+				<integer>86</integer>
 				<key>height</key>
-				<integer>191</integer>
+				<integer>82</integer>
 				<key>originalWidth</key>
-				<integer>327</integer>
+				<integer>86</integer>
 				<key>originalHeight</key>
-				<integer>191</integer>
+				<integer>82</integer>
 				<key>x</key>
 				<integer>0</integer>
 				<key>y</key>
@@ -61,20 +61,20 @@
 				<key>offsetY</key>
 				<real>0</real>
 			</dict>
-			<key>ui/c01_fairy/l01_duck/icon.png</key>
+			<key>ui/c01_fairy/l03_fish/player.png</key>
 			<dict>
 				<key>width</key>
-				<integer>67</integer>
+				<integer>436</integer>
 				<key>height</key>
-				<integer>57</integer>
+				<integer>221</integer>
 				<key>originalWidth</key>
-				<integer>67</integer>
+				<integer>436</integer>
 				<key>originalHeight</key>
-				<integer>57</integer>
+				<integer>221</integer>
 				<key>x</key>
-				<integer>1026</integer>
+				<integer>88</integer>
 				<key>y</key>
-				<integer>0</integer>
+				<integer>770</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
