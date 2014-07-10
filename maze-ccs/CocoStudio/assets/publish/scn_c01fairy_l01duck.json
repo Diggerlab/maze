@@ -21,8 +21,8 @@
       "scalex": 1,
       "scaley": 1,
       "visible": 1,
-      "x": 0,
-      "y": 0,
+      "x": -5,
+      "y": -23,
       "zorder": 1,
       "gameobjects": [
         {
@@ -240,7 +240,7 @@
         {
           "__type": "ComGUIAdapterSurrogate:#EditorCommon.JsonModel.Component",
           "classname": "GUIComponent",
-          "name": "ui_main",
+          "name": "GUIComponent",
           "file": null,
           "fileData": {
             "path": "publish/ui_c01fairy_l01duck.ExportJson",

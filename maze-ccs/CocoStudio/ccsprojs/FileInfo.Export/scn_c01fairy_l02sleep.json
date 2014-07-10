@@ -1,3 +1,16 @@
 [
-  "publish\\scn_c01fairy_l02sleep.json"
+  "publish/ani_c01fairy_l01duck_crocodile0.png",
+  "publish/ani_c01fairy_l01duck_chicken0.png",
+  "publish/ani_c01fairy_l01duck_dog0.png",
+  "publish/ani_c01fairy_l01duck_fox0.png",
+  "publish/ani_c01fairy_l01duck_snake0.png",
+  "publish/ani_c01fairy_l01duck_carb0.png",
+  "publish/ani_c01fairy_l01duck_ending0.png",
+  "publish/ani_c01fairy_l01duck_ending1.png",
+  "publish/ui_c01fairy0.png",
+  "publish/ui_c01fairy1.png",
+  "publish\\scn_c01fairy_l02sleep.json",
+  "D:\\workspace\\maze\\maze-ccs\\CocoStudio\\assets\\publish\\ui_c01fairy0.plist",
+  "D:\\workspace\\maze\\maze-ccs\\CocoStudio\\assets\\publish\\ui_c01fairy1.plist",
+  "publish/ui_c01fairy_l02sleep.ExportJson"
 ]
