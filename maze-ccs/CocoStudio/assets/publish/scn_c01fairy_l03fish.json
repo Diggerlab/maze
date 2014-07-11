@@ -1,189 +1,56 @@
-{
-  "classname": "CCNode",
-  "name": "scn_root",
-  "canedit": true,
-  "objecttag": 10000,
-  "rotation": 0,
-  "scalex": 1,
-  "scaley": 1,
-  "visible": 1,
-  "x": 0,
-  "y": 0,
-  "zorder": 1,
-  "gameobjects": [
-    {
-      "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
-      "classname": "CCNode",
-      "name": "ui_main",
-      "canedit": true,
-      "objecttag": 10013,
-      "rotation": 0,
-      "scalex": 1,
-      "scaley": 1,
-      "visible": 1,
-      "x": 0,
-      "y": 0,
-      "zorder": 1,
-      "gameobjects": [],
-      "components": [
-        {
-          "__type": "ComGUIAdapterSurrogate:#EditorCommon.JsonModel.Component",
-          "classname": "GUIComponent",
-          "name": "GUIComponent",
-          "file": null,
-          "fileData": {
-            "path": "publish/ui_c01fairy_l03fish.ExportJson",
-            "plistFile": "",
-            "resourceType": 0
-          }
-        }
-      ]
-    },
-    {
-      "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
-      "classname": "CCNode",
-      "name": null,
-      "canedit": true,
-      "objecttag": 10014,
-      "rotation": 0,
-      "scalex": 1,
-      "scaley": 1,
-      "visible": 1,
-      "x": 670.5,
-      "y": 625,
-      "zorder": 1,
-      "gameobjects": [],
-      "components": [
-        {
-          "__type": "ComArmatureAdapterSurrogate:#EditorCommon.JsonModel.Component",
-          "classname": "CCArmature",
-          "name": "CCArmature",
-          "file": null,
-          "fileData": {
-            "path": "publish/ani_c01fairy_l03fish_acaleph.ExportJson",
-            "plistFile": "",
-            "resourceType": 0
-          },
-          "isShowColliderRect": false,
-          "selectedactionname": "Animation1"
-        }
-      ]
-    },
-    {
-      "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
-      "classname": "CCNode",
-      "name": null,
-      "canedit": true,
-      "objecttag": 10015,
-      "rotation": 0,
-      "scalex": 1,
-      "scaley": 1,
-      "visible": 1,
-      "x": 892.86358642578125,
-      "y": 260.09088134765625,
-      "zorder": 1,
-      "gameobjects": [],
-      "components": [
-        {
-          "__type": "ComArmatureAdapterSurrogate:#EditorCommon.JsonModel.Component",
-          "classname": "CCArmature",
-          "name": "CCArmature",
-          "file": null,
-          "fileData": {
-            "path": "publish/ani_c01fairy_l03fish_numbfish.ExportJson",
-            "plistFile": "",
-            "resourceType": 0
-          },
-          "isShowColliderRect": false,
-          "selectedactionname": "Animation1"
-        }
-      ]
-    },
-    {
-      "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
-      "classname": "CCNode",
-      "name": null,
-      "canedit": true,
-      "objecttag": 10016,
-      "rotation": 0,
-      "scalex": 1,
-      "scaley": 1,
-      "visible": 1,
-      "x": 1112.886474609375,
-      "y": 301.39901733398438,
-      "zorder": 1,
-      "gameobjects": [],
-      "components": [
-        {
-          "__type": "ComArmatureAdapterSurrogate:#EditorCommon.JsonModel.Component",
-          "classname": "CCArmature",
-          "name": "CCArmature",
-          "file": null,
-          "fileData": {
-            "path": "publish/ani_c01fairy_l03fish_puffer.ExportJson",
-            "plistFile": "",
-            "resourceType": 0
-          },
-          "isShowColliderRect": false,
-          "selectedactionname": "Animation1"
-        }
-      ]
-    },
-    {
-      "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
-      "classname": "CCNode",
-      "name": null,
-      "canedit": true,
-      "objecttag": 10017,
-      "rotation": 0,
-      "scalex": 1,
-      "scaley": 1,
-      "visible": 1,
-      "x": 688.341064453125,
-      "y": 408.67172241210938,
-      "zorder": 1,
-      "gameobjects": [],
-      "components": [
-        {
-          "__type": "ComArmatureAdapterSurrogate:#EditorCommon.JsonModel.Component",
-          "classname": "CCArmature",
-          "name": "CCArmature",
-          "file": null,
-          "fileData": {
-            "path": "publish/ani_c01fairy_l03fish_shark.ExportJson",
-            "plistFile": "",
-            "resourceType": 0
-          },
-          "isShowColliderRect": false,
-          "selectedactionname": "Animation1"
-        }
-      ]
-    }
-  ],
-  "CanvasSize": {
-    "_height": 768,
-    "_width": 1365
-  },
-  "Triggers": null,
-  "Version": "1.5.0.0",
-  "components": [
-    {
-      "__type": "ComSceneSurrogate:#EditorCommon.JsonModel.Component",
-      "classname": "CCScene",
-      "name": "CCScene",
-      "scenename": "scn_c01fairy_l03fish"
-    },
-    {
-      "__type": "ComSimpleAudioSurrogate:#EditorCommon.JsonModel.Component",
-      "classname": "CCBackgroundAudio",
-      "name": "CCBackgroundAudio",
-      "file": null,
-      "fileData": {
-        "path": null,
-        "plistFile": null,
-        "resourceType": 0
-      },
-      "loop": 0
-    }
-  ]
-}
+[
+  "publish/ani_c01fairy_l03fish_acaleph0.png",
+  "publish/ui_c01fairy0.png",
+  "publish/ui_c01fairy1.png",
+  "publish/ani_c01fairy_l03fish_numbfish0.png",
+  "publish/ani_c01fairy_l03fish_puffer0.png",
+  "publish/ani_c01fairy_l03fish_puffer1.png",
+  "publish/ani_c01fairy_l03fish_shark0.png",
+  "publish/ani_c01fairy_l03fish_ending0.png",
+  "publish/ani_c01fairy_l03fish_ending1.png",
+  "publish/ani_c01fairy_l03fish_ending2.png",
+  "publish/ani_c01fairy_l03fish_ending3.png",
+  "publish/ani_c01fairy_l03fish_ending4.png",
+  "publish/ani_c01fairy_l02sleep_spider0.png",
+  "publish/ani_c01fairy_l02sleep_firedragon0.png",
+  "publish/ani_c02fairy_l02sleep_dragon0.png",
+  "publish/ani_c01fairy_l02sleep_cat0.png",
+  "publish/ani_c01fairy_l02sleep_pumpkin0.png",
+  "publish/ani_c01fairy_l02sleep_raven0.png",
+  "publish/ani_c01fairy_l02sleep_skeleton0.png",
+  "publish/ani_c01fairy_l02sleep_ending0.png",
+  "publish/ani_c01fairy_l02sleep_ending1.png",
+  "publish/ani_c01fairy_l02sleep_ending2.png",
+  "publish/ani_c01fairy_l02sleep_ending3.png",
+  "publish/ani_c01fairy_l02sleep_ending4.png",
+  "publish/ani_c01fairy_l02sleep_ending5.png",
+  "publish/ani_c01fairy_l02sleep_ending6.png",
+  "publish/ani_c01fairy_l02sleep_ending7.png",
+  "publish/ani_c01fairy_l02sleep_ending8.png",
+  "publish/ani_c01fairy_l02sleep_ending9.png",
+  "publish/ani_c01fairy_l02sleep_bat0.png",
+  "publish/ani_c01fairy_l04radish_pumpkin0.png",
+  "publish/ani_c01fairy_l04radish_watermelon0.png",
+  "publish/ani_c01fairy_l04radish_eggplant0.png",
+  "publish/ani_c01fairy_l04radish_ending0.png",
+  "publish/ani_c01fairy_l04radish_ending1.png",
+  "publish\\scn_c01fairy_l03fish.json",
+  "C:\\Users\\Render\\Documents\\GitHub\\maze\\maze-ccs\\CocoStudio\\assets\\publish\\ui_c01fairy0.plist",
+  "C:\\Users\\Render\\Documents\\GitHub\\maze\\maze-ccs\\CocoStudio\\assets\\publish\\ui_c01fairy1.plist",
+  "C:\\Users\\Render\\Documents\\GitHub\\maze\\maze-ccs\\CocoStudio\\assets\\publish\\ani_c01fairy_l03fish_acaleph0.plist",
+  "C:\\Users\\Render\\Documents\\GitHub\\maze\\maze-ccs\\CocoStudio\\assets\\publish\\ani_c01fairy_l03fish_numbfish0.plist",
+  "C:\\Users\\Render\\Documents\\GitHub\\maze\\maze-ccs\\CocoStudio\\assets\\publish\\ani_c01fairy_l03fish_puffer0.plist",
+  "C:\\Users\\Render\\Documents\\GitHub\\maze\\maze-ccs\\CocoStudio\\assets\\publish\\ani_c01fairy_l03fish_puffer1.plist",
+  "C:\\Users\\Render\\Documents\\GitHub\\maze\\maze-ccs\\CocoStudio\\assets\\publish\\ani_c01fairy_l03fish_shark0.plist",
+  "C:\\Users\\Render\\Documents\\GitHub\\maze\\maze-ccs\\CocoStudio\\assets\\publish\\ani_c01fairy_l03fish_ending0.plist",
+  "C:\\Users\\Render\\Documents\\GitHub\\maze\\maze-ccs\\CocoStudio\\assets\\publish\\ani_c01fairy_l03fish_ending1.plist",
+  "C:\\Users\\Render\\Documents\\GitHub\\maze\\maze-ccs\\CocoStudio\\assets\\publish\\ani_c01fairy_l03fish_ending2.plist",
+  "C:\\Users\\Render\\Documents\\GitHub\\maze\\maze-ccs\\CocoStudio\\assets\\publish\\ani_c01fairy_l03fish_ending3.plist",
+  "C:\\Users\\Render\\Documents\\GitHub\\maze\\maze-ccs\\CocoStudio\\assets\\publish\\ani_c01fairy_l03fish_ending4.plist",
+  "publish/ani_c01fairy_l03fish_acaleph.ExportJson",
+  "publish/ani_c01fairy_l03fish_numbfish.ExportJson",
+  "publish/ani_c01fairy_l03fish_puffer.ExportJson",
+  "publish/ani_c01fairy_l03fish_shark.ExportJson",
+  "publish/ani_c01fairy_l03fish_ending.ExportJson",
+  "publish/ui_c01fairy_l03fish.ExportJson"
+]
