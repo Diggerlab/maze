@@ -10,19 +10,9 @@
   "designHeight": 768,
   "designWidth": 1365,
   "textures": [
-    "ui_c01fairy0.plist",
-    "ui_c01fairy1.plist"
+    "ui_c01fairy0.plist"
   ],
-  "texturesPng": [
-    "ui_c01fairy0.png",
-    "ui_c01fairy1.png",
-    "ui_c01fairy0.png",
-    "ui_c01fairy1.png",
-    "ui_c01fairy0.png",
-    "ui_c01fairy1.png",
-    "ui_c01fairy0.png",
-    "ui_c01fairy1.png"
-  ],
+  "texturesPng": [],
   "version": "1.5.0.0",
   "widgetTree": {
     "classname": "Panel",

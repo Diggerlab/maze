@@ -34,5 +34,5 @@
     <string>ui_c01fairy1.png</string>
   </imagePngList>
   <JsonSuffix>.json</JsonSuffix>
-  <CurrentUIJson>ui_c01fairy_l02sleep.json</CurrentUIJson>
+  <CurrentUIJson>ui_c01fairy_l04radish.json</CurrentUIJson>
 </UIProject>

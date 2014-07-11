@@ -10,9 +10,19 @@
   "designHeight": 768,
   "designWidth": 1365,
   "textures": [
-    "ui_c01fairy0.plist"
+    "ui_c01fairy0.plist",
+    "ui_c01fairy1.plist"
   ],
-  "texturesPng": [],
+  "texturesPng": [
+    "ui_c01fairy0.png",
+    "ui_c01fairy1.png",
+    "ui_c01fairy0.png",
+    "ui_c01fairy1.png",
+    "ui_c01fairy0.png",
+    "ui_c01fairy1.png",
+    "ui_c01fairy0.png",
+    "ui_c01fairy1.png"
+  ],
   "version": "1.5.0.0",
   "widgetTree": {
     "classname": "Panel",
@@ -9299,6 +9309,60 @@
               "scale9Enable": false,
               "scale9Height": 52,
               "scale9Width": 58
+            }
+          },
+          {
+            "classname": "ImageView",
+            "name": null,
+            "children": [],
+            "options": {
+              "__type": "ImageViewSurrogate:#EditorCommon.JsonModel.Component.GUI",
+              "classname": "ImageView",
+              "name": "ic_flower",
+              "ZOrder": 12,
+              "actiontag": 45326617,
+              "anchorPointX": 0.5,
+              "anchorPointY": 0.5,
+              "classType": "CocoStudio.EngineAdapterWrap.CSImageView",
+              "colorB": 255,
+              "colorG": 255,
+              "colorR": 255,
+              "customProperty": "",
+              "flipX": false,
+              "flipY": false,
+              "height": 258,
+              "ignoreSize": true,
+              "layoutParameter": null,
+              "opacity": 255,
+              "positionPercentX": 0.6029304,
+              "positionPercentY": 0.167968735,
+              "positionType": 0,
+              "rotation": 0,
+              "scaleX": 1,
+              "scaleY": 1,
+              "sizePercentX": 0.05860806,
+              "sizePercentY": 0.104166664,
+              "sizeType": 0,
+              "tag": 1604,
+              "touchAble": false,
+              "useMergedTexture": false,
+              "visible": true,
+              "width": 744,
+              "x": 823,
+              "y": 128,
+              "capInsetsHeight": 1,
+              "capInsetsWidth": 1,
+              "capInsetsX": 0,
+              "capInsetsY": 0,
+              "fileName": null,
+              "fileNameData": {
+                "path": "ui/c01_fairy/l04_radish/flower.PNG",
+                "plistFile": "",
+                "resourceType": 0
+              },
+              "scale9Enable": false,
+              "scale9Height": 258,
+              "scale9Width": 744
             }
           }
         ],
