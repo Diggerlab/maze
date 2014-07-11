@@ -38,6 +38,126 @@
           }
         }
       ]
+    },
+    {
+      "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+      "classname": "CCNode",
+      "name": null,
+      "canedit": true,
+      "objecttag": 10014,
+      "rotation": 0,
+      "scalex": 1,
+      "scaley": 1,
+      "visible": 1,
+      "x": 670.5,
+      "y": 625,
+      "zorder": 1,
+      "gameobjects": [],
+      "components": [
+        {
+          "__type": "ComArmatureAdapterSurrogate:#EditorCommon.JsonModel.Component",
+          "classname": "CCArmature",
+          "name": "CCArmature",
+          "file": null,
+          "fileData": {
+            "path": "publish/ani_c01fairy_l03fish_acaleph.ExportJson",
+            "plistFile": "",
+            "resourceType": 0
+          },
+          "isShowColliderRect": false,
+          "selectedactionname": "Animation1"
+        }
+      ]
+    },
+    {
+      "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+      "classname": "CCNode",
+      "name": null,
+      "canedit": true,
+      "objecttag": 10015,
+      "rotation": 0,
+      "scalex": 1,
+      "scaley": 1,
+      "visible": 1,
+      "x": 892.86358642578125,
+      "y": 260.09088134765625,
+      "zorder": 1,
+      "gameobjects": [],
+      "components": [
+        {
+          "__type": "ComArmatureAdapterSurrogate:#EditorCommon.JsonModel.Component",
+          "classname": "CCArmature",
+          "name": "CCArmature",
+          "file": null,
+          "fileData": {
+            "path": "publish/ani_c01fairy_l03fish_numbfish.ExportJson",
+            "plistFile": "",
+            "resourceType": 0
+          },
+          "isShowColliderRect": false,
+          "selectedactionname": "Animation1"
+        }
+      ]
+    },
+    {
+      "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+      "classname": "CCNode",
+      "name": null,
+      "canedit": true,
+      "objecttag": 10016,
+      "rotation": 0,
+      "scalex": 1,
+      "scaley": 1,
+      "visible": 1,
+      "x": 1112.886474609375,
+      "y": 301.39901733398438,
+      "zorder": 1,
+      "gameobjects": [],
+      "components": [
+        {
+          "__type": "ComArmatureAdapterSurrogate:#EditorCommon.JsonModel.Component",
+          "classname": "CCArmature",
+          "name": "CCArmature",
+          "file": null,
+          "fileData": {
+            "path": "publish/ani_c01fairy_l03fish_puffer.ExportJson",
+            "plistFile": "",
+            "resourceType": 0
+          },
+          "isShowColliderRect": false,
+          "selectedactionname": "Animation1"
+        }
+      ]
+    },
+    {
+      "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+      "classname": "CCNode",
+      "name": null,
+      "canedit": true,
+      "objecttag": 10017,
+      "rotation": 0,
+      "scalex": 1,
+      "scaley": 1,
+      "visible": 1,
+      "x": 688.341064453125,
+      "y": 408.67172241210938,
+      "zorder": 1,
+      "gameobjects": [],
+      "components": [
+        {
+          "__type": "ComArmatureAdapterSurrogate:#EditorCommon.JsonModel.Component",
+          "classname": "CCArmature",
+          "name": "CCArmature",
+          "file": null,
+          "fileData": {
+            "path": "publish/ani_c01fairy_l03fish_shark.ExportJson",
+            "plistFile": "",
+            "resourceType": 0
+          },
+          "isShowColliderRect": false,
+          "selectedactionname": "Animation1"
+        }
+      ]
     }
   ],
   "CanvasSize": {

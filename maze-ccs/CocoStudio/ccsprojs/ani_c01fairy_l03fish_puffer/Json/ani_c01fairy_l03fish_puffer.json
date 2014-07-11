@@ -2,8 +2,8 @@
   "content_scale": 1.0,
   "armature_data": [
     {
-      "strVersion": "1.4.0.1",
-      "version": 1.401,
+      "strVersion": "1.5.0.0",
+      "version": 1.5,
       "name": "ani_c01fairy_l03fish_puffer",
       "bone_data": [
         {
@@ -104,6 +104,20 @@
                   "kY": 0.0
                 }
               ]
+            },
+            {
+              "name": "animation/c01_fairy/l03_fish/puffer/puffer_07.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
             }
           ]
         }
@@ -116,7 +130,7 @@
       "mov_data": [
         {
           "name": "Animation1",
-          "dr": 13,
+          "dr": 14,
           "lp": false,
           "to": 0,
           "drTW": 0,
@@ -128,7 +142,7 @@
               "dl": 0.0,
               "frame_data": [
                 {
-                  "dI": 0,
+                  "dI": 6,
                   "x": 0.0,
                   "y": 0.0,
                   "z": 0,
@@ -141,6 +155,19 @@
                   "tweenFrame": true
                 },
                 {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 0.4999999,
+                  "cY": 0.4999999,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 1,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
                   "dI": 1,
                   "x": 0.0,
                   "y": 0.0,
@@ -149,7 +176,7 @@
                   "cY": 0.4999999,
                   "kX": 0.0,
                   "kY": 0.0,
-                  "fi": 2,
+                  "fi": 3,
                   "twE": 0,
                   "tweenFrame": true
                 },
@@ -162,7 +189,7 @@
                   "cY": 0.4999999,
                   "kX": 0.0,
                   "kY": 0.0,
-                  "fi": 4,
+                  "fi": 5,
                   "twE": 0,
                   "tweenFrame": true
                 },
@@ -175,7 +202,7 @@
                   "cY": 0.4999999,
                   "kX": 0.0,
                   "kY": 0.0,
-                  "fi": 6,
+                  "fi": 7,
                   "twE": 0,
                   "tweenFrame": true
                 },
@@ -188,7 +215,7 @@
                   "cY": 0.4999999,
                   "kX": 0.0,
                   "kY": 0.0,
-                  "fi": 10,
+                  "fi": 11,
                   "twE": 0,
                   "tweenFrame": true
                 },
@@ -201,7 +228,7 @@
                   "cY": 0.4999999,
                   "kX": 0.0,
                   "kY": 0.0,
-                  "fi": 12,
+                  "fi": 13,
                   "twE": 0,
                   "tweenFrame": true
                 }
@@ -255,8 +282,16 @@
     },
     {
       "name": "animation/c01_fairy/l03_fish/puffer/puffer_06",
-      "width": 0.0,
-      "height": 0.0,
+      "width": 801.0,
+      "height": 615.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "animation/c01_fairy/l03_fish/puffer/puffer_07",
+      "width": 801.0,
+      "height": 615.0,
       "pX": 0.5,
       "pY": 0.5,
       "plistFile": ""

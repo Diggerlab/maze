@@ -121,7 +121,7 @@
           "name": "CCArmature",
           "file": null,
           "fileData": {
-            "path": "publish/ani_c02fairy_l02sleep_dragon.ExportJson",
+            "path": "publish/ani_c01fairy_l02sleep_dragon.ExportJson",
             "plistFile": "",
             "resourceType": 0
           },
@@ -230,8 +230,8 @@
       "scalex": 1,
       "scaley": 1,
       "visible": 1,
-      "x": 904.77374267578125,
-      "y": 533.18255615234375,
+      "x": 902.551513671875,
+      "y": 529.8492431640625,
       "zorder": 1,
       "gameobjects": [],
       "components": [
@@ -242,6 +242,66 @@
           "file": null,
           "fileData": {
             "path": "publish/ani_c01fairy_l02sleep_skeleton.ExportJson",
+            "plistFile": "",
+            "resourceType": 0
+          },
+          "isShowColliderRect": false,
+          "selectedactionname": "Animation1"
+        }
+      ]
+    },
+    {
+      "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+      "classname": "CCNode",
+      "name": null,
+      "canedit": true,
+      "objecttag": 10032,
+      "rotation": 0,
+      "scalex": 0.5,
+      "scaley": 0.5,
+      "visible": 1,
+      "x": 683.50018310546875,
+      "y": 385.55560302734375,
+      "zorder": 1,
+      "gameobjects": [],
+      "components": [
+        {
+          "__type": "ComArmatureAdapterSurrogate:#EditorCommon.JsonModel.Component",
+          "classname": "CCArmature",
+          "name": "CCArmature",
+          "file": null,
+          "fileData": {
+            "path": "publish/ani_c01fairy_l02sleep_ending.ExportJson",
+            "plistFile": "",
+            "resourceType": 0
+          },
+          "isShowColliderRect": false,
+          "selectedactionname": "Animation1"
+        }
+      ]
+    },
+    {
+      "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+      "classname": "CCNode",
+      "name": null,
+      "canedit": true,
+      "objecttag": 10033,
+      "rotation": 0,
+      "scalex": 0.5,
+      "scaley": 0.5,
+      "visible": 1,
+      "x": 976.666748046875,
+      "y": 468.166748046875,
+      "zorder": 1,
+      "gameobjects": [],
+      "components": [
+        {
+          "__type": "ComArmatureAdapterSurrogate:#EditorCommon.JsonModel.Component",
+          "classname": "CCArmature",
+          "name": "CCArmature",
+          "file": null,
+          "fileData": {
+            "path": "publish/ani_c01fairy_l02sleep_bat.ExportJson",
             "plistFile": "",
             "resourceType": 0
           },

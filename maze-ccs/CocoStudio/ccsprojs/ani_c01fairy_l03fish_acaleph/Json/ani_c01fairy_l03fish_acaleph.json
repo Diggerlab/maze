@@ -2,8 +2,8 @@
   "content_scale": 1.0,
   "armature_data": [
     {
-      "strVersion": "1.4.0.1",
-      "version": 1.401,
+      "strVersion": "1.5.0.0",
+      "version": 1.5,
       "name": "ani_c01fairy_l03fish_acaleph",
       "bone_data": [
         {
@@ -102,8 +102,8 @@
       "mov_data": [
         {
           "name": "Animation1",
-          "dr": 20,
-          "lp": true,
+          "dr": 21,
+          "lp": false,
           "to": 0,
           "drTW": 0,
           "twE": 0,
@@ -114,7 +114,7 @@
               "dl": 0.0,
               "frame_data": [
                 {
-                  "dI": 0,
+                  "dI": 4,
                   "x": 0.0,
                   "y": 0.0,
                   "z": 0,
@@ -127,6 +127,19 @@
                   "tweenFrame": true
                 },
                 {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 1,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
                   "dI": 1,
                   "x": 0.0,
                   "y": 0.0,
@@ -135,7 +148,7 @@
                   "cY": 1.0,
                   "kX": 0.0,
                   "kY": 0.0,
-                  "fi": 3,
+                  "fi": 4,
                   "twE": 0,
                   "tweenFrame": true
                 },
@@ -148,7 +161,7 @@
                   "cY": 1.0,
                   "kX": 0.0,
                   "kY": 0.0,
-                  "fi": 7,
+                  "fi": 8,
                   "twE": 0,
                   "tweenFrame": true
                 },
@@ -161,7 +174,7 @@
                   "cY": 1.0,
                   "kX": 0.0,
                   "kY": 0.0,
-                  "fi": 13,
+                  "fi": 14,
                   "twE": 0,
                   "tweenFrame": true
                 },
@@ -174,7 +187,7 @@
                   "cY": 1.0,
                   "kX": 0.0,
                   "kY": 0.0,
-                  "fi": 19,
+                  "fi": 20,
                   "twE": 0,
                   "tweenFrame": true
                 }
@@ -188,8 +201,8 @@
   "texture_data": [
     {
       "name": "animation/c01_fairy/l03_fish/acaleph/acaleph_01",
-      "width": 0.0,
-      "height": 0.0,
+      "width": 293.0,
+      "height": 185.0,
       "pX": 0.5,
       "pY": 0.5,
       "plistFile": ""
