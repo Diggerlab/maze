@@ -91,9 +91,9 @@
 				<key>originalHeight</key>
 				<integer>180</integer>
 				<key>x</key>
-				<integer>0</integer>
+				<integer>976</integer>
 				<key>y</key>
-				<integer>182</integer>
+				<integer>0</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -110,9 +110,9 @@
 				<key>originalHeight</key>
 				<integer>180</integer>
 				<key>x</key>
-				<integer>244</integer>
+				<integer>1220</integer>
 				<key>y</key>
-				<integer>182</integer>
+				<integer>0</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -129,9 +129,9 @@
 				<key>originalHeight</key>
 				<integer>180</integer>
 				<key>x</key>
-				<integer>488</integer>
+				<integer>1464</integer>
 				<key>y</key>
-				<integer>182</integer>
+				<integer>0</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -148,9 +148,9 @@
 				<key>originalHeight</key>
 				<integer>180</integer>
 				<key>x</key>
-				<integer>732</integer>
+				<integer>1708</integer>
 				<key>y</key>
-				<integer>182</integer>
+				<integer>0</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -169,7 +169,7 @@
 				<key>x</key>
 				<integer>0</integer>
 				<key>y</key>
-				<integer>364</integer>
+				<integer>182</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -188,7 +188,7 @@
 				<key>x</key>
 				<integer>244</integer>
 				<key>y</key>
-				<integer>364</integer>
+				<integer>182</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -204,14 +204,14 @@
 			<key>realTextureFileName</key>
 			<string>ani_c01fairy_l04radish_eggplant0.png</string>
 			<key>size</key>
-			<string>{1024,1024}</string>
+			<string>{2048,2048}</string>
 		</dict>
 		<key>texture</key>
 		<dict>
 			<key>width</key>
-			<integer>1024</integer>
+			<integer>2048</integer>
 			<key>height</key>
-			<integer>1024</integer>
+			<integer>2048</integer>
 		</dict>
 	</dict>
 </plist>

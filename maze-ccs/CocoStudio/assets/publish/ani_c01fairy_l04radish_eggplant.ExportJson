@@ -2,14 +2,14 @@
   "content_scale": 1.0,
   "armature_data": [
     {
-      "strVersion": "1.4.0.1",
-      "version": 1.401,
+      "strVersion": "1.5.0.0",
+      "version": 1.5,
       "name": "ani_c01fairy_l04radish_eggplant",
       "bone_data": [
         {
           "name": "Layer2",
           "parent": "",
-          "dI": 3,
+          "dI": 0,
           "x": -0.5,
           "y": 1.67333984375,
           "z": 2,
@@ -82,7 +82,7 @@
         {
           "name": "Layer1",
           "parent": "",
-          "dI": 5,
+          "dI": 0,
           "x": -0.5,
           "y": 1.67333984375,
           "z": 1,
@@ -210,6 +210,25 @@
                   "kX": 0.0,
                   "kY": 0.0,
                   "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 0,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  }
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 1,
                   "twE": 0,
                   "tweenFrame": true
                 },

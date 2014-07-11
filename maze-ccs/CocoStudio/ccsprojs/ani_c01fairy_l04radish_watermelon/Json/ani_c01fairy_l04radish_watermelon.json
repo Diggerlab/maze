@@ -2,8 +2,8 @@
   "content_scale": 1.0,
   "armature_data": [
     {
-      "strVersion": "1.4.0.1",
-      "version": 1.401,
+      "strVersion": "1.5.0.0",
+      "version": 1.5,
       "name": "ani_c01fairy_l04radish_watermelon",
       "bone_data": [
         {
@@ -210,6 +210,25 @@
                   "kX": 0.0,
                   "kY": 0.0,
                   "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 0,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  }
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 1,
                   "twE": 0,
                   "tweenFrame": true
                 },
@@ -516,8 +535,8 @@
     },
     {
       "name": "animation/c01_fairy/l04_radish/watermelon/watermelon_07",
-      "width": 0.0,
-      "height": 0.0,
+      "width": 291.0,
+      "height": 112.0,
       "pX": 0.5,
       "pY": 0.5,
       "plistFile": ""

@@ -72,9 +72,9 @@
 				<key>originalHeight</key>
 				<integer>112</integer>
 				<key>x</key>
-				<integer>0</integer>
+				<integer>879</integer>
 				<key>y</key>
-				<integer>114</integer>
+				<integer>0</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -91,9 +91,9 @@
 				<key>originalHeight</key>
 				<integer>112</integer>
 				<key>x</key>
-				<integer>293</integer>
+				<integer>1172</integer>
 				<key>y</key>
-				<integer>114</integer>
+				<integer>0</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -110,9 +110,9 @@
 				<key>originalHeight</key>
 				<integer>112</integer>
 				<key>x</key>
-				<integer>586</integer>
+				<integer>1465</integer>
 				<key>y</key>
-				<integer>114</integer>
+				<integer>0</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -131,7 +131,7 @@
 				<key>x</key>
 				<integer>0</integer>
 				<key>y</key>
-				<integer>228</integer>
+				<integer>114</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -150,7 +150,7 @@
 				<key>x</key>
 				<integer>293</integer>
 				<key>y</key>
-				<integer>228</integer>
+				<integer>114</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -169,7 +169,7 @@
 				<key>x</key>
 				<integer>586</integer>
 				<key>y</key>
-				<integer>228</integer>
+				<integer>114</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -186,9 +186,9 @@
 				<key>originalHeight</key>
 				<integer>112</integer>
 				<key>x</key>
-				<integer>0</integer>
+				<integer>879</integer>
 				<key>y</key>
-				<integer>342</integer>
+				<integer>114</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -204,14 +204,14 @@
 			<key>realTextureFileName</key>
 			<string>ani_c01fairy_l04radish_watermelon0.png</string>
 			<key>size</key>
-			<string>{1024,1024}</string>
+			<string>{2048,2048}</string>
 		</dict>
 		<key>texture</key>
 		<dict>
 			<key>width</key>
-			<integer>1024</integer>
+			<integer>2048</integer>
 			<key>height</key>
-			<integer>1024</integer>
+			<integer>2048</integer>
 		</dict>
 	</dict>
 </plist>
