@@ -240,7 +240,7 @@
         {
           "__type": "ComGUIAdapterSurrogate:#EditorCommon.JsonModel.Component",
           "classname": "GUIComponent",
-          "name": "ui_main",
+          "name": "GUIComponent",
           "file": null,
           "fileData": {
             "path": "publish/ui_c01fairy_l01duck.ExportJson",

@@ -10,7 +10,8 @@
   "designHeight": 768,
   "designWidth": 1365,
   "textures": [
-    "ui_c01fairy0.plist"
+    "ui_c01fairy0.plist",
+    "ui_c01fairy1.plist"
   ],
   "texturesPng": [],
   "version": "1.5.0.0",
