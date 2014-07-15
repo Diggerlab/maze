@@ -9,7 +9,7 @@
         {
           "name": "Layer1",
           "parent": "",
-          "dI": 21,
+          "dI": 69,
           "x": 49.5,
           "y": 20.67333984375,
           "z": 1,
@@ -1012,7 +1012,7 @@
       "mov_data": [
         {
           "name": "Animation1",
-          "dr": 70,
+          "dr": 71,
           "lp": false,
           "to": 0,
           "drTW": 0,
@@ -1932,6 +1932,19 @@
                   "fi": 69,
                   "twE": 0,
                   "tweenFrame": true
+                },
+                {
+                  "dI": 69,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 70,
+                  "twE": 0,
+                  "tweenFrame": true
                 }
               ]
             }
@@ -2487,8 +2500,8 @@
     },
     {
       "name": "animation/c01_fairy/l03_fish/ending/a0069",
-      "width": 0.0,
-      "height": 0.0,
+      "width": 615.0,
+      "height": 399.0,
       "pX": 0.5,
       "pY": 0.5,
       "plistFile": ""

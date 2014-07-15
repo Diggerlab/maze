@@ -21,9 +21,10 @@
   <ResRelativePath>\\..\\..\\assets</ResRelativePath>
   <imageFileList>
     <string>ui_c01fairy0.plist</string>
-    <string>ui_c01fairy1.plist</string>
   </imageFileList>
-  <imagePngList />
+  <imagePngList>
+    <string>ui_c01fairy0.png</string>
+  </imagePngList>
   <JsonSuffix>.json</JsonSuffix>
   <CurrentUIJson>ui_c01fairy_l03fish.json</CurrentUIJson>
 </UIProject>

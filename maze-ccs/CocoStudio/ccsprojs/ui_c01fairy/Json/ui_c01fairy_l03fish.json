@@ -10,10 +10,11 @@
   "designHeight": 768,
   "designWidth": 1365,
   "textures": [
-    "ui_c01fairy0.plist",
-    "ui_c01fairy1.plist"
+    "ui_c01fairy0.plist"
   ],
-  "texturesPng": [],
+  "texturesPng": [
+    "ui_c01fairy0.png"
+  ],
   "version": "1.5.0.0",
   "widgetTree": {
     "classname": "Panel",
@@ -4745,7 +4746,7 @@
             "options": {
               "__type": "ImageViewSurrogate:#EditorCommon.JsonModel.Component.GUI",
               "classname": "ImageView",
-              "name": "A087_E",
+              "name": "A087",
               "ZOrder": 0,
               "actiontag": 14014710,
               "anchorPointX": 0.5,
