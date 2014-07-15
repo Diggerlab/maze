@@ -1784,7 +1784,7 @@
             "options": {
               "__type": "ImageViewSurrogate:#EditorCommon.JsonModel.Component.GUI",
               "classname": "ImageView",
-              "name": "0A32",
+              "name": "A032",
               "ZOrder": 0,
               "actiontag": 3185471,
               "anchorPointX": 0.5,
@@ -4430,7 +4430,7 @@
             "options": {
               "__type": "ImageViewSurrogate:#EditorCommon.JsonModel.Component.GUI",
               "classname": "ImageView",
-              "name": "A081_E",
+              "name": "A081",
               "ZOrder": 0,
               "actiontag": 58105065,
               "anchorPointX": 0.5,

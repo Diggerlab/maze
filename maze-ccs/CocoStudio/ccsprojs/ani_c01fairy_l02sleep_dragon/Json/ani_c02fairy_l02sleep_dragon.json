@@ -88,8 +88,8 @@
       "mov_data": [
         {
           "name": "Animation1",
-          "dr": 28,
-          "lp": false,
+          "dr": 51,
+          "lp": true,
           "to": 0,
           "drTW": 0,
           "twE": 0,
@@ -161,6 +161,19 @@
                   "kX": 0.0,
                   "kY": 0.0,
                   "fi": 27,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 50,
                   "twE": 0,
                   "tweenFrame": true
                 }

@@ -9,7 +9,7 @@
         {
           "name": "Layer2",
           "parent": "",
-          "dI": 0,
+          "dI": 2,
           "x": -2.5,
           "y": 1.67333984375,
           "z": 2,
@@ -280,7 +280,7 @@
                   "kY": 0.0,
                   "fi": 34,
                   "twE": 0,
-                  "tweenFrame": false
+                  "tweenFrame": true
                 },
                 {
                   "dI": 2,

@@ -91,9 +91,9 @@
 				<key>originalHeight</key>
 				<integer>145</integer>
 				<key>x</key>
-				<integer>488</integer>
-				<key>y</key>
 				<integer>0</integer>
+				<key>y</key>
+				<integer>147</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -110,9 +110,9 @@
 				<key>originalHeight</key>
 				<integer>145</integer>
 				<key>x</key>
-				<integer>610</integer>
+				<integer>122</integer>
 				<key>y</key>
-				<integer>0</integer>
+				<integer>147</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -129,9 +129,9 @@
 				<key>originalHeight</key>
 				<integer>145</integer>
 				<key>x</key>
-				<integer>732</integer>
-				<key>y</key>
 				<integer>0</integer>
+				<key>y</key>
+				<integer>294</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -148,9 +148,9 @@
 				<key>originalHeight</key>
 				<integer>145</integer>
 				<key>x</key>
-				<integer>854</integer>
+				<integer>244</integer>
 				<key>y</key>
-				<integer>0</integer>
+				<integer>147</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -166,14 +166,14 @@
 			<key>realTextureFileName</key>
 			<string>ani_c01fairy_l02sleep_raven0.png</string>
 			<key>size</key>
-			<string>{1024,1024}</string>
+			<string>{2048,2048}</string>
 		</dict>
 		<key>texture</key>
 		<dict>
 			<key>width</key>
-			<integer>1024</integer>
+			<integer>2048</integer>
 			<key>height</key>
-			<integer>1024</integer>
+			<integer>2048</integer>
 		</dict>
 	</dict>
 </plist>

@@ -34,9 +34,9 @@
 				<key>originalHeight</key>
 				<integer>200</integer>
 				<key>x</key>
-				<integer>277</integer>
-				<key>y</key>
 				<integer>0</integer>
+				<key>y</key>
+				<integer>202</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -53,7 +53,7 @@
 				<key>originalHeight</key>
 				<integer>200</integer>
 				<key>x</key>
-				<integer>554</integer>
+				<integer>277</integer>
 				<key>y</key>
 				<integer>0</integer>
 				<key>offsetX</key>
@@ -72,7 +72,7 @@
 				<key>originalHeight</key>
 				<integer>200</integer>
 				<key>x</key>
-				<integer>0</integer>
+				<integer>277</integer>
 				<key>y</key>
 				<integer>202</integer>
 				<key>offsetX</key>
@@ -90,14 +90,14 @@
 			<key>realTextureFileName</key>
 			<string>ani_c02fairy_l02sleep_dragon0.png</string>
 			<key>size</key>
-			<string>{1024,1024}</string>
+			<string>{2048,2048}</string>
 		</dict>
 		<key>texture</key>
 		<dict>
 			<key>width</key>
-			<integer>1024</integer>
+			<integer>2048</integer>
 			<key>height</key>
-			<integer>1024</integer>
+			<integer>2048</integer>
 		</dict>
 	</dict>
 </plist>

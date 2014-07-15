@@ -72,9 +72,9 @@
 				<key>originalHeight</key>
 				<integer>638</integer>
 				<key>x</key>
-				<integer>842</integer>
+				<integer>0</integer>
 				<key>y</key>
-				<integer>640</integer>
+				<integer>1280</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -91,9 +91,9 @@
 				<key>originalHeight</key>
 				<integer>638</integer>
 				<key>x</key>
-				<integer>0</integer>
+				<integer>842</integer>
 				<key>y</key>
-				<integer>1280</integer>
+				<integer>640</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>

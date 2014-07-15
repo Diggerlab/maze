@@ -1,21 +1,19 @@
 <?xml version="1.0"?>
 <AnimationProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <ProjectDir>E:\project\diggerlab\maze\maze-ccs\CocoStudio\ccsprojs\ani_c01fairy_l01duck_dog</ProjectDir>
+  <ProjectDir>C:\Users\Render\Documents\GitHub\maze\maze-ccs\CocoStudio\ccsprojs\ani_c01fairy_l01duck_dog</ProjectDir>
   <Version>1.4.0.1</Version>
-  <Resources>E:\project\diggerlab\maze\maze-ccs\CocoStudio\assets</Resources>
+  <Resources>C:\Users\Render\Documents\GitHub\maze\maze-ccs\CocoStudio\assets</Resources>
   <Name>ani_c01fairy_l01duck_dog</Name>
   <JsonFileName>ani_c01fairy_l01duck_dog.json</JsonFileName>
-  <JsonFolder>E:\project\diggerlab\maze\maze-ccs\CocoStudio\ccsprojs\ani_c01fairy_l01duck_dog\Json</JsonFolder>
+  <JsonFolder>C:\Users\Render\Documents\GitHub\maze\maze-ccs\CocoStudio\ccsprojs\ani_c01fairy_l01duck_dog\Json</JsonFolder>
   <JsonList />
   <CanvasSize>
     <Width>0</Width>
     <Height>0</Height>
   </CanvasSize>
-  <filePath>E:\project\diggerlab\maze\maze-ccs\CocoStudio\ccsprojs\ani_c01fairy_l01duck_dog\ani_c01fairy_l01duck_dog.xml.animation</filePath>
+  <filePath>C:\Users\Render\Documents\GitHub\maze\maze-ccs\CocoStudio\ccsprojs\ani_c01fairy_l01duck_dog\ani_c01fairy_l01duck_dog.xml.animation</filePath>
   <ProjectType>AnimationProject</ProjectType>
   <ResRelativePath>\\..\\..\\assets</ResRelativePath>
-  <ResourceFileList>
-    <string>ani_c01fairy_l01duck_dog0.plist</string>
-  </ResourceFileList>
+  <ResourceFileList />
   <bBatchImage>true</bBatchImage>
 </AnimationProject>

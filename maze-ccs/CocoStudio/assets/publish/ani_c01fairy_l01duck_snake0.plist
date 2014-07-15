@@ -110,9 +110,9 @@
 				<key>originalHeight</key>
 				<integer>104</integer>
 				<key>x</key>
-				<integer>0</integer>
+				<integer>995</integer>
 				<key>y</key>
-				<integer>106</integer>
+				<integer>0</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -128,14 +128,14 @@
 			<key>realTextureFileName</key>
 			<string>ani_c01fairy_l01duck_snake0.png</string>
 			<key>size</key>
-			<string>{1024,1024}</string>
+			<string>{2048,2048}</string>
 		</dict>
 		<key>texture</key>
 		<dict>
 			<key>width</key>
-			<integer>1024</integer>
+			<integer>2048</integer>
 			<key>height</key>
-			<integer>1024</integer>
+			<integer>2048</integer>
 		</dict>
 	</dict>
 </plist>
