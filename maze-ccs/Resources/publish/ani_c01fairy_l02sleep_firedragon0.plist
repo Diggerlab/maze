@@ -7,13 +7,13 @@
 			<key>animation/c01_fairy/l02_sleep/firedragon/firedragon_1.png</key>
 			<dict>
 				<key>width</key>
-				<integer>497</integer>
+				<integer>993</integer>
 				<key>height</key>
-				<integer>224</integer>
+				<integer>448</integer>
 				<key>originalWidth</key>
-				<integer>497</integer>
+				<integer>993</integer>
 				<key>originalHeight</key>
-				<integer>224</integer>
+				<integer>448</integer>
 				<key>x</key>
 				<integer>0</integer>
 				<key>y</key>
@@ -26,17 +26,17 @@
 			<key>animation/c01_fairy/l02_sleep/firedragon/firedragon_2.png</key>
 			<dict>
 				<key>width</key>
-				<integer>497</integer>
+				<integer>993</integer>
 				<key>height</key>
-				<integer>224</integer>
+				<integer>448</integer>
 				<key>originalWidth</key>
-				<integer>497</integer>
+				<integer>993</integer>
 				<key>originalHeight</key>
-				<integer>224</integer>
+				<integer>448</integer>
 				<key>x</key>
-				<integer>499</integer>
-				<key>y</key>
 				<integer>0</integer>
+				<key>y</key>
+				<integer>450</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -45,17 +45,17 @@
 			<key>animation/c01_fairy/l02_sleep/firedragon/firedragon_3.png</key>
 			<dict>
 				<key>width</key>
-				<integer>497</integer>
+				<integer>993</integer>
 				<key>height</key>
-				<integer>224</integer>
+				<integer>448</integer>
 				<key>originalWidth</key>
-				<integer>497</integer>
+				<integer>993</integer>
 				<key>originalHeight</key>
-				<integer>224</integer>
+				<integer>448</integer>
 				<key>x</key>
-				<integer>0</integer>
+				<integer>995</integer>
 				<key>y</key>
-				<integer>226</integer>
+				<integer>0</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -64,17 +64,17 @@
 			<key>animation/c01_fairy/l02_sleep/firedragon/firedragon_4.png</key>
 			<dict>
 				<key>width</key>
-				<integer>497</integer>
+				<integer>993</integer>
 				<key>height</key>
-				<integer>224</integer>
+				<integer>448</integer>
 				<key>originalWidth</key>
-				<integer>497</integer>
+				<integer>993</integer>
 				<key>originalHeight</key>
-				<integer>224</integer>
+				<integer>448</integer>
 				<key>x</key>
-				<integer>499</integer>
+				<integer>995</integer>
 				<key>y</key>
-				<integer>226</integer>
+				<integer>450</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -83,17 +83,17 @@
 			<key>animation/c01_fairy/l02_sleep/firedragon/firedragon_5.png</key>
 			<dict>
 				<key>width</key>
-				<integer>497</integer>
+				<integer>993</integer>
 				<key>height</key>
-				<integer>224</integer>
+				<integer>448</integer>
 				<key>originalWidth</key>
-				<integer>497</integer>
+				<integer>993</integer>
 				<key>originalHeight</key>
-				<integer>224</integer>
+				<integer>448</integer>
 				<key>x</key>
 				<integer>0</integer>
 				<key>y</key>
-				<integer>452</integer>
+				<integer>900</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -102,17 +102,17 @@
 			<key>animation/c01_fairy/l02_sleep/firedragon/firedragon_6.png</key>
 			<dict>
 				<key>width</key>
-				<integer>497</integer>
+				<integer>993</integer>
 				<key>height</key>
-				<integer>224</integer>
+				<integer>448</integer>
 				<key>originalWidth</key>
-				<integer>497</integer>
+				<integer>993</integer>
 				<key>originalHeight</key>
-				<integer>224</integer>
+				<integer>448</integer>
 				<key>x</key>
-				<integer>499</integer>
+				<integer>0</integer>
 				<key>y</key>
-				<integer>452</integer>
+				<integer>1350</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -121,17 +121,17 @@
 			<key>animation/c01_fairy/l02_sleep/firedragon/firedragon_7.png</key>
 			<dict>
 				<key>width</key>
-				<integer>497</integer>
+				<integer>993</integer>
 				<key>height</key>
-				<integer>224</integer>
+				<integer>448</integer>
 				<key>originalWidth</key>
-				<integer>497</integer>
+				<integer>993</integer>
 				<key>originalHeight</key>
-				<integer>224</integer>
+				<integer>448</integer>
 				<key>x</key>
-				<integer>0</integer>
+				<integer>995</integer>
 				<key>y</key>
-				<integer>678</integer>
+				<integer>900</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -147,14 +147,14 @@
 			<key>realTextureFileName</key>
 			<string>ani_c01fairy_l02sleep_firedragon0.png</string>
 			<key>size</key>
-			<string>{1024,1024}</string>
+			<string>{2048,2048}</string>
 		</dict>
 		<key>texture</key>
 		<dict>
 			<key>width</key>
-			<integer>1024</integer>
+			<integer>2048</integer>
 			<key>height</key>
-			<integer>1024</integer>
+			<integer>2048</integer>
 		</dict>
 	</dict>
 </plist>

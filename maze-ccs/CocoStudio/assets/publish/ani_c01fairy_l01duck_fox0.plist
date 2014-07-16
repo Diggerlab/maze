@@ -7,13 +7,13 @@
 			<key>animation/c01_fairy/l01_duck/fox/fox_5.png</key>
 			<dict>
 				<key>width</key>
-				<integer>227</integer>
+				<integer>453</integer>
 				<key>height</key>
-				<integer>118</integer>
+				<integer>236</integer>
 				<key>originalWidth</key>
-				<integer>227</integer>
+				<integer>453</integer>
 				<key>originalHeight</key>
-				<integer>118</integer>
+				<integer>236</integer>
 				<key>x</key>
 				<integer>0</integer>
 				<key>y</key>
@@ -26,17 +26,17 @@
 			<key>animation/c01_fairy/l01_duck/fox/fox_6.png</key>
 			<dict>
 				<key>width</key>
-				<integer>227</integer>
+				<integer>453</integer>
 				<key>height</key>
-				<integer>118</integer>
+				<integer>236</integer>
 				<key>originalWidth</key>
-				<integer>227</integer>
+				<integer>453</integer>
 				<key>originalHeight</key>
-				<integer>118</integer>
+				<integer>236</integer>
 				<key>x</key>
 				<integer>0</integer>
 				<key>y</key>
-				<integer>120</integer>
+				<integer>238</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -45,15 +45,15 @@
 			<key>animation/c01_fairy/l01_duck/fox/fox_1.png</key>
 			<dict>
 				<key>width</key>
-				<integer>227</integer>
+				<integer>453</integer>
 				<key>height</key>
-				<integer>118</integer>
+				<integer>236</integer>
 				<key>originalWidth</key>
-				<integer>227</integer>
+				<integer>453</integer>
 				<key>originalHeight</key>
-				<integer>118</integer>
+				<integer>236</integer>
 				<key>x</key>
-				<integer>229</integer>
+				<integer>455</integer>
 				<key>y</key>
 				<integer>0</integer>
 				<key>offsetX</key>
@@ -64,17 +64,17 @@
 			<key>animation/c01_fairy/l01_duck/fox/fox_2.png</key>
 			<dict>
 				<key>width</key>
-				<integer>227</integer>
+				<integer>453</integer>
 				<key>height</key>
-				<integer>118</integer>
+				<integer>236</integer>
 				<key>originalWidth</key>
-				<integer>227</integer>
+				<integer>453</integer>
 				<key>originalHeight</key>
-				<integer>118</integer>
+				<integer>236</integer>
 				<key>x</key>
-				<integer>229</integer>
+				<integer>455</integer>
 				<key>y</key>
-				<integer>120</integer>
+				<integer>238</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -83,17 +83,17 @@
 			<key>animation/c01_fairy/l01_duck/fox/fox_3.png</key>
 			<dict>
 				<key>width</key>
-				<integer>227</integer>
+				<integer>453</integer>
 				<key>height</key>
-				<integer>118</integer>
+				<integer>236</integer>
 				<key>originalWidth</key>
-				<integer>227</integer>
+				<integer>453</integer>
 				<key>originalHeight</key>
-				<integer>118</integer>
+				<integer>236</integer>
 				<key>x</key>
 				<integer>0</integer>
 				<key>y</key>
-				<integer>240</integer>
+				<integer>476</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -102,17 +102,17 @@
 			<key>animation/c01_fairy/l01_duck/fox/fox_4.png</key>
 			<dict>
 				<key>width</key>
-				<integer>227</integer>
+				<integer>453</integer>
 				<key>height</key>
-				<integer>118</integer>
+				<integer>236</integer>
 				<key>originalWidth</key>
-				<integer>227</integer>
+				<integer>453</integer>
 				<key>originalHeight</key>
-				<integer>118</integer>
+				<integer>236</integer>
 				<key>x</key>
 				<integer>0</integer>
 				<key>y</key>
-				<integer>360</integer>
+				<integer>714</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>

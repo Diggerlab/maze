@@ -9,7 +9,7 @@
         {
           "name": "Layer1",
           "parent": "",
-          "dI": 3,
+          "dI": 5,
           "x": 3.5,
           "y": -1.32666015625,
           "z": 1,
@@ -201,6 +201,19 @@
                   "cY": 1.0,
                   "kX": 0.0,
                   "kY": 0.0,
+                  "fi": 28,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 5,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
                   "fi": 29,
                   "twE": 0,
                   "tweenFrame": true
@@ -247,16 +260,16 @@
     },
     {
       "name": "animation/c01_fairy/l02_sleep/spider/spider_5",
-      "width": 102.0,
-      "height": 92.0,
+      "width": 204.0,
+      "height": 184.0,
       "pX": 0.5,
       "pY": 0.5,
       "plistFile": ""
     },
     {
       "name": "animation/c01_fairy/l02_sleep/spider/spider_6",
-      "width": 102.0,
-      "height": 92.0,
+      "width": 204.0,
+      "height": 184.0,
       "pX": 0.5,
       "pY": 0.5,
       "plistFile": ""

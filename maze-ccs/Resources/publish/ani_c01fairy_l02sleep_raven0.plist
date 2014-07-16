@@ -7,13 +7,13 @@
 			<key>animation/c01_fairy/l02_sleep/raven/raven_6.png</key>
 			<dict>
 				<key>width</key>
-				<integer>120</integer>
+				<integer>240</integer>
 				<key>height</key>
-				<integer>145</integer>
+				<integer>290</integer>
 				<key>originalWidth</key>
-				<integer>120</integer>
+				<integer>240</integer>
 				<key>originalHeight</key>
-				<integer>145</integer>
+				<integer>290</integer>
 				<key>x</key>
 				<integer>0</integer>
 				<key>y</key>
@@ -26,15 +26,15 @@
 			<key>animation/c01_fairy/l02_sleep/raven/raven_7.png</key>
 			<dict>
 				<key>width</key>
-				<integer>120</integer>
+				<integer>240</integer>
 				<key>height</key>
-				<integer>145</integer>
+				<integer>290</integer>
 				<key>originalWidth</key>
-				<integer>120</integer>
+				<integer>240</integer>
 				<key>originalHeight</key>
-				<integer>145</integer>
+				<integer>290</integer>
 				<key>x</key>
-				<integer>122</integer>
+				<integer>242</integer>
 				<key>y</key>
 				<integer>0</integer>
 				<key>offsetX</key>
@@ -45,15 +45,15 @@
 			<key>animation/c01_fairy/l02_sleep/raven/raven_8.png</key>
 			<dict>
 				<key>width</key>
-				<integer>120</integer>
+				<integer>240</integer>
 				<key>height</key>
-				<integer>145</integer>
+				<integer>290</integer>
 				<key>originalWidth</key>
-				<integer>120</integer>
+				<integer>240</integer>
 				<key>originalHeight</key>
-				<integer>145</integer>
+				<integer>290</integer>
 				<key>x</key>
-				<integer>244</integer>
+				<integer>484</integer>
 				<key>y</key>
 				<integer>0</integer>
 				<key>offsetX</key>
@@ -64,15 +64,15 @@
 			<key>animation/c01_fairy/l02_sleep/raven/raven_1.png</key>
 			<dict>
 				<key>width</key>
-				<integer>120</integer>
+				<integer>240</integer>
 				<key>height</key>
-				<integer>145</integer>
+				<integer>290</integer>
 				<key>originalWidth</key>
-				<integer>120</integer>
+				<integer>240</integer>
 				<key>originalHeight</key>
-				<integer>145</integer>
+				<integer>290</integer>
 				<key>x</key>
-				<integer>366</integer>
+				<integer>726</integer>
 				<key>y</key>
 				<integer>0</integer>
 				<key>offsetX</key>
@@ -83,17 +83,17 @@
 			<key>animation/c01_fairy/l02_sleep/raven/raven_2.png</key>
 			<dict>
 				<key>width</key>
-				<integer>120</integer>
+				<integer>240</integer>
 				<key>height</key>
-				<integer>145</integer>
+				<integer>290</integer>
 				<key>originalWidth</key>
-				<integer>120</integer>
+				<integer>240</integer>
 				<key>originalHeight</key>
-				<integer>145</integer>
+				<integer>290</integer>
 				<key>x</key>
-				<integer>488</integer>
-				<key>y</key>
 				<integer>0</integer>
+				<key>y</key>
+				<integer>292</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -102,17 +102,17 @@
 			<key>animation/c01_fairy/l02_sleep/raven/raven_3.png</key>
 			<dict>
 				<key>width</key>
-				<integer>120</integer>
+				<integer>240</integer>
 				<key>height</key>
-				<integer>145</integer>
+				<integer>290</integer>
 				<key>originalWidth</key>
-				<integer>120</integer>
+				<integer>240</integer>
 				<key>originalHeight</key>
-				<integer>145</integer>
+				<integer>290</integer>
 				<key>x</key>
-				<integer>610</integer>
+				<integer>242</integer>
 				<key>y</key>
-				<integer>0</integer>
+				<integer>292</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -121,17 +121,17 @@
 			<key>animation/c01_fairy/l02_sleep/raven/raven_4.png</key>
 			<dict>
 				<key>width</key>
-				<integer>120</integer>
+				<integer>240</integer>
 				<key>height</key>
-				<integer>145</integer>
+				<integer>290</integer>
 				<key>originalWidth</key>
-				<integer>120</integer>
+				<integer>240</integer>
 				<key>originalHeight</key>
-				<integer>145</integer>
+				<integer>290</integer>
 				<key>x</key>
-				<integer>732</integer>
-				<key>y</key>
 				<integer>0</integer>
+				<key>y</key>
+				<integer>584</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -140,17 +140,17 @@
 			<key>animation/c01_fairy/l02_sleep/raven/raven_5.png</key>
 			<dict>
 				<key>width</key>
-				<integer>120</integer>
+				<integer>240</integer>
 				<key>height</key>
-				<integer>145</integer>
+				<integer>290</integer>
 				<key>originalWidth</key>
-				<integer>120</integer>
+				<integer>240</integer>
 				<key>originalHeight</key>
-				<integer>145</integer>
+				<integer>290</integer>
 				<key>x</key>
-				<integer>854</integer>
+				<integer>484</integer>
 				<key>y</key>
-				<integer>0</integer>
+				<integer>292</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -166,14 +166,14 @@
 			<key>realTextureFileName</key>
 			<string>ani_c01fairy_l02sleep_raven0.png</string>
 			<key>size</key>
-			<string>{1024,1024}</string>
+			<string>{2048,2048}</string>
 		</dict>
 		<key>texture</key>
 		<dict>
 			<key>width</key>
-			<integer>1024</integer>
+			<integer>2048</integer>
 			<key>height</key>
-			<integer>1024</integer>
+			<integer>2048</integer>
 		</dict>
 	</dict>
 </plist>

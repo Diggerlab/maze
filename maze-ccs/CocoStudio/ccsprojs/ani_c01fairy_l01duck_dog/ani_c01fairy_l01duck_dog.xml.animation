@@ -14,6 +14,8 @@
   <filePath>C:\Users\Render\Documents\GitHub\maze\maze-ccs\CocoStudio\ccsprojs\ani_c01fairy_l01duck_dog\ani_c01fairy_l01duck_dog.xml.animation</filePath>
   <ProjectType>AnimationProject</ProjectType>
   <ResRelativePath>\\..\\..\\assets</ResRelativePath>
-  <ResourceFileList />
+  <ResourceFileList>
+    <string>ani_c01fairy_l01duck_dog0.plist</string>
+  </ResourceFileList>
   <bBatchImage>true</bBatchImage>
 </AnimationProject>

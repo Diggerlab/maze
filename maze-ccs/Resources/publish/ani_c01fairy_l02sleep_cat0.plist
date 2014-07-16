@@ -7,13 +7,13 @@
 			<key>animation/c01_fairy/l02_sleep/cat/cat_1.png</key>
 			<dict>
 				<key>width</key>
-				<integer>202</integer>
+				<integer>403</integer>
 				<key>height</key>
-				<integer>215</integer>
+				<integer>430</integer>
 				<key>originalWidth</key>
-				<integer>202</integer>
+				<integer>403</integer>
 				<key>originalHeight</key>
-				<integer>215</integer>
+				<integer>430</integer>
 				<key>x</key>
 				<integer>0</integer>
 				<key>y</key>
@@ -26,15 +26,15 @@
 			<key>animation/c01_fairy/l02_sleep/cat/cat_2.png</key>
 			<dict>
 				<key>width</key>
-				<integer>202</integer>
+				<integer>403</integer>
 				<key>height</key>
-				<integer>215</integer>
+				<integer>430</integer>
 				<key>originalWidth</key>
-				<integer>202</integer>
+				<integer>403</integer>
 				<key>originalHeight</key>
-				<integer>215</integer>
+				<integer>430</integer>
 				<key>x</key>
-				<integer>204</integer>
+				<integer>405</integer>
 				<key>y</key>
 				<integer>0</integer>
 				<key>offsetX</key>
@@ -45,17 +45,17 @@
 			<key>animation/c01_fairy/l02_sleep/cat/cat_3.png</key>
 			<dict>
 				<key>width</key>
-				<integer>202</integer>
+				<integer>403</integer>
 				<key>height</key>
-				<integer>215</integer>
+				<integer>430</integer>
 				<key>originalWidth</key>
-				<integer>202</integer>
+				<integer>403</integer>
 				<key>originalHeight</key>
-				<integer>215</integer>
+				<integer>430</integer>
 				<key>x</key>
-				<integer>408</integer>
-				<key>y</key>
 				<integer>0</integer>
+				<key>y</key>
+				<integer>432</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -64,17 +64,17 @@
 			<key>animation/c01_fairy/l02_sleep/cat/cat_4.png</key>
 			<dict>
 				<key>width</key>
-				<integer>202</integer>
+				<integer>403</integer>
 				<key>height</key>
-				<integer>215</integer>
+				<integer>430</integer>
 				<key>originalWidth</key>
-				<integer>202</integer>
+				<integer>403</integer>
 				<key>originalHeight</key>
-				<integer>215</integer>
+				<integer>430</integer>
 				<key>x</key>
-				<integer>612</integer>
+				<integer>405</integer>
 				<key>y</key>
-				<integer>0</integer>
+				<integer>432</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -83,15 +83,15 @@
 			<key>animation/c01_fairy/l02_sleep/cat/cat_5.png</key>
 			<dict>
 				<key>width</key>
-				<integer>202</integer>
+				<integer>403</integer>
 				<key>height</key>
-				<integer>215</integer>
+				<integer>430</integer>
 				<key>originalWidth</key>
-				<integer>202</integer>
+				<integer>403</integer>
 				<key>originalHeight</key>
-				<integer>215</integer>
+				<integer>430</integer>
 				<key>x</key>
-				<integer>816</integer>
+				<integer>810</integer>
 				<key>y</key>
 				<integer>0</integer>
 				<key>offsetX</key>
@@ -102,17 +102,17 @@
 			<key>animation/c01_fairy/l02_sleep/cat/cat_6.png</key>
 			<dict>
 				<key>width</key>
-				<integer>202</integer>
+				<integer>403</integer>
 				<key>height</key>
-				<integer>215</integer>
+				<integer>430</integer>
 				<key>originalWidth</key>
-				<integer>202</integer>
+				<integer>403</integer>
 				<key>originalHeight</key>
-				<integer>215</integer>
+				<integer>430</integer>
 				<key>x</key>
-				<integer>0</integer>
+				<integer>1215</integer>
 				<key>y</key>
-				<integer>217</integer>
+				<integer>0</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -121,17 +121,17 @@
 			<key>animation/c01_fairy/l02_sleep/cat/cat_7.png</key>
 			<dict>
 				<key>width</key>
-				<integer>202</integer>
+				<integer>403</integer>
 				<key>height</key>
-				<integer>215</integer>
+				<integer>430</integer>
 				<key>originalWidth</key>
-				<integer>202</integer>
+				<integer>403</integer>
 				<key>originalHeight</key>
-				<integer>215</integer>
+				<integer>430</integer>
 				<key>x</key>
-				<integer>204</integer>
+				<integer>810</integer>
 				<key>y</key>
-				<integer>217</integer>
+				<integer>432</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -147,14 +147,14 @@
 			<key>realTextureFileName</key>
 			<string>ani_c01fairy_l02sleep_cat0.png</string>
 			<key>size</key>
-			<string>{1024,1024}</string>
+			<string>{2048,2048}</string>
 		</dict>
 		<key>texture</key>
 		<dict>
 			<key>width</key>
-			<integer>1024</integer>
+			<integer>2048</integer>
 			<key>height</key>
-			<integer>1024</integer>
+			<integer>2048</integer>
 		</dict>
 	</dict>
 </plist>

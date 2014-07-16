@@ -68,7 +68,7 @@
         {
           "name": "Layer1",
           "parent": "",
-          "dI": 0,
+          "dI": 1,
           "x": -1.5,
           "y": -1.32666015625,
           "z": 1,
@@ -286,6 +286,25 @@
                     "g": 255,
                     "b": 255
                   }
+                },
+                {
+                  "dI": 2,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 31,
+                  "twE": 0,
+                  "tweenFrame": false,
+                  "color": {
+                    "a": 0,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  }
                 }
               ]
             },
@@ -481,8 +500,8 @@
     },
     {
       "name": "animation/c01_fairy/l02_sleep/pumpkin/pumpkin_7",
-      "width": 147.0,
-      "height": 86.0,
+      "width": 294.0,
+      "height": 172.0,
       "pX": 0.5,
       "pY": 0.5,
       "plistFile": ""

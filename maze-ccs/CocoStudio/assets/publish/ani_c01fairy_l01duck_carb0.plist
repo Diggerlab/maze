@@ -7,13 +7,13 @@
 			<key>animation/c01_fairy/l01_duck/carb/crab_5.png</key>
 			<dict>
 				<key>width</key>
-				<integer>95</integer>
+				<integer>189</integer>
 				<key>height</key>
-				<integer>123</integer>
+				<integer>246</integer>
 				<key>originalWidth</key>
-				<integer>95</integer>
+				<integer>189</integer>
 				<key>originalHeight</key>
-				<integer>123</integer>
+				<integer>246</integer>
 				<key>x</key>
 				<integer>0</integer>
 				<key>y</key>
@@ -26,15 +26,15 @@
 			<key>animation/c01_fairy/l01_duck/carb/crab_6.png</key>
 			<dict>
 				<key>width</key>
-				<integer>95</integer>
+				<integer>189</integer>
 				<key>height</key>
-				<integer>123</integer>
+				<integer>246</integer>
 				<key>originalWidth</key>
-				<integer>95</integer>
+				<integer>189</integer>
 				<key>originalHeight</key>
-				<integer>123</integer>
+				<integer>246</integer>
 				<key>x</key>
-				<integer>97</integer>
+				<integer>191</integer>
 				<key>y</key>
 				<integer>0</integer>
 				<key>offsetX</key>
@@ -45,17 +45,17 @@
 			<key>animation/c01_fairy/l01_duck/carb/crab_7.png</key>
 			<dict>
 				<key>width</key>
-				<integer>95</integer>
+				<integer>189</integer>
 				<key>height</key>
-				<integer>123</integer>
+				<integer>246</integer>
 				<key>originalWidth</key>
-				<integer>95</integer>
+				<integer>189</integer>
 				<key>originalHeight</key>
-				<integer>123</integer>
+				<integer>246</integer>
 				<key>x</key>
 				<integer>0</integer>
 				<key>y</key>
-				<integer>125</integer>
+				<integer>248</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -64,17 +64,17 @@
 			<key>animation/c01_fairy/l01_duck/carb/crab_1.png</key>
 			<dict>
 				<key>width</key>
-				<integer>95</integer>
+				<integer>189</integer>
 				<key>height</key>
-				<integer>123</integer>
+				<integer>246</integer>
 				<key>originalWidth</key>
-				<integer>95</integer>
+				<integer>189</integer>
 				<key>originalHeight</key>
-				<integer>123</integer>
+				<integer>246</integer>
 				<key>x</key>
-				<integer>97</integer>
+				<integer>191</integer>
 				<key>y</key>
-				<integer>125</integer>
+				<integer>248</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -83,15 +83,15 @@
 			<key>animation/c01_fairy/l01_duck/carb/crab_2.png</key>
 			<dict>
 				<key>width</key>
-				<integer>95</integer>
+				<integer>189</integer>
 				<key>height</key>
-				<integer>123</integer>
+				<integer>246</integer>
 				<key>originalWidth</key>
-				<integer>95</integer>
+				<integer>189</integer>
 				<key>originalHeight</key>
-				<integer>123</integer>
+				<integer>246</integer>
 				<key>x</key>
-				<integer>194</integer>
+				<integer>382</integer>
 				<key>y</key>
 				<integer>0</integer>
 				<key>offsetX</key>
@@ -102,15 +102,15 @@
 			<key>animation/c01_fairy/l01_duck/carb/crab_3.png</key>
 			<dict>
 				<key>width</key>
-				<integer>95</integer>
+				<integer>189</integer>
 				<key>height</key>
-				<integer>123</integer>
+				<integer>246</integer>
 				<key>originalWidth</key>
-				<integer>95</integer>
+				<integer>189</integer>
 				<key>originalHeight</key>
-				<integer>123</integer>
+				<integer>246</integer>
 				<key>x</key>
-				<integer>291</integer>
+				<integer>573</integer>
 				<key>y</key>
 				<integer>0</integer>
 				<key>offsetX</key>
@@ -121,17 +121,17 @@
 			<key>animation/c01_fairy/l01_duck/carb/crab_4.png</key>
 			<dict>
 				<key>width</key>
-				<integer>95</integer>
+				<integer>189</integer>
 				<key>height</key>
-				<integer>123</integer>
+				<integer>246</integer>
 				<key>originalWidth</key>
-				<integer>95</integer>
+				<integer>189</integer>
 				<key>originalHeight</key>
-				<integer>123</integer>
+				<integer>246</integer>
 				<key>x</key>
-				<integer>194</integer>
+				<integer>382</integer>
 				<key>y</key>
-				<integer>125</integer>
+				<integer>248</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>

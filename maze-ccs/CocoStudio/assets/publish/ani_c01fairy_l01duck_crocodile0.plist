@@ -7,13 +7,13 @@
 			<key>animation/c01_fairy/l01_duck/crocodile/crocodile01.png</key>
 			<dict>
 				<key>width</key>
-				<integer>231</integer>
+				<integer>463</integer>
 				<key>height</key>
-				<integer>122</integer>
+				<integer>244</integer>
 				<key>originalWidth</key>
-				<integer>231</integer>
+				<integer>463</integer>
 				<key>originalHeight</key>
-				<integer>122</integer>
+				<integer>244</integer>
 				<key>x</key>
 				<integer>0</integer>
 				<key>y</key>
@@ -26,17 +26,17 @@
 			<key>animation/c01_fairy/l01_duck/crocodile/crocodile06.png</key>
 			<dict>
 				<key>width</key>
-				<integer>231</integer>
+				<integer>463</integer>
 				<key>height</key>
-				<integer>122</integer>
+				<integer>244</integer>
 				<key>originalWidth</key>
-				<integer>231</integer>
+				<integer>463</integer>
 				<key>originalHeight</key>
-				<integer>122</integer>
+				<integer>244</integer>
 				<key>x</key>
 				<integer>0</integer>
 				<key>y</key>
-				<integer>124</integer>
+				<integer>246</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -45,15 +45,15 @@
 			<key>animation/c01_fairy/l01_duck/crocodile/crocodile02.png</key>
 			<dict>
 				<key>width</key>
-				<integer>231</integer>
+				<integer>463</integer>
 				<key>height</key>
-				<integer>122</integer>
+				<integer>244</integer>
 				<key>originalWidth</key>
-				<integer>231</integer>
+				<integer>463</integer>
 				<key>originalHeight</key>
-				<integer>122</integer>
+				<integer>244</integer>
 				<key>x</key>
-				<integer>233</integer>
+				<integer>465</integer>
 				<key>y</key>
 				<integer>0</integer>
 				<key>offsetX</key>
@@ -64,17 +64,17 @@
 			<key>animation/c01_fairy/l01_duck/crocodile/crocodile03.png</key>
 			<dict>
 				<key>width</key>
-				<integer>231</integer>
+				<integer>463</integer>
 				<key>height</key>
-				<integer>122</integer>
+				<integer>244</integer>
 				<key>originalWidth</key>
-				<integer>231</integer>
+				<integer>463</integer>
 				<key>originalHeight</key>
-				<integer>122</integer>
+				<integer>244</integer>
 				<key>x</key>
-				<integer>233</integer>
+				<integer>465</integer>
 				<key>y</key>
-				<integer>124</integer>
+				<integer>246</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -83,17 +83,17 @@
 			<key>animation/c01_fairy/l01_duck/crocodile/crocodile04.png</key>
 			<dict>
 				<key>width</key>
-				<integer>231</integer>
+				<integer>463</integer>
 				<key>height</key>
-				<integer>122</integer>
+				<integer>244</integer>
 				<key>originalWidth</key>
-				<integer>231</integer>
+				<integer>463</integer>
 				<key>originalHeight</key>
-				<integer>122</integer>
+				<integer>244</integer>
 				<key>x</key>
 				<integer>0</integer>
 				<key>y</key>
-				<integer>248</integer>
+				<integer>492</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -102,17 +102,17 @@
 			<key>animation/c01_fairy/l01_duck/crocodile/crocodile05.png</key>
 			<dict>
 				<key>width</key>
-				<integer>231</integer>
+				<integer>463</integer>
 				<key>height</key>
-				<integer>122</integer>
+				<integer>244</integer>
 				<key>originalWidth</key>
-				<integer>231</integer>
+				<integer>463</integer>
 				<key>originalHeight</key>
-				<integer>122</integer>
+				<integer>244</integer>
 				<key>x</key>
 				<integer>0</integer>
 				<key>y</key>
-				<integer>372</integer>
+				<integer>738</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>

@@ -14,6 +14,17 @@
   <filePath>C:\Users\Render\Documents\GitHub\maze\maze-ccs\CocoStudio\ccsprojs\ani_c01fairy_l02sleep_ending\ani_c01fairy_l02sleep_ending.xml.animation</filePath>
   <ProjectType>AnimationProject</ProjectType>
   <ResRelativePath>\\..\\..\\assets</ResRelativePath>
-  <ResourceFileList />
+  <ResourceFileList>
+    <string>ani_c01fairy_l02sleep_ending0.plist</string>
+    <string>ani_c01fairy_l02sleep_ending1.plist</string>
+    <string>ani_c01fairy_l02sleep_ending2.plist</string>
+    <string>ani_c01fairy_l02sleep_ending3.plist</string>
+    <string>ani_c01fairy_l02sleep_ending4.plist</string>
+    <string>ani_c01fairy_l02sleep_ending5.plist</string>
+    <string>ani_c01fairy_l02sleep_ending6.plist</string>
+    <string>ani_c01fairy_l02sleep_ending7.plist</string>
+    <string>ani_c01fairy_l02sleep_ending8.plist</string>
+    <string>ani_c01fairy_l02sleep_ending9.plist</string>
+  </ResourceFileList>
   <bBatchImage>true</bBatchImage>
 </AnimationProject>

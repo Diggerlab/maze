@@ -7,13 +7,13 @@
 			<key>animation/c01_fairy/l01_duck/chicken/chicken_05.png</key>
 			<dict>
 				<key>width</key>
-				<integer>113</integer>
+				<integer>226</integer>
 				<key>height</key>
-				<integer>175</integer>
+				<integer>350</integer>
 				<key>originalWidth</key>
-				<integer>113</integer>
+				<integer>226</integer>
 				<key>originalHeight</key>
-				<integer>175</integer>
+				<integer>350</integer>
 				<key>x</key>
 				<integer>0</integer>
 				<key>y</key>
@@ -26,15 +26,15 @@
 			<key>animation/c01_fairy/l01_duck/chicken/chicken_06.png</key>
 			<dict>
 				<key>width</key>
-				<integer>113</integer>
+				<integer>226</integer>
 				<key>height</key>
-				<integer>175</integer>
+				<integer>350</integer>
 				<key>originalWidth</key>
-				<integer>113</integer>
+				<integer>226</integer>
 				<key>originalHeight</key>
-				<integer>175</integer>
+				<integer>350</integer>
 				<key>x</key>
-				<integer>115</integer>
+				<integer>228</integer>
 				<key>y</key>
 				<integer>0</integer>
 				<key>offsetX</key>
@@ -45,15 +45,15 @@
 			<key>animation/c01_fairy/l01_duck/chicken/chicken_07.png</key>
 			<dict>
 				<key>width</key>
-				<integer>113</integer>
+				<integer>226</integer>
 				<key>height</key>
-				<integer>175</integer>
+				<integer>350</integer>
 				<key>originalWidth</key>
-				<integer>113</integer>
+				<integer>226</integer>
 				<key>originalHeight</key>
-				<integer>175</integer>
+				<integer>350</integer>
 				<key>x</key>
-				<integer>230</integer>
+				<integer>456</integer>
 				<key>y</key>
 				<integer>0</integer>
 				<key>offsetX</key>
@@ -64,15 +64,15 @@
 			<key>animation/c01_fairy/l01_duck/chicken/chicken_01.png</key>
 			<dict>
 				<key>width</key>
-				<integer>113</integer>
+				<integer>226</integer>
 				<key>height</key>
-				<integer>175</integer>
+				<integer>350</integer>
 				<key>originalWidth</key>
-				<integer>113</integer>
+				<integer>226</integer>
 				<key>originalHeight</key>
-				<integer>175</integer>
+				<integer>350</integer>
 				<key>x</key>
-				<integer>345</integer>
+				<integer>684</integer>
 				<key>y</key>
 				<integer>0</integer>
 				<key>offsetX</key>
@@ -83,17 +83,17 @@
 			<key>animation/c01_fairy/l01_duck/chicken/chicken_02.png</key>
 			<dict>
 				<key>width</key>
-				<integer>113</integer>
+				<integer>226</integer>
 				<key>height</key>
-				<integer>175</integer>
+				<integer>350</integer>
 				<key>originalWidth</key>
-				<integer>113</integer>
+				<integer>226</integer>
 				<key>originalHeight</key>
-				<integer>175</integer>
+				<integer>350</integer>
 				<key>x</key>
 				<integer>0</integer>
 				<key>y</key>
-				<integer>177</integer>
+				<integer>352</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -102,17 +102,17 @@
 			<key>animation/c01_fairy/l01_duck/chicken/chicken_03.png</key>
 			<dict>
 				<key>width</key>
-				<integer>113</integer>
+				<integer>226</integer>
 				<key>height</key>
-				<integer>175</integer>
+				<integer>350</integer>
 				<key>originalWidth</key>
-				<integer>113</integer>
+				<integer>226</integer>
 				<key>originalHeight</key>
-				<integer>175</integer>
+				<integer>350</integer>
 				<key>x</key>
-				<integer>115</integer>
+				<integer>228</integer>
 				<key>y</key>
-				<integer>177</integer>
+				<integer>352</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -121,17 +121,17 @@
 			<key>animation/c01_fairy/l01_duck/chicken/chicken_04.png</key>
 			<dict>
 				<key>width</key>
-				<integer>113</integer>
+				<integer>226</integer>
 				<key>height</key>
-				<integer>175</integer>
+				<integer>350</integer>
 				<key>originalWidth</key>
-				<integer>113</integer>
+				<integer>226</integer>
 				<key>originalHeight</key>
-				<integer>175</integer>
+				<integer>350</integer>
 				<key>x</key>
-				<integer>230</integer>
+				<integer>456</integer>
 				<key>y</key>
-				<integer>177</integer>
+				<integer>352</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
