@@ -7,13 +7,13 @@
 			<key>animation/c01_fairy/l04_radish/eggplant/eggplant_07.png</key>
 			<dict>
 				<key>width</key>
-				<integer>242</integer>
+				<integer>484</integer>
 				<key>height</key>
-				<integer>180</integer>
+				<integer>360</integer>
 				<key>originalWidth</key>
-				<integer>242</integer>
+				<integer>484</integer>
 				<key>originalHeight</key>
-				<integer>180</integer>
+				<integer>360</integer>
 				<key>x</key>
 				<integer>0</integer>
 				<key>y</key>
@@ -26,15 +26,15 @@
 			<key>animation/c01_fairy/l04_radish/eggplant/eggplant_08.png</key>
 			<dict>
 				<key>width</key>
-				<integer>242</integer>
+				<integer>484</integer>
 				<key>height</key>
-				<integer>180</integer>
+				<integer>360</integer>
 				<key>originalWidth</key>
-				<integer>242</integer>
+				<integer>484</integer>
 				<key>originalHeight</key>
-				<integer>180</integer>
+				<integer>360</integer>
 				<key>x</key>
-				<integer>244</integer>
+				<integer>486</integer>
 				<key>y</key>
 				<integer>0</integer>
 				<key>offsetX</key>
@@ -45,17 +45,17 @@
 			<key>animation/c01_fairy/l04_radish/eggplant/eggplant_09.png</key>
 			<dict>
 				<key>width</key>
-				<integer>242</integer>
+				<integer>484</integer>
 				<key>height</key>
-				<integer>180</integer>
+				<integer>360</integer>
 				<key>originalWidth</key>
-				<integer>242</integer>
+				<integer>484</integer>
 				<key>originalHeight</key>
-				<integer>180</integer>
+				<integer>360</integer>
 				<key>x</key>
-				<integer>488</integer>
-				<key>y</key>
 				<integer>0</integer>
+				<key>y</key>
+				<integer>362</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -64,17 +64,17 @@
 			<key>animation/c01_fairy/l04_radish/eggplant/eggplant_10.png</key>
 			<dict>
 				<key>width</key>
-				<integer>242</integer>
+				<integer>484</integer>
 				<key>height</key>
-				<integer>180</integer>
+				<integer>360</integer>
 				<key>originalWidth</key>
-				<integer>242</integer>
+				<integer>484</integer>
 				<key>originalHeight</key>
-				<integer>180</integer>
+				<integer>360</integer>
 				<key>x</key>
-				<integer>732</integer>
+				<integer>486</integer>
 				<key>y</key>
-				<integer>0</integer>
+				<integer>362</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -83,15 +83,15 @@
 			<key>animation/c01_fairy/l04_radish/eggplant/eggplant_01.png</key>
 			<dict>
 				<key>width</key>
-				<integer>242</integer>
+				<integer>484</integer>
 				<key>height</key>
-				<integer>180</integer>
+				<integer>360</integer>
 				<key>originalWidth</key>
-				<integer>242</integer>
+				<integer>484</integer>
 				<key>originalHeight</key>
-				<integer>180</integer>
+				<integer>360</integer>
 				<key>x</key>
-				<integer>976</integer>
+				<integer>972</integer>
 				<key>y</key>
 				<integer>0</integer>
 				<key>offsetX</key>
@@ -102,17 +102,17 @@
 			<key>animation/c01_fairy/l04_radish/eggplant/eggplant_02.png</key>
 			<dict>
 				<key>width</key>
-				<integer>242</integer>
+				<integer>484</integer>
 				<key>height</key>
-				<integer>180</integer>
+				<integer>360</integer>
 				<key>originalWidth</key>
-				<integer>242</integer>
+				<integer>484</integer>
 				<key>originalHeight</key>
-				<integer>180</integer>
+				<integer>360</integer>
 				<key>x</key>
-				<integer>1220</integer>
+				<integer>972</integer>
 				<key>y</key>
-				<integer>0</integer>
+				<integer>362</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -121,15 +121,15 @@
 			<key>animation/c01_fairy/l04_radish/eggplant/eggplant_03.png</key>
 			<dict>
 				<key>width</key>
-				<integer>242</integer>
+				<integer>484</integer>
 				<key>height</key>
-				<integer>180</integer>
+				<integer>360</integer>
 				<key>originalWidth</key>
-				<integer>242</integer>
+				<integer>484</integer>
 				<key>originalHeight</key>
-				<integer>180</integer>
+				<integer>360</integer>
 				<key>x</key>
-				<integer>1464</integer>
+				<integer>1458</integer>
 				<key>y</key>
 				<integer>0</integer>
 				<key>offsetX</key>
@@ -140,17 +140,17 @@
 			<key>animation/c01_fairy/l04_radish/eggplant/eggplant_04.png</key>
 			<dict>
 				<key>width</key>
-				<integer>242</integer>
+				<integer>484</integer>
 				<key>height</key>
-				<integer>180</integer>
+				<integer>360</integer>
 				<key>originalWidth</key>
-				<integer>242</integer>
+				<integer>484</integer>
 				<key>originalHeight</key>
-				<integer>180</integer>
+				<integer>360</integer>
 				<key>x</key>
-				<integer>1708</integer>
+				<integer>1458</integer>
 				<key>y</key>
-				<integer>0</integer>
+				<integer>362</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -159,17 +159,17 @@
 			<key>animation/c01_fairy/l04_radish/eggplant/eggplant_05.png</key>
 			<dict>
 				<key>width</key>
-				<integer>242</integer>
+				<integer>484</integer>
 				<key>height</key>
-				<integer>180</integer>
+				<integer>360</integer>
 				<key>originalWidth</key>
-				<integer>242</integer>
+				<integer>484</integer>
 				<key>originalHeight</key>
-				<integer>180</integer>
+				<integer>360</integer>
 				<key>x</key>
 				<integer>0</integer>
 				<key>y</key>
-				<integer>182</integer>
+				<integer>724</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -178,17 +178,17 @@
 			<key>animation/c01_fairy/l04_radish/eggplant/eggplant_06.png</key>
 			<dict>
 				<key>width</key>
-				<integer>242</integer>
+				<integer>484</integer>
 				<key>height</key>
-				<integer>180</integer>
+				<integer>360</integer>
 				<key>originalWidth</key>
-				<integer>242</integer>
+				<integer>484</integer>
 				<key>originalHeight</key>
-				<integer>180</integer>
+				<integer>360</integer>
 				<key>x</key>
-				<integer>244</integer>
+				<integer>0</integer>
 				<key>y</key>
-				<integer>182</integer>
+				<integer>1086</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>

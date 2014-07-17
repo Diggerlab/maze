@@ -82,7 +82,7 @@
         {
           "name": "Layer1",
           "parent": "",
-          "dI": 5,
+          "dI": 2,
           "x": -4.5,
           "y": -2.32666015625,
           "z": 1,
@@ -354,6 +354,25 @@
                     "g": 255,
                     "b": 255
                   }
+                },
+                {
+                  "dI": 3,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 55,
+                  "twE": 0,
+                  "tweenFrame": false,
+                  "color": {
+                    "a": 0,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  }
                 }
               ]
             },
@@ -575,8 +594,8 @@
     },
     {
       "name": "animation/c01_fairy/l04_radish/pumpkin/pumpkin_06",
-      "width": 284.0,
-      "height": 133.0,
+      "width": 567.0,
+      "height": 266.0,
       "pX": 0.5,
       "pY": 0.5,
       "plistFile": ""
@@ -599,8 +618,8 @@
     },
     {
       "name": "animation/c01_fairy/l04_radish/pumpkin/pumpkin_10",
-      "width": 284.0,
-      "height": 133.0,
+      "width": 567.0,
+      "height": 266.0,
       "pX": 0.5,
       "pY": 0.5,
       "plistFile": ""
