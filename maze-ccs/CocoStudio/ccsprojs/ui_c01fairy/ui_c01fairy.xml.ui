@@ -11,6 +11,7 @@
     <string>ui_c01fairy_l02sleep.json</string>
     <string>ui_c01fairy_l03fish.json</string>
     <string>ui_c01fairy_l04radish.json</string>
+    <string>ui_c01fairy_l05aladin.json</string>
   </JsonList>
   <CanvasSize>
     <Width>1365</Width>
@@ -24,7 +25,23 @@
     <string>ui_c01fairy1.plist</string>
     <string>ui_c01fairy2.plist</string>
   </imageFileList>
-  <imagePngList />
+  <imagePngList>
+    <string>ui_c01fairy0.png</string>
+    <string>ui_c01fairy1.png</string>
+    <string>ui_c01fairy2.png</string>
+    <string>ui_c01fairy0.png</string>
+    <string>ui_c01fairy1.png</string>
+    <string>ui_c01fairy2.png</string>
+    <string>ui_c01fairy0.png</string>
+    <string>ui_c01fairy1.png</string>
+    <string>ui_c01fairy2.png</string>
+    <string>ui_c01fairy0.png</string>
+    <string>ui_c01fairy1.png</string>
+    <string>ui_c01fairy2.png</string>
+    <string>ui_c01fairy0.png</string>
+    <string>ui_c01fairy1.png</string>
+    <string>ui_c01fairy2.png</string>
+  </imagePngList>
   <JsonSuffix>.json</JsonSuffix>
-  <CurrentUIJson>ui_c01fairy_l04radish.json</CurrentUIJson>
+  <CurrentUIJson>ui_c01fairy_l05aladin.json</CurrentUIJson>
 </UIProject>

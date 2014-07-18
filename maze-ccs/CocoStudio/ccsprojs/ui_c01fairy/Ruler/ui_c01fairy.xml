@@ -16,4 +16,8 @@
     <Project>ui_c01fairy_l04radish</Project>
     <GuidesList />
   </GuidesProject>
+  <GuidesProject>
+    <Project>ui_c01fairy_l05aladin</Project>
+    <GuidesList />
+  </GuidesProject>
 </ArrayOfGuidesProject>

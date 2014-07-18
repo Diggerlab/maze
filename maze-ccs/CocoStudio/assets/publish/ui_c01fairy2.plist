@@ -23,6 +23,25 @@
 				<key>offsetY</key>
 				<real>0</real>
 			</dict>
+			<key>ui/c01_fairy/l05_aladin/map.png</key>
+			<dict>
+				<key>width</key>
+				<integer>1024</integer>
+				<key>height</key>
+				<integer>768</integer>
+				<key>originalWidth</key>
+				<integer>1024</integer>
+				<key>originalHeight</key>
+				<integer>768</integer>
+				<key>x</key>
+				<integer>0</integer>
+				<key>y</key>
+				<integer>518</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
 		</dict>
 		<key>metadata</key>
 		<dict>
