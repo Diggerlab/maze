@@ -14,23 +14,7 @@
     "ui_c01fairy1.plist",
     "ui_c01fairy2.plist"
   ],
-  "texturesPng": [
-    "ui_c01fairy0.png",
-    "ui_c01fairy1.png",
-    "ui_c01fairy2.png",
-    "ui_c01fairy0.png",
-    "ui_c01fairy1.png",
-    "ui_c01fairy2.png",
-    "ui_c01fairy0.png",
-    "ui_c01fairy1.png",
-    "ui_c01fairy2.png",
-    "ui_c01fairy0.png",
-    "ui_c01fairy1.png",
-    "ui_c01fairy2.png",
-    "ui_c01fairy0.png",
-    "ui_c01fairy1.png",
-    "ui_c01fairy2.png"
-  ],
+  "texturesPng": [],
   "version": "1.5.0.0",
   "widgetTree": {
     "classname": "Panel",
