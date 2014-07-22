@@ -4,16 +4,16 @@
 	<dict>
 		<key>frames</key>
 		<dict>
-			<key>ui/c01_fairy/l01_duck/map.png</key>
+			<key>animation/c01_fairy/l05_aladin/bag/bag01.png</key>
 			<dict>
 				<key>width</key>
-				<integer>1024</integer>
+				<integer>500</integer>
 				<key>height</key>
-				<integer>768</integer>
+				<integer>500</integer>
 				<key>originalWidth</key>
-				<integer>1024</integer>
+				<integer>500</integer>
 				<key>originalHeight</key>
-				<integer>768</integer>
+				<integer>500</integer>
 				<key>x</key>
 				<integer>0</integer>
 				<key>y</key>
@@ -23,18 +23,18 @@
 				<key>offsetY</key>
 				<real>0</real>
 			</dict>
-			<key>commons/step.png</key>
+			<key>animation/c01_fairy/l05_aladin/bag/bag06.png</key>
 			<dict>
 				<key>width</key>
-				<integer>25</integer>
+				<integer>500</integer>
 				<key>height</key>
-				<integer>25</integer>
+				<integer>500</integer>
 				<key>originalWidth</key>
-				<integer>25</integer>
+				<integer>500</integer>
 				<key>originalHeight</key>
-				<integer>25</integer>
+				<integer>500</integer>
 				<key>x</key>
-				<integer>1026</integer>
+				<integer>502</integer>
 				<key>y</key>
 				<integer>0</integer>
 				<key>offsetX</key>
@@ -42,18 +42,56 @@
 				<key>offsetY</key>
 				<real>0</real>
 			</dict>
-			<key>ui/c01_fairy/l01_duck/player.png</key>
+			<key>animation/c01_fairy/l05_aladin/bag/bag07.png</key>
 			<dict>
 				<key>width</key>
-				<integer>327</integer>
+				<integer>500</integer>
 				<key>height</key>
-				<integer>191</integer>
+				<integer>500</integer>
 				<key>originalWidth</key>
-				<integer>327</integer>
+				<integer>500</integer>
 				<key>originalHeight</key>
-				<integer>191</integer>
+				<integer>500</integer>
 				<key>x</key>
-				<integer>1053</integer>
+				<integer>0</integer>
+				<key>y</key>
+				<integer>502</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>animation/c01_fairy/l05_aladin/bag/bag08.png</key>
+			<dict>
+				<key>width</key>
+				<integer>500</integer>
+				<key>height</key>
+				<integer>500</integer>
+				<key>originalWidth</key>
+				<integer>500</integer>
+				<key>originalHeight</key>
+				<integer>500</integer>
+				<key>x</key>
+				<integer>502</integer>
+				<key>y</key>
+				<integer>502</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>animation/c01_fairy/l05_aladin/bag/bag09.png</key>
+			<dict>
+				<key>width</key>
+				<integer>500</integer>
+				<key>height</key>
+				<integer>500</integer>
+				<key>originalWidth</key>
+				<integer>500</integer>
+				<key>originalHeight</key>
+				<integer>500</integer>
+				<key>x</key>
+				<integer>1004</integer>
 				<key>y</key>
 				<integer>0</integer>
 				<key>offsetX</key>
@@ -61,18 +99,37 @@
 				<key>offsetY</key>
 				<real>0</real>
 			</dict>
-			<key>ui/c01_fairy/l01_duck/icon.png</key>
+			<key>animation/c01_fairy/l05_aladin/bag/bag10.png</key>
 			<dict>
 				<key>width</key>
-				<integer>67</integer>
+				<integer>500</integer>
 				<key>height</key>
-				<integer>57</integer>
+				<integer>500</integer>
 				<key>originalWidth</key>
-				<integer>67</integer>
+				<integer>500</integer>
 				<key>originalHeight</key>
-				<integer>57</integer>
+				<integer>500</integer>
 				<key>x</key>
-				<integer>1382</integer>
+				<integer>1004</integer>
+				<key>y</key>
+				<integer>502</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>animation/c01_fairy/l05_aladin/bag/bag11.png</key>
+			<dict>
+				<key>width</key>
+				<integer>500</integer>
+				<key>height</key>
+				<integer>500</integer>
+				<key>originalWidth</key>
+				<integer>500</integer>
+				<key>originalHeight</key>
+				<integer>500</integer>
+				<key>x</key>
+				<integer>1506</integer>
 				<key>y</key>
 				<integer>0</integer>
 				<key>offsetX</key>
@@ -80,172 +137,115 @@
 				<key>offsetY</key>
 				<real>0</real>
 			</dict>
-			<key>ui/c01_fairy/l02_sleep/map.png</key>
+			<key>animation/c01_fairy/l05_aladin/bag/bag12.png</key>
 			<dict>
 				<key>width</key>
-				<integer>1024</integer>
+				<integer>500</integer>
 				<key>height</key>
-				<integer>768</integer>
+				<integer>500</integer>
 				<key>originalWidth</key>
-				<integer>1024</integer>
+				<integer>500</integer>
 				<key>originalHeight</key>
-				<integer>768</integer>
+				<integer>500</integer>
+				<key>x</key>
+				<integer>1506</integer>
+				<key>y</key>
+				<integer>502</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>animation/c01_fairy/l05_aladin/bag/bag13.png</key>
+			<dict>
+				<key>width</key>
+				<integer>500</integer>
+				<key>height</key>
+				<integer>500</integer>
+				<key>originalWidth</key>
+				<integer>500</integer>
+				<key>originalHeight</key>
+				<integer>500</integer>
 				<key>x</key>
 				<integer>0</integer>
 				<key>y</key>
-				<integer>770</integer>
+				<integer>1004</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
 				<real>0</real>
 			</dict>
-			<key>ui/c01_fairy/l02_sleep/icon.png</key>
+			<key>animation/c01_fairy/l05_aladin/bag/bag02.png</key>
 			<dict>
 				<key>width</key>
-				<integer>73</integer>
+				<integer>500</integer>
 				<key>height</key>
-				<integer>62</integer>
+				<integer>500</integer>
 				<key>originalWidth</key>
-				<integer>73</integer>
+				<integer>500</integer>
 				<key>originalHeight</key>
-				<integer>62</integer>
-				<key>x</key>
-				<integer>1026</integer>
-				<key>y</key>
-				<integer>770</integer>
-				<key>offsetX</key>
-				<real>0</real>
-				<key>offsetY</key>
-				<real>0</real>
-			</dict>
-			<key>ui/c01_fairy/l02_sleep/player.png</key>
-			<dict>
-				<key>width</key>
-				<integer>581</integer>
-				<key>height</key>
-				<integer>459</integer>
-				<key>originalWidth</key>
-				<integer>581</integer>
-				<key>originalHeight</key>
-				<integer>459</integer>
-				<key>x</key>
-				<integer>1101</integer>
-				<key>y</key>
-				<integer>770</integer>
-				<key>offsetX</key>
-				<real>0</real>
-				<key>offsetY</key>
-				<real>0</real>
-			</dict>
-			<key>ui/c01_fairy/l03_fish/icon.png</key>
-			<dict>
-				<key>width</key>
-				<integer>86</integer>
-				<key>height</key>
-				<integer>82</integer>
-				<key>originalWidth</key>
-				<integer>86</integer>
-				<key>originalHeight</key>
-				<integer>82</integer>
+				<integer>500</integer>
 				<key>x</key>
 				<integer>0</integer>
 				<key>y</key>
-				<integer>1540</integer>
+				<integer>1506</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
 				<real>0</real>
 			</dict>
-			<key>ui/c01_fairy/l03_fish/player.png</key>
+			<key>animation/c01_fairy/l05_aladin/bag/bag03.png</key>
 			<dict>
 				<key>width</key>
-				<integer>436</integer>
+				<integer>500</integer>
 				<key>height</key>
-				<integer>221</integer>
+				<integer>500</integer>
 				<key>originalWidth</key>
-				<integer>436</integer>
+				<integer>500</integer>
 				<key>originalHeight</key>
-				<integer>221</integer>
+				<integer>500</integer>
 				<key>x</key>
-				<integer>88</integer>
+				<integer>502</integer>
 				<key>y</key>
-				<integer>1540</integer>
+				<integer>1004</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
 				<real>0</real>
 			</dict>
-			<key>ui/c01_fairy/l04_radish/player.png</key>
+			<key>animation/c01_fairy/l05_aladin/bag/bag04.png</key>
 			<dict>
 				<key>width</key>
-				<integer>256</integer>
+				<integer>500</integer>
 				<key>height</key>
-				<integer>229</integer>
+				<integer>500</integer>
 				<key>originalWidth</key>
-				<integer>256</integer>
+				<integer>500</integer>
 				<key>originalHeight</key>
-				<integer>229</integer>
+				<integer>500</integer>
 				<key>x</key>
-				<integer>526</integer>
+				<integer>1004</integer>
 				<key>y</key>
-				<integer>1540</integer>
+				<integer>1004</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
 				<real>0</real>
 			</dict>
-			<key>ui/c01_fairy/l04_radish/icon.png</key>
+			<key>animation/c01_fairy/l05_aladin/bag/bag05.png</key>
 			<dict>
 				<key>width</key>
-				<integer>58</integer>
+				<integer>500</integer>
 				<key>height</key>
-				<integer>52</integer>
+				<integer>500</integer>
 				<key>originalWidth</key>
-				<integer>58</integer>
+				<integer>500</integer>
 				<key>originalHeight</key>
-				<integer>52</integer>
+				<integer>500</integer>
 				<key>x</key>
-				<integer>784</integer>
+				<integer>502</integer>
 				<key>y</key>
-				<integer>1540</integer>
-				<key>offsetX</key>
-				<real>0</real>
-				<key>offsetY</key>
-				<real>0</real>
-			</dict>
-			<key>ui/c01_fairy/l05_aladin/player.png</key>
-			<dict>
-				<key>width</key>
-				<integer>110</integer>
-				<key>height</key>
-				<integer>111</integer>
-				<key>originalWidth</key>
-				<integer>110</integer>
-				<key>originalHeight</key>
-				<integer>111</integer>
-				<key>x</key>
-				<integer>0</integer>
-				<key>y</key>
-				<integer>1771</integer>
-				<key>offsetX</key>
-				<real>0</real>
-				<key>offsetY</key>
-				<real>0</real>
-			</dict>
-			<key>ui/c01_fairy/l05_aladin/icon.png</key>
-			<dict>
-				<key>width</key>
-				<integer>62</integer>
-				<key>height</key>
-				<integer>56</integer>
-				<key>originalWidth</key>
-				<integer>62</integer>
-				<key>originalHeight</key>
-				<integer>56</integer>
-				<key>x</key>
-				<integer>112</integer>
-				<key>y</key>
-				<integer>1771</integer>
+				<integer>1506</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -257,9 +257,9 @@
 			<key>format</key>
 			<integer>0</integer>
 			<key>textureFileName</key>
-			<string>ui_c01fairy0.png</string>
+			<string>ani_c01fairy_l05aladin_bag0.png</string>
 			<key>realTextureFileName</key>
-			<string>ui_c01fairy0.png</string>
+			<string>ani_c01fairy_l05aladin_bag0.png</string>
 			<key>size</key>
 			<string>{2048,2048}</string>
 		</dict>

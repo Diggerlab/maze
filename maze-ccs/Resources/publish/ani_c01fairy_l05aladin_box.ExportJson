@@ -4,14 +4,14 @@
     {
       "strVersion": "1.5.0.0",
       "version": 1.5,
-      "name": "ani_c01fairy_l04radish_pumpkin",
+      "name": "ani_c01fairy_l05aladin_box",
       "bone_data": [
         {
           "name": "Layer2",
           "parent": "",
-          "dI": 3,
-          "x": -4.5,
-          "y": -2.32666015625,
+          "dI": 2,
+          "x": -5.5,
+          "y": -1.32666015625,
           "z": 2,
           "cX": 1.0,
           "cY": 1.0,
@@ -22,7 +22,7 @@
           "effectbyskeleton": false,
           "display_data": [
             {
-              "name": "animation/c01_fairy/l04_radish/pumpkin/pumpkin_07.png",
+              "name": "animation/c01_fairy/l05_aladin/box/box06.png",
               "displayType": 0,
               "skin_data": [
                 {
@@ -36,7 +36,7 @@
               ]
             },
             {
-              "name": "animation/c01_fairy/l04_radish/pumpkin/pumpkin_08.png",
+              "name": "animation/c01_fairy/l05_aladin/box/box07.png",
               "displayType": 0,
               "skin_data": [
                 {
@@ -50,21 +50,7 @@
               ]
             },
             {
-              "name": "animation/c01_fairy/l04_radish/pumpkin/pumpkin_09.png",
-              "displayType": 0,
-              "skin_data": [
-                {
-                  "x": 0.0,
-                  "y": 0.0,
-                  "cX": 1.0,
-                  "cY": 1.0,
-                  "kX": 0.0,
-                  "kY": 0.0
-                }
-              ]
-            },
-            {
-              "name": "animation/c01_fairy/l04_radish/pumpkin/pumpkin_10.png",
+              "name": "animation/c01_fairy/l05_aladin/box/box08.png",
               "displayType": 0,
               "skin_data": [
                 {
@@ -82,9 +68,9 @@
         {
           "name": "Layer1",
           "parent": "",
-          "dI": 2,
-          "x": -4.5,
-          "y": -2.32666015625,
+          "dI": 4,
+          "x": -5.5,
+          "y": -1.32666015625,
           "z": 1,
           "cX": 1.0,
           "cY": 1.0,
@@ -95,7 +81,7 @@
           "effectbyskeleton": false,
           "display_data": [
             {
-              "name": "animation/c01_fairy/l04_radish/pumpkin/pumpkin_01.png",
+              "name": "animation/c01_fairy/l05_aladin/box/box01.png",
               "displayType": 0,
               "skin_data": [
                 {
@@ -109,7 +95,7 @@
               ]
             },
             {
-              "name": "animation/c01_fairy/l04_radish/pumpkin/pumpkin_02.png",
+              "name": "animation/c01_fairy/l05_aladin/box/box02.png",
               "displayType": 0,
               "skin_data": [
                 {
@@ -123,7 +109,7 @@
               ]
             },
             {
-              "name": "animation/c01_fairy/l04_radish/pumpkin/pumpkin_03.png",
+              "name": "animation/c01_fairy/l05_aladin/box/box03.png",
               "displayType": 0,
               "skin_data": [
                 {
@@ -137,7 +123,7 @@
               ]
             },
             {
-              "name": "animation/c01_fairy/l04_radish/pumpkin/pumpkin_04.png",
+              "name": "animation/c01_fairy/l05_aladin/box/box04.png",
               "displayType": 0,
               "skin_data": [
                 {
@@ -151,7 +137,7 @@
               ]
             },
             {
-              "name": "animation/c01_fairy/l04_radish/pumpkin/pumpkin_05.png",
+              "name": "animation/c01_fairy/l05_aladin/box/box05.png",
               "displayType": 0,
               "skin_data": [
                 {
@@ -165,7 +151,7 @@
               ]
             },
             {
-              "name": "animation/c01_fairy/l04_radish/pumpkin/pumpkin_06.png",
+              "name": "animation/c01_fairy/l05_aladin/box/box09.png",
               "displayType": 0,
               "skin_data": [
                 {
@@ -185,11 +171,11 @@
   ],
   "animation_data": [
     {
-      "name": "ani_c01fairy_l04radish_pumpkin",
+      "name": "ani_c01fairy_l05aladin_box",
       "mov_data": [
         {
           "name": "Animation1",
-          "dr": 59,
+          "dr": 71,
           "lp": false,
           "to": 0,
           "drTW": 0,
@@ -211,7 +197,7 @@
                   "kY": 0.0,
                   "fi": 0,
                   "twE": 0,
-                  "tweenFrame": true,
+                  "tweenFrame": false,
                   "color": {
                     "a": 0,
                     "r": 255,
@@ -241,7 +227,7 @@
                   "cY": 1.0,
                   "kX": 0.0,
                   "kY": 0.0,
-                  "fi": 11,
+                  "fi": 13,
                   "twE": 0,
                   "tweenFrame": true
                 },
@@ -254,12 +240,12 @@
                   "cY": 1.0,
                   "kX": 0.0,
                   "kY": 0.0,
-                  "fi": 17,
+                  "fi": 19,
                   "twE": 0,
                   "tweenFrame": true
                 },
                 {
-                  "dI": 3,
+                  "dI": 1,
                   "x": 0.0,
                   "y": 0.0,
                   "z": 0,
@@ -267,33 +253,7 @@
                   "cY": 1.0,
                   "kX": 0.0,
                   "kY": 0.0,
-                  "fi": 20,
-                  "twE": 0,
-                  "tweenFrame": true
-                },
-                {
-                  "dI": 2,
-                  "x": 0.0,
-                  "y": 0.0,
-                  "z": 0,
-                  "cX": 1.0,
-                  "cY": 1.0,
-                  "kX": 0.0,
-                  "kY": 0.0,
-                  "fi": 23,
-                  "twE": 0,
-                  "tweenFrame": true
-                },
-                {
-                  "dI": 3,
-                  "x": 0.0,
-                  "y": 0.0,
-                  "z": 0,
-                  "cX": 1.0,
-                  "cY": 1.0,
-                  "kX": 0.0,
-                  "kY": 0.0,
-                  "fi": 26,
+                  "fi": 22,
                   "twE": 0,
                   "tweenFrame": true
                 },
@@ -306,12 +266,12 @@
                   "cY": 1.0,
                   "kX": 0.0,
                   "kY": 0.0,
-                  "fi": 29,
+                  "fi": 25,
                   "twE": 0,
                   "tweenFrame": true
                 },
                 {
-                  "dI": 3,
+                  "dI": 1,
                   "x": 0.0,
                   "y": 0.0,
                   "z": 0,
@@ -319,12 +279,12 @@
                   "cY": 1.0,
                   "kX": 0.0,
                   "kY": 0.0,
-                  "fi": 32,
+                  "fi": 28,
                   "twE": 0,
                   "tweenFrame": true
                 },
                 {
-                  "dI": 3,
+                  "dI": 2,
                   "x": 0.0,
                   "y": 0.0,
                   "z": 0,
@@ -332,12 +292,12 @@
                   "cY": 1.0,
                   "kX": 0.0,
                   "kY": 0.0,
-                  "fi": 47,
+                  "fi": 31,
                   "twE": 0,
                   "tweenFrame": true
                 },
                 {
-                  "dI": 3,
+                  "dI": 1,
                   "x": 0.0,
                   "y": 0.0,
                   "z": 0,
@@ -345,7 +305,33 @@
                   "cY": 1.0,
                   "kX": 0.0,
                   "kY": 0.0,
-                  "fi": 54,
+                  "fi": 34,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 2,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 37,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 2,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 43,
                   "twE": 0,
                   "tweenFrame": true,
                   "color": {
@@ -356,7 +342,7 @@
                   }
                 },
                 {
-                  "dI": 3,
+                  "dI": 2,
                   "x": 0.0,
                   "y": 0.0,
                   "z": 0,
@@ -364,7 +350,7 @@
                   "cY": 1.0,
                   "kX": 0.0,
                   "kY": 0.0,
-                  "fi": 55,
+                  "fi": 44,
                   "twE": 0,
                   "tweenFrame": false,
                   "color": {
@@ -394,6 +380,19 @@
                   "tweenFrame": true
                 },
                 {
+                  "dI": 5,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 7,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
                   "dI": 1,
                   "x": 0.0,
                   "y": 0.0,
@@ -402,7 +401,7 @@
                   "cY": 1.0,
                   "kX": 0.0,
                   "kY": 0.0,
-                  "fi": 8,
+                  "fi": 10,
                   "twE": 0,
                   "tweenFrame": true
                 },
@@ -415,7 +414,7 @@
                   "cY": 1.0,
                   "kX": 0.0,
                   "kY": 0.0,
-                  "fi": 11,
+                  "fi": 13,
                   "twE": 0,
                   "tweenFrame": true
                 },
@@ -428,7 +427,7 @@
                   "cY": 1.0,
                   "kX": 0.0,
                   "kY": 0.0,
-                  "fi": 14,
+                  "fi": 19,
                   "twE": 0,
                   "tweenFrame": true
                 },
@@ -441,12 +440,12 @@
                   "cY": 1.0,
                   "kX": 0.0,
                   "kY": 0.0,
-                  "fi": 17,
+                  "fi": 22,
                   "twE": 0,
                   "tweenFrame": true
                 },
                 {
-                  "dI": 5,
+                  "dI": 3,
                   "x": 0.0,
                   "y": 0.0,
                   "z": 0,
@@ -454,33 +453,7 @@
                   "cY": 1.0,
                   "kX": 0.0,
                   "kY": 0.0,
-                  "fi": 20,
-                  "twE": 0,
-                  "tweenFrame": true
-                },
-                {
-                  "dI": 4,
-                  "x": 0.0,
-                  "y": 0.0,
-                  "z": 0,
-                  "cX": 1.0,
-                  "cY": 1.0,
-                  "kX": 0.0,
-                  "kY": 0.0,
-                  "fi": 23,
-                  "twE": 0,
-                  "tweenFrame": true
-                },
-                {
-                  "dI": 5,
-                  "x": 0.0,
-                  "y": 0.0,
-                  "z": 0,
-                  "cX": 1.0,
-                  "cY": 1.0,
-                  "kX": 0.0,
-                  "kY": 0.0,
-                  "fi": 26,
+                  "fi": 25,
                   "twE": 0,
                   "tweenFrame": true
                 },
@@ -493,7 +466,46 @@
                   "cY": 1.0,
                   "kX": 0.0,
                   "kY": 0.0,
-                  "fi": 29,
+                  "fi": 28,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 3,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 31,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 4,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 34,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 1,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 53,
                   "twE": 0,
                   "tweenFrame": true
                 },
@@ -506,20 +518,7 @@
                   "cY": 1.0,
                   "kX": 0.0,
                   "kY": 0.0,
-                  "fi": 32,
-                  "twE": 0,
-                  "tweenFrame": true
-                },
-                {
-                  "dI": 2,
-                  "x": 0.0,
-                  "y": 0.0,
-                  "z": 0,
-                  "cX": 1.0,
-                  "cY": 1.0,
-                  "kX": 0.0,
-                  "kY": 0.0,
-                  "fi": 54,
+                  "fi": 56,
                   "twE": 0,
                   "tweenFrame": true
                 },
@@ -532,7 +531,20 @@
                   "cY": 1.0,
                   "kX": 0.0,
                   "kY": 0.0,
-                  "fi": 58,
+                  "fi": 59,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 70,
                   "twE": 0,
                   "tweenFrame": true
                 }
@@ -545,90 +557,82 @@
   ],
   "texture_data": [
     {
-      "name": "animation/c01_fairy/l04_radish/pumpkin/pumpkin_01",
-      "width": 284.0,
-      "height": 133.0,
+      "name": "animation/c01_fairy/l05_aladin/box/box01",
+      "width": 432.0,
+      "height": 470.0,
       "pX": 0.5,
       "pY": 0.5,
       "plistFile": ""
     },
     {
-      "name": "animation/c01_fairy/l04_radish/pumpkin/pumpkin_07",
-      "width": 284.0,
-      "height": 133.0,
+      "name": "animation/c01_fairy/l05_aladin/box/box06",
+      "width": 432.0,
+      "height": 470.0,
       "pX": 0.5,
       "pY": 0.5,
       "plistFile": ""
     },
     {
-      "name": "animation/c01_fairy/l04_radish/pumpkin/pumpkin_02",
-      "width": 284.0,
-      "height": 133.0,
+      "name": "animation/c01_fairy/l05_aladin/box/box02",
+      "width": 432.0,
+      "height": 470.0,
       "pX": 0.5,
       "pY": 0.5,
       "plistFile": ""
     },
     {
-      "name": "animation/c01_fairy/l04_radish/pumpkin/pumpkin_03",
-      "width": 284.0,
-      "height": 133.0,
+      "name": "animation/c01_fairy/l05_aladin/box/box03",
+      "width": 432.0,
+      "height": 470.0,
       "pX": 0.5,
       "pY": 0.5,
       "plistFile": ""
     },
     {
-      "name": "animation/c01_fairy/l04_radish/pumpkin/pumpkin_04",
-      "width": 284.0,
-      "height": 133.0,
+      "name": "animation/c01_fairy/l05_aladin/box/box04",
+      "width": 432.0,
+      "height": 470.0,
       "pX": 0.5,
       "pY": 0.5,
       "plistFile": ""
     },
     {
-      "name": "animation/c01_fairy/l04_radish/pumpkin/pumpkin_05",
-      "width": 284.0,
-      "height": 133.0,
+      "name": "animation/c01_fairy/l05_aladin/box/box05",
+      "width": 432.0,
+      "height": 470.0,
       "pX": 0.5,
       "pY": 0.5,
       "plistFile": ""
     },
     {
-      "name": "animation/c01_fairy/l04_radish/pumpkin/pumpkin_06",
-      "width": 567.0,
-      "height": 266.0,
+      "name": "animation/c01_fairy/l05_aladin/box/box09",
+      "width": 432.0,
+      "height": 470.0,
       "pX": 0.5,
       "pY": 0.5,
       "plistFile": ""
     },
     {
-      "name": "animation/c01_fairy/l04_radish/pumpkin/pumpkin_08",
-      "width": 284.0,
-      "height": 133.0,
+      "name": "animation/c01_fairy/l05_aladin/box/box07",
+      "width": 432.0,
+      "height": 470.0,
       "pX": 0.5,
       "pY": 0.5,
       "plistFile": ""
     },
     {
-      "name": "animation/c01_fairy/l04_radish/pumpkin/pumpkin_09",
-      "width": 284.0,
-      "height": 133.0,
-      "pX": 0.5,
-      "pY": 0.5,
-      "plistFile": ""
-    },
-    {
-      "name": "animation/c01_fairy/l04_radish/pumpkin/pumpkin_10",
-      "width": 567.0,
-      "height": 266.0,
+      "name": "animation/c01_fairy/l05_aladin/box/box08",
+      "width": 432.0,
+      "height": 470.0,
       "pX": 0.5,
       "pY": 0.5,
       "plistFile": ""
     }
   ],
   "config_file_path": [
-    "ani_c01fairy_l04radish_pumpkin0.plist"
+    "ani_c01fairy_l05aladin_box0.plist"
   ],
   "config_png_path": [
-    "ani_c01fairy_l04radish_pumpkin0.png"
+    "ani_c01fairy_l05aladin_box0.png"
   ]
 }
