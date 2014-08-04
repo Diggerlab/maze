@@ -10,13 +10,18 @@
     <string>ui_welcome_l01.json</string>
   </JsonList>
   <CanvasSize>
-    <Width>480</Width>
-    <Height>320</Height>
+    <Width>1365</Width>
+    <Height>768</Height>
   </CanvasSize>
   <filePath>C:\Users\Render\Documents\GitHub\maze\maze-ccs\CocoStudio\ccsprojs\ui_welcome\ui_welcome.xml.ui</filePath>
   <ProjectType>UIProject</ProjectType>
   <ResRelativePath>\\..\\..\\assets</ResRelativePath>
-  <imagePngList />
+  <imageFileList>
+    <string>ui_welcome0.plist</string>
+  </imageFileList>
+  <imagePngList>
+    <string>ui_welcome0.png</string>
+  </imagePngList>
   <JsonSuffix>.json</JsonSuffix>
   <CurrentUIJson>ui_welcome_l01.json</CurrentUIJson>
 </UIProject>

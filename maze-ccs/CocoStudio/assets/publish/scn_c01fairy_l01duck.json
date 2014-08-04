@@ -28,7 +28,7 @@
         {
           "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
           "classname": "CCNode",
-          "name": "ani_fox_LP004",
+          "name": "ani_fox_LT006K002",
           "canedit": true,
           "objecttag": 10097,
           "rotation": 0,
@@ -58,7 +58,7 @@
         {
           "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
           "classname": "CCNode",
-          "name": "ani_snake_LN001Q001",
+          "name": "ani_snake_LS005Q002",
           "canedit": true,
           "objecttag": 10098,
           "rotation": 0,
@@ -88,7 +88,7 @@
         {
           "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
           "classname": "CCNode",
-          "name": "ani_carb_LM001R003",
+          "name": "ani_carb_LV006R003",
           "canedit": true,
           "objecttag": 10099,
           "rotation": 0,
@@ -118,7 +118,7 @@
         {
           "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
           "classname": "CCNode",
-          "name": "ani_chicken_LC004",
+          "name": "ani_chicken_LC007",
           "canedit": true,
           "objecttag": 10100,
           "rotation": 0,
@@ -148,7 +148,7 @@
         {
           "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
           "classname": "CCNode",
-          "name": "ani_dog_LI001S001",
+          "name": "ani_dog_LI002O002",
           "canedit": true,
           "objecttag": 10101,
           "rotation": 0,
@@ -178,7 +178,7 @@
         {
           "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
           "classname": "CCNode",
-          "name": "ani_crocodile_LJ004",
+          "name": "ani_crocodile_LJ009D006",
           "canedit": true,
           "objecttag": 10102,
           "rotation": 0,
@@ -208,7 +208,7 @@
         {
           "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
           "classname": "CCNode",
-          "name": "ani_ending_LA079_E",
+          "name": "ani_ending_LA146_E",
           "canedit": true,
           "objecttag": 10103,
           "rotation": 0,

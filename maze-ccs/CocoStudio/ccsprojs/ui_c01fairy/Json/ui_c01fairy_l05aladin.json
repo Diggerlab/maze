@@ -14,23 +14,7 @@
     "ui_c01fairy1.plist",
     "ui_c01fairy2.plist"
   ],
-  "texturesPng": [
-    "ui_c01fairy0.png",
-    "ui_c01fairy1.png",
-    "ui_c01fairy2.png",
-    "ui_c01fairy0.png",
-    "ui_c01fairy1.png",
-    "ui_c01fairy2.png",
-    "ui_c01fairy0.png",
-    "ui_c01fairy1.png",
-    "ui_c01fairy2.png",
-    "ui_c01fairy0.png",
-    "ui_c01fairy1.png",
-    "ui_c01fairy2.png",
-    "ui_c01fairy0.png",
-    "ui_c01fairy1.png",
-    "ui_c01fairy2.png"
-  ],
+  "texturesPng": [],
   "version": "1.5.0.0",
   "widgetTree": {
     "classname": "Panel",
@@ -12916,7 +12900,7 @@
             "options": {
               "__type": "ImageViewSurrogate:#EditorCommon.JsonModel.Component.GUI",
               "classname": "ImageView",
-              "name": "J001_IA020_B",
+              "name": "J001_LI020_B",
               "ZOrder": 0,
               "actiontag": 16620402,
               "anchorPointX": 0.5,
