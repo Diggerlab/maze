@@ -4,7 +4,7 @@
 	<dict>
 		<key>frames</key>
 		<dict>
-			<key>ui/welcome/01/map.jpg</key>
+			<key>ui/welcome/01/ic_backgroud_1.png</key>
 			<dict>
 				<key>width</key>
 				<integer>1365</integer>
@@ -23,7 +23,7 @@
 				<key>offsetY</key>
 				<real>0</real>
 			</dict>
-			<key>ui/welcome/01/start game.png</key>
+			<key>ui/welcome/01/btn_start.png</key>
 			<dict>
 				<key>width</key>
 				<integer>240</integer>
@@ -42,7 +42,7 @@
 				<key>offsetY</key>
 				<real>0</real>
 			</dict>
-			<key>ui/welcome/01/first time.png</key>
+			<key>ui/welcome/01/btn_first.png</key>
 			<dict>
 				<key>width</key>
 				<integer>240</integer>
@@ -75,6 +75,44 @@
 				<integer>1851</integer>
 				<key>y</key>
 				<integer>0</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>ui/welcome/01/ic_backgroud_left.png</key>
+			<dict>
+				<key>width</key>
+				<integer>545</integer>
+				<key>height</key>
+				<integer>768</integer>
+				<key>originalWidth</key>
+				<integer>545</integer>
+				<key>originalHeight</key>
+				<integer>768</integer>
+				<key>x</key>
+				<integer>0</integer>
+				<key>y</key>
+				<integer>770</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>ui/welcome/01/ic_backgroud_right.png</key>
+			<dict>
+				<key>width</key>
+				<integer>470</integer>
+				<key>height</key>
+				<integer>768</integer>
+				<key>originalWidth</key>
+				<integer>470</integer>
+				<key>originalHeight</key>
+				<integer>768</integer>
+				<key>x</key>
+				<integer>547</integer>
+				<key>y</key>
+				<integer>770</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
