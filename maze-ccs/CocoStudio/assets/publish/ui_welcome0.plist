@@ -23,63 +23,6 @@
 				<key>offsetY</key>
 				<real>0</real>
 			</dict>
-			<key>ui/welcome/01/btn_start.png</key>
-			<dict>
-				<key>width</key>
-				<integer>240</integer>
-				<key>height</key>
-				<integer>55</integer>
-				<key>originalWidth</key>
-				<integer>240</integer>
-				<key>originalHeight</key>
-				<integer>55</integer>
-				<key>x</key>
-				<integer>0</integer>
-				<key>y</key>
-				<integer>770</integer>
-				<key>offsetX</key>
-				<real>0</real>
-				<key>offsetY</key>
-				<real>0</real>
-			</dict>
-			<key>ui/welcome/01/btn_first.png</key>
-			<dict>
-				<key>width</key>
-				<integer>240</integer>
-				<key>height</key>
-				<integer>55</integer>
-				<key>originalWidth</key>
-				<integer>240</integer>
-				<key>originalHeight</key>
-				<integer>55</integer>
-				<key>x</key>
-				<integer>0</integer>
-				<key>y</key>
-				<integer>827</integer>
-				<key>offsetX</key>
-				<real>0</real>
-				<key>offsetY</key>
-				<real>0</real>
-			</dict>
-			<key>C:/Program Files (x86)/CocoStudio/EditorDefaultRes/GUI/button.png</key>
-			<dict>
-				<key>width</key>
-				<integer>103</integer>
-				<key>height</key>
-				<integer>40</integer>
-				<key>originalWidth</key>
-				<integer>103</integer>
-				<key>originalHeight</key>
-				<integer>40</integer>
-				<key>x</key>
-				<integer>0</integer>
-				<key>y</key>
-				<integer>884</integer>
-				<key>offsetX</key>
-				<real>0</real>
-				<key>offsetY</key>
-				<real>0</real>
-			</dict>
 			<key>ui/welcome/01/ic_backgroud_left.png</key>
 			<dict>
 				<key>width</key>
@@ -112,7 +55,64 @@
 				<key>x</key>
 				<integer>0</integer>
 				<key>y</key>
-				<integer>926</integer>
+				<integer>770</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>ui/welcome/01/btn_start.png</key>
+			<dict>
+				<key>width</key>
+				<integer>240</integer>
+				<key>height</key>
+				<integer>55</integer>
+				<key>originalWidth</key>
+				<integer>240</integer>
+				<key>originalHeight</key>
+				<integer>55</integer>
+				<key>x</key>
+				<integer>472</integer>
+				<key>y</key>
+				<integer>770</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>ui/welcome/01/btn_first.png</key>
+			<dict>
+				<key>width</key>
+				<integer>240</integer>
+				<key>height</key>
+				<integer>55</integer>
+				<key>originalWidth</key>
+				<integer>240</integer>
+				<key>originalHeight</key>
+				<integer>55</integer>
+				<key>x</key>
+				<integer>472</integer>
+				<key>y</key>
+				<integer>827</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>C:/Program Files (x86)/CocoStudio/EditorDefaultRes/GUI/button.png</key>
+			<dict>
+				<key>width</key>
+				<integer>103</integer>
+				<key>height</key>
+				<integer>40</integer>
+				<key>originalWidth</key>
+				<integer>103</integer>
+				<key>originalHeight</key>
+				<integer>40</integer>
+				<key>x</key>
+				<integer>472</integer>
+				<key>y</key>
+				<integer>884</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
