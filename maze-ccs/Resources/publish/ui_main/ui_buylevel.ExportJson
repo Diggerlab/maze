@@ -13,7 +13,18 @@
     "ui_main0.plist",
     "ui_main1.plist"
   ],
-  "texturesPng": [],
+  "texturesPng": [
+    "ui_main0.png",
+    "ui_main1.png",
+    "ui_main0.png",
+    "ui_main1.png",
+    "ui_main0.png",
+    "ui_main1.png",
+    "ui_main0.png",
+    "ui_main1.png",
+    "ui_main0.png",
+    "ui_main1.png"
+  ],
   "version": "1.6.0.0",
   "widgetTree": {
     "classname": "Panel",
@@ -57,7 +68,7 @@
               "sizeType": 0,
               "tag": 73,
               "touchAble": false,
-              "useMergedTexture": false,
+              "useMergedTexture": true,
               "visible": true,
               "width": 440,
               "x": 448,
@@ -70,7 +81,7 @@
               "fileNameData": {
                 "path": "ui/main/pay/scn_title.png",
                 "plistFile": "",
-                "resourceType": 0
+                "resourceType": 1
               },
               "scale9Enable": false,
               "scale9Height": 33,
@@ -111,7 +122,7 @@
               "sizeType": 0,
               "tag": 74,
               "touchAble": false,
-              "useMergedTexture": false,
+              "useMergedTexture": true,
               "visible": true,
               "width": 259,
               "x": 171,
@@ -124,7 +135,7 @@
               "fileNameData": {
                 "path": "ui/main/pay/fai_sleep_01.png",
                 "plistFile": "",
-                "resourceType": 0
+                "resourceType": 1
               },
               "scale9Enable": false,
               "scale9Height": 195,
@@ -165,7 +176,7 @@
               "sizeType": 0,
               "tag": 75,
               "touchAble": false,
-              "useMergedTexture": false,
+              "useMergedTexture": true,
               "visible": true,
               "width": 364,
               "x": 670,
@@ -178,7 +189,7 @@
               "fileNameData": {
                 "path": "ui/main/pay/fai_sleep_02.png",
                 "plistFile": "",
-                "resourceType": 0
+                "resourceType": 1
               },
               "scale9Enable": false,
               "scale9Height": 258,
@@ -219,7 +230,7 @@
               "sizeType": 0,
               "tag": 72,
               "touchAble": false,
-              "useMergedTexture": false,
+              "useMergedTexture": true,
               "visible": true,
               "width": 845,
               "x": 446,
@@ -232,7 +243,7 @@
               "fileNameData": {
                 "path": "ui/main/pay/fai_sleep_pic.png",
                 "plistFile": "",
-                "resourceType": 0
+                "resourceType": 1
               },
               "scale9Enable": false,
               "scale9Height": 312,
@@ -273,7 +284,7 @@
               "sizeType": 0,
               "tag": 6,
               "touchAble": true,
-              "useMergedTexture": false,
+              "useMergedTexture": true,
               "visible": true,
               "width": 240,
               "x": 462,
@@ -295,7 +306,7 @@
               "normalData": {
                 "path": "ui/main/pay/btn_pay.png",
                 "plistFile": "",
-                "resourceType": 0
+                "resourceType": 1
               },
               "pressed": null,
               "pressedData": {
@@ -343,7 +354,7 @@
           "sizeType": 0,
           "tag": 5,
           "touchAble": false,
-          "useMergedTexture": false,
+          "useMergedTexture": true,
           "visible": true,
           "width": 891,
           "x": 237,
@@ -356,7 +367,7 @@
           "fileNameData": {
             "path": "ui/main/pay/ban.png",
             "plistFile": "",
-            "resourceType": 0
+            "resourceType": 1
           },
           "scale9Enable": false,
           "scale9Height": 644,
@@ -397,7 +408,7 @@
           "sizeType": 0,
           "tag": 8,
           "touchAble": true,
-          "useMergedTexture": false,
+          "useMergedTexture": true,
           "visible": true,
           "width": 84,
           "x": 1164,
@@ -419,7 +430,7 @@
           "normalData": {
             "path": "ui/main/pay/cancle.png",
             "plistFile": "",
-            "resourceType": 0
+            "resourceType": 1
           },
           "pressed": null,
           "pressedData": {
@@ -467,7 +478,7 @@
       "sizeType": 0,
       "tag": 2,
       "touchAble": true,
-      "useMergedTexture": false,
+      "useMergedTexture": true,
       "visible": true,
       "width": 1365,
       "x": 0,

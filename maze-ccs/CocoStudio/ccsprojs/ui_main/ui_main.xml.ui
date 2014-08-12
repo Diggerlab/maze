@@ -37,5 +37,5 @@
     <string>ui_main1.png</string>
   </imagePngList>
   <JsonSuffix>.json</JsonSuffix>
-  <CurrentUIJson>ui_buylevel.json</CurrentUIJson>
+  <CurrentUIJson>ui_class_select.json</CurrentUIJson>
 </UIProject>
