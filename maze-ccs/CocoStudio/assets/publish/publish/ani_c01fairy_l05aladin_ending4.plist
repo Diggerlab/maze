@@ -4,16 +4,16 @@
 	<dict>
 		<key>frames</key>
 		<dict>
-			<key>animation/c01_fairy/l05_aladin/ending/ending0119.png</key>
+			<key>animation/c01_fairy/l05_aladin/ending/wind.png</key>
 			<dict>
 				<key>width</key>
-				<integer>512</integer>
+				<integer>1024</integer>
 				<key>height</key>
-				<integer>383</integer>
+				<integer>768</integer>
 				<key>originalWidth</key>
-				<integer>512</integer>
+				<integer>1024</integer>
 				<key>originalHeight</key>
-				<integer>384</integer>
+				<integer>768</integer>
 				<key>x</key>
 				<integer>0</integer>
 				<key>y</key>
@@ -21,26 +21,26 @@
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
-				<real>0.25</real>
+				<real>0</real>
 			</dict>
-			<key>animation/c01_fairy/l05_aladin/ending/ending0120.png</key>
+			<key>animation/c01_fairy/l05_aladin/ending/road.png</key>
 			<dict>
 				<key>width</key>
-				<integer>512</integer>
+				<integer>1024</integer>
 				<key>height</key>
-				<integer>383</integer>
+				<integer>768</integer>
 				<key>originalWidth</key>
-				<integer>512</integer>
+				<integer>1024</integer>
 				<key>originalHeight</key>
-				<integer>384</integer>
+				<integer>768</integer>
 				<key>x</key>
 				<integer>0</integer>
 				<key>y</key>
-				<integer>385</integer>
+				<integer>770</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
-				<real>0.25</real>
+				<real>0</real>
 			</dict>
 		</dict>
 		<key>metadata</key>

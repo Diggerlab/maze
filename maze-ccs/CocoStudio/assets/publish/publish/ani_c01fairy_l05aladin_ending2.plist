@@ -4,16 +4,16 @@
 	<dict>
 		<key>frames</key>
 		<dict>
-			<key>animation/c01_fairy/l05_aladin/ending/ending0089.png</key>
+			<key>animation/c01_fairy/l05_aladin/ending/line01.png</key>
 			<dict>
 				<key>width</key>
-				<integer>512</integer>
+				<integer>1024</integer>
 				<key>height</key>
-				<integer>384</integer>
+				<integer>768</integer>
 				<key>originalWidth</key>
-				<integer>512</integer>
+				<integer>1024</integer>
 				<key>originalHeight</key>
-				<integer>384</integer>
+				<integer>768</integer>
 				<key>x</key>
 				<integer>0</integer>
 				<key>y</key>
@@ -23,271 +23,24 @@
 				<key>offsetY</key>
 				<real>0</real>
 			</dict>
-			<key>animation/c01_fairy/l05_aladin/ending/ending0090.png</key>
+			<key>animation/c01_fairy/l05_aladin/ending/Djinni.png</key>
 			<dict>
 				<key>width</key>
-				<integer>512</integer>
+				<integer>1024</integer>
 				<key>height</key>
-				<integer>383</integer>
+				<integer>768</integer>
 				<key>originalWidth</key>
-				<integer>512</integer>
+				<integer>1024</integer>
 				<key>originalHeight</key>
-				<integer>384</integer>
+				<integer>768</integer>
 				<key>x</key>
 				<integer>0</integer>
-				<key>y</key>
-				<integer>386</integer>
-				<key>offsetX</key>
-				<real>0</real>
-				<key>offsetY</key>
-				<real>0.25</real>
-			</dict>
-			<key>animation/c01_fairy/l05_aladin/ending/ending0091.png</key>
-			<dict>
-				<key>width</key>
-				<integer>512</integer>
-				<key>height</key>
-				<integer>383</integer>
-				<key>originalWidth</key>
-				<integer>512</integer>
-				<key>originalHeight</key>
-				<integer>384</integer>
-				<key>x</key>
-				<integer>514</integer>
-				<key>y</key>
-				<integer>0</integer>
-				<key>offsetX</key>
-				<real>0</real>
-				<key>offsetY</key>
-				<real>0.25</real>
-			</dict>
-			<key>animation/c01_fairy/l05_aladin/ending/ending0092.png</key>
-			<dict>
-				<key>width</key>
-				<integer>512</integer>
-				<key>height</key>
-				<integer>383</integer>
-				<key>originalWidth</key>
-				<integer>512</integer>
-				<key>originalHeight</key>
-				<integer>384</integer>
-				<key>x</key>
-				<integer>514</integer>
-				<key>y</key>
-				<integer>385</integer>
-				<key>offsetX</key>
-				<real>0</real>
-				<key>offsetY</key>
-				<real>0.25</real>
-			</dict>
-			<key>animation/c01_fairy/l05_aladin/ending/ending0093.png</key>
-			<dict>
-				<key>width</key>
-				<integer>512</integer>
-				<key>height</key>
-				<integer>383</integer>
-				<key>originalWidth</key>
-				<integer>512</integer>
-				<key>originalHeight</key>
-				<integer>384</integer>
-				<key>x</key>
-				<integer>1028</integer>
-				<key>y</key>
-				<integer>0</integer>
-				<key>offsetX</key>
-				<real>0</real>
-				<key>offsetY</key>
-				<real>0.25</real>
-			</dict>
-			<key>animation/c01_fairy/l05_aladin/ending/ending0094.png</key>
-			<dict>
-				<key>width</key>
-				<integer>512</integer>
-				<key>height</key>
-				<integer>383</integer>
-				<key>originalWidth</key>
-				<integer>512</integer>
-				<key>originalHeight</key>
-				<integer>384</integer>
-				<key>x</key>
-				<integer>1028</integer>
-				<key>y</key>
-				<integer>385</integer>
-				<key>offsetX</key>
-				<real>0</real>
-				<key>offsetY</key>
-				<real>0.25</real>
-			</dict>
-			<key>animation/c01_fairy/l05_aladin/ending/ending0095.png</key>
-			<dict>
-				<key>width</key>
-				<integer>512</integer>
-				<key>height</key>
-				<integer>383</integer>
-				<key>originalWidth</key>
-				<integer>512</integer>
-				<key>originalHeight</key>
-				<integer>384</integer>
-				<key>x</key>
-				<integer>0</integer>
-				<key>y</key>
-				<integer>771</integer>
-				<key>offsetX</key>
-				<real>0</real>
-				<key>offsetY</key>
-				<real>0.25</real>
-			</dict>
-			<key>animation/c01_fairy/l05_aladin/ending/ending0096.png</key>
-			<dict>
-				<key>width</key>
-				<integer>512</integer>
-				<key>height</key>
-				<integer>383</integer>
-				<key>originalWidth</key>
-				<integer>512</integer>
-				<key>originalHeight</key>
-				<integer>384</integer>
-				<key>x</key>
-				<integer>0</integer>
-				<key>y</key>
-				<integer>1156</integer>
-				<key>offsetX</key>
-				<real>0</real>
-				<key>offsetY</key>
-				<real>0.25</real>
-			</dict>
-			<key>animation/c01_fairy/l05_aladin/ending/ending0097.png</key>
-			<dict>
-				<key>width</key>
-				<integer>512</integer>
-				<key>height</key>
-				<integer>383</integer>
-				<key>originalWidth</key>
-				<integer>512</integer>
-				<key>originalHeight</key>
-				<integer>384</integer>
-				<key>x</key>
-				<integer>514</integer>
 				<key>y</key>
 				<integer>770</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
-				<real>0.25</real>
-			</dict>
-			<key>animation/c01_fairy/l05_aladin/ending/ending0098.png</key>
-			<dict>
-				<key>width</key>
-				<integer>512</integer>
-				<key>height</key>
-				<integer>383</integer>
-				<key>originalWidth</key>
-				<integer>512</integer>
-				<key>originalHeight</key>
-				<integer>384</integer>
-				<key>x</key>
-				<integer>0</integer>
-				<key>y</key>
-				<integer>1541</integer>
-				<key>offsetX</key>
 				<real>0</real>
-				<key>offsetY</key>
-				<real>0.25</real>
-			</dict>
-			<key>animation/c01_fairy/l05_aladin/ending/ending0099.png</key>
-			<dict>
-				<key>width</key>
-				<integer>512</integer>
-				<key>height</key>
-				<integer>383</integer>
-				<key>originalWidth</key>
-				<integer>512</integer>
-				<key>originalHeight</key>
-				<integer>384</integer>
-				<key>x</key>
-				<integer>514</integer>
-				<key>y</key>
-				<integer>1155</integer>
-				<key>offsetX</key>
-				<real>0</real>
-				<key>offsetY</key>
-				<real>0.25</real>
-			</dict>
-			<key>animation/c01_fairy/l05_aladin/ending/ending0100.png</key>
-			<dict>
-				<key>width</key>
-				<integer>512</integer>
-				<key>height</key>
-				<integer>383</integer>
-				<key>originalWidth</key>
-				<integer>512</integer>
-				<key>originalHeight</key>
-				<integer>384</integer>
-				<key>x</key>
-				<integer>1028</integer>
-				<key>y</key>
-				<integer>770</integer>
-				<key>offsetX</key>
-				<real>0</real>
-				<key>offsetY</key>
-				<real>0.25</real>
-			</dict>
-			<key>animation/c01_fairy/l05_aladin/ending/ending0101.png</key>
-			<dict>
-				<key>width</key>
-				<integer>512</integer>
-				<key>height</key>
-				<integer>383</integer>
-				<key>originalWidth</key>
-				<integer>512</integer>
-				<key>originalHeight</key>
-				<integer>384</integer>
-				<key>x</key>
-				<integer>514</integer>
-				<key>y</key>
-				<integer>1540</integer>
-				<key>offsetX</key>
-				<real>0</real>
-				<key>offsetY</key>
-				<real>0.25</real>
-			</dict>
-			<key>animation/c01_fairy/l05_aladin/ending/ending0102.png</key>
-			<dict>
-				<key>width</key>
-				<integer>512</integer>
-				<key>height</key>
-				<integer>383</integer>
-				<key>originalWidth</key>
-				<integer>512</integer>
-				<key>originalHeight</key>
-				<integer>384</integer>
-				<key>x</key>
-				<integer>1028</integer>
-				<key>y</key>
-				<integer>1155</integer>
-				<key>offsetX</key>
-				<real>0</real>
-				<key>offsetY</key>
-				<real>0.25</real>
-			</dict>
-			<key>animation/c01_fairy/l05_aladin/ending/ending0103.png</key>
-			<dict>
-				<key>width</key>
-				<integer>512</integer>
-				<key>height</key>
-				<integer>383</integer>
-				<key>originalWidth</key>
-				<integer>512</integer>
-				<key>originalHeight</key>
-				<integer>384</integer>
-				<key>x</key>
-				<integer>1028</integer>
-				<key>y</key>
-				<integer>1540</integer>
-				<key>offsetX</key>
-				<real>0</real>
-				<key>offsetY</key>
-				<real>0.25</real>
 			</dict>
 		</dict>
 		<key>metadata</key>

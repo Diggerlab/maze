@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfGuidesProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <GuidesProject>
-    <Project>ui_welcome_l01</Project>
+    <Project>ui_welcome</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>ui_class_select</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>ui_level_select_01</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>ui_level_select_02</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>ui_buylevel</Project>
     <GuidesList />
   </GuidesProject>
 </ArrayOfGuidesProject>
