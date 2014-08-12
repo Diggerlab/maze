@@ -7,13 +7,13 @@
 			<key>animation/c01_fairy/l04_radish/watermelon/watermelon_07.png</key>
 			<dict>
 				<key>width</key>
-				<integer>291</integer>
+				<integer>581</integer>
 				<key>height</key>
-				<integer>112</integer>
+				<integer>223</integer>
 				<key>originalWidth</key>
-				<integer>291</integer>
+				<integer>581</integer>
 				<key>originalHeight</key>
-				<integer>112</integer>
+				<integer>223</integer>
 				<key>x</key>
 				<integer>0</integer>
 				<key>y</key>
@@ -26,17 +26,17 @@
 			<key>animation/c01_fairy/l04_radish/watermelon/watermelon_08.png</key>
 			<dict>
 				<key>width</key>
-				<integer>291</integer>
+				<integer>581</integer>
 				<key>height</key>
-				<integer>112</integer>
+				<integer>223</integer>
 				<key>originalWidth</key>
-				<integer>291</integer>
+				<integer>581</integer>
 				<key>originalHeight</key>
-				<integer>112</integer>
+				<integer>223</integer>
 				<key>x</key>
-				<integer>293</integer>
-				<key>y</key>
 				<integer>0</integer>
+				<key>y</key>
+				<integer>225</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -45,17 +45,17 @@
 			<key>animation/c01_fairy/l04_radish/watermelon/watermelon_09.png</key>
 			<dict>
 				<key>width</key>
-				<integer>291</integer>
+				<integer>581</integer>
 				<key>height</key>
-				<integer>112</integer>
+				<integer>223</integer>
 				<key>originalWidth</key>
-				<integer>291</integer>
+				<integer>581</integer>
 				<key>originalHeight</key>
-				<integer>112</integer>
+				<integer>223</integer>
 				<key>x</key>
-				<integer>586</integer>
-				<key>y</key>
 				<integer>0</integer>
+				<key>y</key>
+				<integer>450</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -64,17 +64,17 @@
 			<key>animation/c01_fairy/l04_radish/watermelon/watermelon_10.png</key>
 			<dict>
 				<key>width</key>
-				<integer>291</integer>
+				<integer>581</integer>
 				<key>height</key>
-				<integer>112</integer>
+				<integer>223</integer>
 				<key>originalWidth</key>
-				<integer>291</integer>
+				<integer>581</integer>
 				<key>originalHeight</key>
-				<integer>112</integer>
+				<integer>223</integer>
 				<key>x</key>
-				<integer>879</integer>
-				<key>y</key>
 				<integer>0</integer>
+				<key>y</key>
+				<integer>675</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -83,15 +83,15 @@
 			<key>animation/c01_fairy/l04_radish/watermelon/watermelon_01.png</key>
 			<dict>
 				<key>width</key>
-				<integer>291</integer>
+				<integer>581</integer>
 				<key>height</key>
-				<integer>112</integer>
+				<integer>223</integer>
 				<key>originalWidth</key>
-				<integer>291</integer>
+				<integer>581</integer>
 				<key>originalHeight</key>
-				<integer>112</integer>
+				<integer>223</integer>
 				<key>x</key>
-				<integer>1172</integer>
+				<integer>583</integer>
 				<key>y</key>
 				<integer>0</integer>
 				<key>offsetX</key>
@@ -102,17 +102,17 @@
 			<key>animation/c01_fairy/l04_radish/watermelon/watermelon_02.png</key>
 			<dict>
 				<key>width</key>
-				<integer>291</integer>
+				<integer>581</integer>
 				<key>height</key>
-				<integer>112</integer>
+				<integer>223</integer>
 				<key>originalWidth</key>
-				<integer>291</integer>
+				<integer>581</integer>
 				<key>originalHeight</key>
-				<integer>112</integer>
+				<integer>223</integer>
 				<key>x</key>
-				<integer>1465</integer>
+				<integer>583</integer>
 				<key>y</key>
-				<integer>0</integer>
+				<integer>225</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -121,17 +121,17 @@
 			<key>animation/c01_fairy/l04_radish/watermelon/watermelon_03.png</key>
 			<dict>
 				<key>width</key>
-				<integer>291</integer>
+				<integer>581</integer>
 				<key>height</key>
-				<integer>112</integer>
+				<integer>223</integer>
 				<key>originalWidth</key>
-				<integer>291</integer>
+				<integer>581</integer>
 				<key>originalHeight</key>
-				<integer>112</integer>
+				<integer>223</integer>
 				<key>x</key>
-				<integer>0</integer>
+				<integer>583</integer>
 				<key>y</key>
-				<integer>114</integer>
+				<integer>450</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -140,17 +140,17 @@
 			<key>animation/c01_fairy/l04_radish/watermelon/watermelon_04.png</key>
 			<dict>
 				<key>width</key>
-				<integer>291</integer>
+				<integer>581</integer>
 				<key>height</key>
-				<integer>112</integer>
+				<integer>223</integer>
 				<key>originalWidth</key>
-				<integer>291</integer>
+				<integer>581</integer>
 				<key>originalHeight</key>
-				<integer>112</integer>
+				<integer>223</integer>
 				<key>x</key>
-				<integer>293</integer>
+				<integer>1166</integer>
 				<key>y</key>
-				<integer>114</integer>
+				<integer>0</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -159,17 +159,17 @@
 			<key>animation/c01_fairy/l04_radish/watermelon/watermelon_05.png</key>
 			<dict>
 				<key>width</key>
-				<integer>291</integer>
+				<integer>581</integer>
 				<key>height</key>
-				<integer>112</integer>
+				<integer>223</integer>
 				<key>originalWidth</key>
-				<integer>291</integer>
+				<integer>581</integer>
 				<key>originalHeight</key>
-				<integer>112</integer>
+				<integer>223</integer>
 				<key>x</key>
-				<integer>586</integer>
+				<integer>583</integer>
 				<key>y</key>
-				<integer>114</integer>
+				<integer>675</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -178,17 +178,17 @@
 			<key>animation/c01_fairy/l04_radish/watermelon/watermelon_06.png</key>
 			<dict>
 				<key>width</key>
-				<integer>291</integer>
+				<integer>581</integer>
 				<key>height</key>
-				<integer>112</integer>
+				<integer>223</integer>
 				<key>originalWidth</key>
-				<integer>291</integer>
+				<integer>581</integer>
 				<key>originalHeight</key>
-				<integer>112</integer>
+				<integer>223</integer>
 				<key>x</key>
-				<integer>879</integer>
+				<integer>1166</integer>
 				<key>y</key>
-				<integer>114</integer>
+				<integer>225</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>

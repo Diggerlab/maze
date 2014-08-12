@@ -7,13 +7,13 @@
 			<key>animation/c01_fairy/l04_radish/pumpkin/pumpkin_07.png</key>
 			<dict>
 				<key>width</key>
-				<integer>284</integer>
+				<integer>567</integer>
 				<key>height</key>
-				<integer>133</integer>
+				<integer>266</integer>
 				<key>originalWidth</key>
-				<integer>284</integer>
+				<integer>567</integer>
 				<key>originalHeight</key>
-				<integer>133</integer>
+				<integer>266</integer>
 				<key>x</key>
 				<integer>0</integer>
 				<key>y</key>
@@ -26,17 +26,17 @@
 			<key>animation/c01_fairy/l04_radish/pumpkin/pumpkin_08.png</key>
 			<dict>
 				<key>width</key>
-				<integer>284</integer>
+				<integer>567</integer>
 				<key>height</key>
-				<integer>133</integer>
+				<integer>266</integer>
 				<key>originalWidth</key>
-				<integer>284</integer>
+				<integer>567</integer>
 				<key>originalHeight</key>
-				<integer>133</integer>
+				<integer>266</integer>
 				<key>x</key>
-				<integer>286</integer>
-				<key>y</key>
 				<integer>0</integer>
+				<key>y</key>
+				<integer>268</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -45,17 +45,17 @@
 			<key>animation/c01_fairy/l04_radish/pumpkin/pumpkin_09.png</key>
 			<dict>
 				<key>width</key>
-				<integer>284</integer>
+				<integer>567</integer>
 				<key>height</key>
-				<integer>133</integer>
+				<integer>266</integer>
 				<key>originalWidth</key>
-				<integer>284</integer>
+				<integer>567</integer>
 				<key>originalHeight</key>
-				<integer>133</integer>
+				<integer>266</integer>
 				<key>x</key>
-				<integer>572</integer>
-				<key>y</key>
 				<integer>0</integer>
+				<key>y</key>
+				<integer>536</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -64,15 +64,15 @@
 			<key>animation/c01_fairy/l04_radish/pumpkin/pumpkin_10.png</key>
 			<dict>
 				<key>width</key>
-				<integer>284</integer>
+				<integer>567</integer>
 				<key>height</key>
-				<integer>133</integer>
+				<integer>266</integer>
 				<key>originalWidth</key>
-				<integer>284</integer>
+				<integer>567</integer>
 				<key>originalHeight</key>
-				<integer>133</integer>
+				<integer>266</integer>
 				<key>x</key>
-				<integer>858</integer>
+				<integer>569</integer>
 				<key>y</key>
 				<integer>0</integer>
 				<key>offsetX</key>
@@ -83,17 +83,17 @@
 			<key>animation/c01_fairy/l04_radish/pumpkin/pumpkin_01.png</key>
 			<dict>
 				<key>width</key>
-				<integer>284</integer>
+				<integer>567</integer>
 				<key>height</key>
-				<integer>133</integer>
+				<integer>266</integer>
 				<key>originalWidth</key>
-				<integer>284</integer>
+				<integer>567</integer>
 				<key>originalHeight</key>
-				<integer>133</integer>
+				<integer>266</integer>
 				<key>x</key>
-				<integer>1144</integer>
+				<integer>569</integer>
 				<key>y</key>
-				<integer>0</integer>
+				<integer>268</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -102,17 +102,17 @@
 			<key>animation/c01_fairy/l04_radish/pumpkin/pumpkin_02.png</key>
 			<dict>
 				<key>width</key>
-				<integer>284</integer>
+				<integer>567</integer>
 				<key>height</key>
-				<integer>133</integer>
+				<integer>266</integer>
 				<key>originalWidth</key>
-				<integer>284</integer>
+				<integer>567</integer>
 				<key>originalHeight</key>
-				<integer>133</integer>
+				<integer>266</integer>
 				<key>x</key>
-				<integer>1430</integer>
+				<integer>569</integer>
 				<key>y</key>
-				<integer>0</integer>
+				<integer>536</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -121,15 +121,15 @@
 			<key>animation/c01_fairy/l04_radish/pumpkin/pumpkin_03.png</key>
 			<dict>
 				<key>width</key>
-				<integer>284</integer>
+				<integer>567</integer>
 				<key>height</key>
-				<integer>133</integer>
+				<integer>266</integer>
 				<key>originalWidth</key>
-				<integer>284</integer>
+				<integer>567</integer>
 				<key>originalHeight</key>
-				<integer>133</integer>
+				<integer>266</integer>
 				<key>x</key>
-				<integer>1716</integer>
+				<integer>1138</integer>
 				<key>y</key>
 				<integer>0</integer>
 				<key>offsetX</key>
@@ -140,17 +140,17 @@
 			<key>animation/c01_fairy/l04_radish/pumpkin/pumpkin_04.png</key>
 			<dict>
 				<key>width</key>
-				<integer>284</integer>
+				<integer>567</integer>
 				<key>height</key>
-				<integer>133</integer>
+				<integer>266</integer>
 				<key>originalWidth</key>
-				<integer>284</integer>
+				<integer>567</integer>
 				<key>originalHeight</key>
-				<integer>133</integer>
+				<integer>266</integer>
 				<key>x</key>
-				<integer>0</integer>
+				<integer>1138</integer>
 				<key>y</key>
-				<integer>135</integer>
+				<integer>268</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -159,17 +159,17 @@
 			<key>animation/c01_fairy/l04_radish/pumpkin/pumpkin_05.png</key>
 			<dict>
 				<key>width</key>
-				<integer>284</integer>
+				<integer>567</integer>
 				<key>height</key>
-				<integer>133</integer>
+				<integer>266</integer>
 				<key>originalWidth</key>
-				<integer>284</integer>
+				<integer>567</integer>
 				<key>originalHeight</key>
-				<integer>133</integer>
+				<integer>266</integer>
 				<key>x</key>
-				<integer>286</integer>
+				<integer>1138</integer>
 				<key>y</key>
-				<integer>135</integer>
+				<integer>536</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -178,17 +178,17 @@
 			<key>animation/c01_fairy/l04_radish/pumpkin/pumpkin_06.png</key>
 			<dict>
 				<key>width</key>
-				<integer>284</integer>
+				<integer>567</integer>
 				<key>height</key>
-				<integer>133</integer>
+				<integer>266</integer>
 				<key>originalWidth</key>
-				<integer>284</integer>
+				<integer>567</integer>
 				<key>originalHeight</key>
-				<integer>133</integer>
+				<integer>266</integer>
 				<key>x</key>
-				<integer>572</integer>
+				<integer>0</integer>
 				<key>y</key>
-				<integer>135</integer>
+				<integer>804</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
