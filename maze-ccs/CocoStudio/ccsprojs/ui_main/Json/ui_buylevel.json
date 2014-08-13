@@ -13,7 +13,18 @@
     "ui_main0.plist",
     "ui_main1.plist"
   ],
-  "texturesPng": [],
+  "texturesPng": [
+    "ui_main0.png",
+    "ui_main1.png",
+    "ui_main0.png",
+    "ui_main1.png",
+    "ui_main0.png",
+    "ui_main1.png",
+    "ui_main0.png",
+    "ui_main1.png",
+    "ui_main0.png",
+    "ui_main1.png"
+  ],
   "version": "1.6.0.0",
   "widgetTree": {
     "classname": "Panel",
