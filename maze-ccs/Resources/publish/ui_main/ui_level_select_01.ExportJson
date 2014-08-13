@@ -288,7 +288,7 @@
             "options": {
               "__type": "ButtonSurrogate:#EditorCommon.JsonModel.Component.GUI",
               "classname": "Button",
-              "name": "btn_mermaid",
+              "name": "btn_fish",
               "ZOrder": 0,
               "actiontag": 61221073,
               "anchorPointX": 0.5,
@@ -316,7 +316,7 @@
                 "marginLeft": 18,
                 "marginRight": 0,
                 "marginTop": 205,
-                "relativeName": "btn_mermaid",
+                "relativeName": "btn_fish",
                 "relativeToName": "pl_mid",
                 "type": 1
               },
@@ -378,7 +378,7 @@
             "options": {
               "__type": "ButtonSurrogate:#EditorCommon.JsonModel.Component.GUI",
               "classname": "Button",
-              "name": "btn_enormous",
+              "name": "btn_radish",
               "ZOrder": 0,
               "actiontag": 28078335,
               "anchorPointX": 0.5,
@@ -406,7 +406,7 @@
                 "marginLeft": -448,
                 "marginRight": 0,
                 "marginTop": 438,
-                "relativeName": "btn_enormous",
+                "relativeName": "btn_radish",
                 "relativeToName": "pl_mid",
                 "type": 1
               },

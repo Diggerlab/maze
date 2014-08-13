@@ -10,9 +10,21 @@
   "designHeight": 768,
   "designWidth": 1024,
   "textures": [
-    "ui_welcome0.plist"
+    "ui_main0.plist",
+    "ui_main1.plist"
   ],
-  "texturesPng": [],
+  "texturesPng": [
+    "ui_main0.png",
+    "ui_main1.png",
+    "ui_main0.png",
+    "ui_main1.png",
+    "ui_main0.png",
+    "ui_main1.png",
+    "ui_main0.png",
+    "ui_main1.png",
+    "ui_main0.png",
+    "ui_main1.png"
+  ],
   "version": "1.6.0.0",
   "widgetTree": {
     "classname": "Panel",
@@ -280,7 +292,7 @@
             "options": {
               "__type": "ButtonSurrogate:#EditorCommon.JsonModel.Component.GUI",
               "classname": "Button",
-              "name": "btn_mermaid",
+              "name": "btn_fish",
               "ZOrder": 0,
               "actiontag": 61221073,
               "anchorPointX": 0.5,
@@ -308,7 +320,7 @@
                 "marginLeft": 18,
                 "marginRight": 0,
                 "marginTop": 205,
-                "relativeName": "btn_mermaid",
+                "relativeName": "btn_fish",
                 "relativeToName": "pl_mid",
                 "type": 1
               },
@@ -370,7 +382,7 @@
             "options": {
               "__type": "ButtonSurrogate:#EditorCommon.JsonModel.Component.GUI",
               "classname": "Button",
-              "name": "btn_enormous",
+              "name": "btn_radish",
               "ZOrder": 0,
               "actiontag": 28078335,
               "anchorPointX": 0.5,
@@ -398,7 +410,7 @@
                 "marginLeft": -448,
                 "marginRight": 0,
                 "marginTop": 438,
-                "relativeName": "btn_enormous",
+                "relativeName": "btn_radish",
                 "relativeToName": "pl_mid",
                 "type": 1
               },

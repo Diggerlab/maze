@@ -24,7 +24,18 @@
     <string>ui_main0.plist</string>
     <string>ui_main1.plist</string>
   </imageFileList>
-  <imagePngList />
+  <imagePngList>
+    <string>ui_main0.png</string>
+    <string>ui_main1.png</string>
+    <string>ui_main0.png</string>
+    <string>ui_main1.png</string>
+    <string>ui_main0.png</string>
+    <string>ui_main1.png</string>
+    <string>ui_main0.png</string>
+    <string>ui_main1.png</string>
+    <string>ui_main0.png</string>
+    <string>ui_main1.png</string>
+  </imagePngList>
   <JsonSuffix>.json</JsonSuffix>
-  <CurrentUIJson>ui_class_select.json</CurrentUIJson>
+  <CurrentUIJson>ui_level_select_01.json</CurrentUIJson>
 </UIProject>
