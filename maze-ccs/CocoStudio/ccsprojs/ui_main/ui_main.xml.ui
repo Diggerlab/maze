@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <UIProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <ProjectDir>C:\Users\Render\Documents\GitHub\maze\maze-ccs\CocoStudio\ccsprojs\ui_main</ProjectDir>
+  <ProjectDir>D:\workspace\maze\maze-ccs\CocoStudio\ccsprojs\ui_main</ProjectDir>
   <Version>1.6.0.0</Version>
-  <Resources>C:\Users\Render\Documents\GitHub\maze\maze-ccs\CocoStudio\assets</Resources>
+  <Resources>D:\workspace\maze\maze-ccs\CocoStudio\assets</Resources>
   <Name>ui_main</Name>
   <JsonFileName>ui_main.json</JsonFileName>
-  <JsonFolder>C:\Users\Render\Documents\GitHub\maze\maze-ccs\CocoStudio\ccsprojs\ui_main\Json</JsonFolder>
+  <JsonFolder>D:\workspace\maze\maze-ccs\CocoStudio\ccsprojs\ui_main\Json</JsonFolder>
   <JsonList>
     <string>ui_welcome.json</string>
     <string>ui_class_select.json</string>
@@ -17,7 +17,7 @@
     <Width>1365</Width>
     <Height>768</Height>
   </CanvasSize>
-  <filePath>C:\Users\Render\Documents\GitHub\maze\maze-ccs\CocoStudio\ccsprojs\ui_main\ui_main.xml.ui</filePath>
+  <filePath>D:\workspace\maze\maze-ccs\CocoStudio\ccsprojs\ui_main\ui_main.xml.ui</filePath>
   <ProjectType>UIProject</ProjectType>
   <ResRelativePath>\\..\\..\\assets</ResRelativePath>
   <imageFileList>
