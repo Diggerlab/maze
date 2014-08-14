@@ -132,6 +132,10 @@
       "plistFile": ""
     }
   ],
-  "config_file_path": [],
-  "config_png_path": []
+  "config_file_path": [
+    "ani_c00main_02star0.plist"
+  ],
+  "config_png_path": [
+    "ani_c00main_02star0.png"
+  ]
 }
