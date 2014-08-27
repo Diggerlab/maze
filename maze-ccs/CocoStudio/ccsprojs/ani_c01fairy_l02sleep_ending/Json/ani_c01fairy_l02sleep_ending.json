@@ -2,8 +2,8 @@
   "content_scale": 1.0,
   "armature_data": [
     {
-      "strVersion": "1.5.0.0",
-      "version": 1.5,
+      "strVersion": "1.6.0.0",
+      "version": 1.6,
       "name": "ani_c01fairy_l02sleep_ending",
       "bone_data": [
         {
@@ -20,6 +20,7 @@
           "arrow_x": 0.0,
           "arrow_y": 0.0,
           "effectbyskeleton": false,
+          "bl": 0,
           "display_data": [
             {
               "name": "animation/c01_fairy/l02_sleep/ending/010.png",
@@ -51,6 +52,7 @@
           "arrow_x": 0.0,
           "arrow_y": 0.0,
           "effectbyskeleton": false,
+          "bl": 0,
           "display_data": [
             {
               "name": "animation/c01_fairy/l02_sleep/ending/009.png",
@@ -82,6 +84,7 @@
           "arrow_x": 0.0,
           "arrow_y": 0.0,
           "effectbyskeleton": false,
+          "bl": 0,
           "display_data": [
             {
               "name": "animation/c01_fairy/l02_sleep/ending/008.png",
@@ -113,6 +116,7 @@
           "arrow_x": 0.0,
           "arrow_y": 0.0,
           "effectbyskeleton": false,
+          "bl": 0,
           "display_data": [
             {
               "name": "animation/c01_fairy/l02_sleep/ending/007.png",
@@ -144,6 +148,7 @@
           "arrow_x": 0.0,
           "arrow_y": 0.0,
           "effectbyskeleton": false,
+          "bl": 0,
           "display_data": [
             {
               "name": "animation/c01_fairy/l02_sleep/ending/006.png",
@@ -175,6 +180,7 @@
           "arrow_x": 0.0,
           "arrow_y": 0.0,
           "effectbyskeleton": false,
+          "bl": 0,
           "display_data": [
             {
               "name": "animation/c01_fairy/l02_sleep/ending/005.png",
@@ -206,6 +212,7 @@
           "arrow_x": 0.0,
           "arrow_y": 0.0,
           "effectbyskeleton": false,
+          "bl": 0,
           "display_data": [
             {
               "name": "animation/c01_fairy/l02_sleep/ending/004.png",
@@ -237,6 +244,7 @@
           "arrow_x": 0.0,
           "arrow_y": 0.0,
           "effectbyskeleton": false,
+          "bl": 0,
           "display_data": [
             {
               "name": "animation/c01_fairy/l02_sleep/ending/003.png",
@@ -268,6 +276,7 @@
           "arrow_x": 0.0,
           "arrow_y": 0.0,
           "effectbyskeleton": false,
+          "bl": 0,
           "display_data": [
             {
               "name": "animation/c01_fairy/l02_sleep/ending/002.png",
@@ -299,6 +308,7 @@
           "arrow_x": 0.0,
           "arrow_y": 0.0,
           "effectbyskeleton": false,
+          "bl": 0,
           "display_data": [
             {
               "name": "animation/c01_fairy/l02_sleep/ending/001.png",
@@ -325,7 +335,7 @@
       "mov_data": [
         {
           "name": "Animation1",
-          "dr": 121,
+          "dr": 171,
           "lp": false,
           "to": 0,
           "drTW": 0,
@@ -353,7 +363,9 @@
                     "r": 255,
                     "g": 255,
                     "b": 255
-                  }
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 771
                 },
                 {
                   "dI": 0,
@@ -372,7 +384,9 @@
                     "r": 255,
                     "g": 255,
                     "b": 255
-                  }
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 771
                 },
                 {
                   "dI": 0,
@@ -385,7 +399,9 @@
                   "kY": 0.0,
                   "fi": 113,
                   "twE": 0,
-                  "tweenFrame": true
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
                 },
                 {
                   "dI": 0,
@@ -398,7 +414,9 @@
                   "kY": 0.0,
                   "fi": 114,
                   "twE": 0,
-                  "tweenFrame": false
+                  "tweenFrame": false,
+                  "bd_src": 1,
+                  "bd_dst": 771
                 },
                 {
                   "dI": 0,
@@ -411,7 +429,24 @@
                   "kY": 0.0,
                   "fi": 120,
                   "twE": 0,
-                  "tweenFrame": true
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 170,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
                 }
               ]
             },
@@ -436,7 +471,9 @@
                     "r": 255,
                     "g": 255,
                     "b": 255
-                  }
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 771
                 },
                 {
                   "dI": 0,
@@ -455,7 +492,9 @@
                     "r": 255,
                     "g": 255,
                     "b": 255
-                  }
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 771
                 },
                 {
                   "dI": 0,
@@ -468,7 +507,9 @@
                   "kY": 0.0,
                   "fi": 102,
                   "twE": 0,
-                  "tweenFrame": true
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
                 },
                 {
                   "dI": 0,
@@ -481,7 +522,9 @@
                   "kY": 0.0,
                   "fi": 103,
                   "twE": 0,
-                  "tweenFrame": false
+                  "tweenFrame": false,
+                  "bd_src": 1,
+                  "bd_dst": 771
                 }
               ]
             },
@@ -506,7 +549,9 @@
                     "r": 255,
                     "g": 255,
                     "b": 255
-                  }
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 771
                 },
                 {
                   "dI": 0,
@@ -525,7 +570,9 @@
                     "r": 255,
                     "g": 255,
                     "b": 255
-                  }
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 771
                 },
                 {
                   "dI": 0,
@@ -538,7 +585,9 @@
                   "kY": 0.0,
                   "fi": 90,
                   "twE": 0,
-                  "tweenFrame": true
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
                 },
                 {
                   "dI": 0,
@@ -551,7 +600,9 @@
                   "kY": 0.0,
                   "fi": 91,
                   "twE": 0,
-                  "tweenFrame": false
+                  "tweenFrame": false,
+                  "bd_src": 1,
+                  "bd_dst": 771
                 }
               ]
             },
@@ -576,7 +627,9 @@
                     "r": 255,
                     "g": 255,
                     "b": 255
-                  }
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 771
                 },
                 {
                   "dI": 0,
@@ -595,7 +648,9 @@
                     "r": 255,
                     "g": 255,
                     "b": 255
-                  }
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 771
                 },
                 {
                   "dI": 0,
@@ -608,7 +663,9 @@
                   "kY": 0.0,
                   "fi": 78,
                   "twE": 0,
-                  "tweenFrame": true
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
                 },
                 {
                   "dI": 0,
@@ -621,7 +678,9 @@
                   "kY": 0.0,
                   "fi": 79,
                   "twE": 0,
-                  "tweenFrame": false
+                  "tweenFrame": false,
+                  "bd_src": 1,
+                  "bd_dst": 771
                 }
               ]
             },
@@ -646,7 +705,9 @@
                     "r": 255,
                     "g": 255,
                     "b": 255
-                  }
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 771
                 },
                 {
                   "dI": 0,
@@ -665,7 +726,9 @@
                     "r": 255,
                     "g": 255,
                     "b": 255
-                  }
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 771
                 },
                 {
                   "dI": 0,
@@ -678,7 +741,9 @@
                   "kY": 0.0,
                   "fi": 66,
                   "twE": 0,
-                  "tweenFrame": true
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
                 },
                 {
                   "dI": 0,
@@ -691,7 +756,9 @@
                   "kY": 0.0,
                   "fi": 67,
                   "twE": 0,
-                  "tweenFrame": false
+                  "tweenFrame": false,
+                  "bd_src": 1,
+                  "bd_dst": 771
                 }
               ]
             },
@@ -716,7 +783,9 @@
                     "r": 255,
                     "g": 255,
                     "b": 255
-                  }
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 771
                 },
                 {
                   "dI": 0,
@@ -735,7 +804,9 @@
                     "r": 255,
                     "g": 255,
                     "b": 255
-                  }
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 771
                 },
                 {
                   "dI": 0,
@@ -748,7 +819,9 @@
                   "kY": 0.0,
                   "fi": 54,
                   "twE": 0,
-                  "tweenFrame": true
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
                 },
                 {
                   "dI": 0,
@@ -761,7 +834,9 @@
                   "kY": 0.0,
                   "fi": 55,
                   "twE": 0,
-                  "tweenFrame": false
+                  "tweenFrame": false,
+                  "bd_src": 1,
+                  "bd_dst": 771
                 }
               ]
             },
@@ -780,7 +855,9 @@
                   "kY": 0.0,
                   "fi": 0,
                   "twE": 0,
-                  "tweenFrame": true
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
                 },
                 {
                   "dI": 0,
@@ -799,7 +876,9 @@
                     "r": 255,
                     "g": 255,
                     "b": 255
-                  }
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 771
                 },
                 {
                   "dI": 0,
@@ -818,7 +897,9 @@
                     "r": 255,
                     "g": 255,
                     "b": 255
-                  }
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 771
                 },
                 {
                   "dI": 0,
@@ -837,7 +918,9 @@
                     "r": 255,
                     "g": 255,
                     "b": 255
-                  }
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 771
                 },
                 {
                   "dI": 0,
@@ -856,7 +939,9 @@
                     "r": 255,
                     "g": 255,
                     "b": 255
-                  }
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 771
                 },
                 {
                   "dI": 0,
@@ -875,7 +960,9 @@
                     "r": 255,
                     "g": 255,
                     "b": 255
-                  }
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 771
                 },
                 {
                   "dI": 0,
@@ -894,7 +981,9 @@
                     "r": 255,
                     "g": 255,
                     "b": 255
-                  }
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 771
                 }
               ]
             },
@@ -919,7 +1008,9 @@
                     "r": 255,
                     "g": 255,
                     "b": 255
-                  }
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 771
                 },
                 {
                   "dI": 0,
@@ -938,7 +1029,9 @@
                     "r": 255,
                     "g": 255,
                     "b": 255
-                  }
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 771
                 },
                 {
                   "dI": 0,
@@ -951,7 +1044,9 @@
                   "kY": 0.0,
                   "fi": 30,
                   "twE": 0,
-                  "tweenFrame": true
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
                 },
                 {
                   "dI": 0,
@@ -964,7 +1059,9 @@
                   "kY": 0.0,
                   "fi": 31,
                   "twE": 0,
-                  "tweenFrame": false
+                  "tweenFrame": false,
+                  "bd_src": 1,
+                  "bd_dst": 771
                 }
               ]
             },
@@ -989,7 +1086,9 @@
                     "r": 255,
                     "g": 255,
                     "b": 255
-                  }
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 771
                 },
                 {
                   "dI": 0,
@@ -1008,7 +1107,9 @@
                     "r": 255,
                     "g": 255,
                     "b": 255
-                  }
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 771
                 },
                 {
                   "dI": 0,
@@ -1021,7 +1122,9 @@
                   "kY": 0.0,
                   "fi": 18,
                   "twE": 0,
-                  "tweenFrame": true
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
                 },
                 {
                   "dI": 0,
@@ -1034,7 +1137,9 @@
                   "kY": 0.0,
                   "fi": 19,
                   "twE": 0,
-                  "tweenFrame": false
+                  "tweenFrame": false,
+                  "bd_src": 1,
+                  "bd_dst": 771
                 }
               ]
             },
@@ -1053,7 +1158,9 @@
                   "kY": 0.0,
                   "fi": 0,
                   "twE": 0,
-                  "tweenFrame": true
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
                 },
                 {
                   "dI": 0,
@@ -1066,7 +1173,9 @@
                   "kY": 0.0,
                   "fi": 45,
                   "twE": 0,
-                  "tweenFrame": true
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
                 },
                 {
                   "dI": 0,
@@ -1079,7 +1188,9 @@
                   "kY": 0.0,
                   "fi": 46,
                   "twE": 0,
-                  "tweenFrame": false
+                  "tweenFrame": false,
+                  "bd_src": 1,
+                  "bd_dst": 771
                 }
               ]
             }

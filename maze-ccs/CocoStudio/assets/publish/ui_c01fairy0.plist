@@ -7,11 +7,11 @@
 			<key>ui/c01_fairy/l01_duck/map.png</key>
 			<dict>
 				<key>width</key>
-				<integer>1024</integer>
+				<integer>1365</integer>
 				<key>height</key>
 				<integer>768</integer>
 				<key>originalWidth</key>
-				<integer>1024</integer>
+				<integer>1365</integer>
 				<key>originalHeight</key>
 				<integer>768</integer>
 				<key>x</key>
@@ -34,7 +34,7 @@
 				<key>originalHeight</key>
 				<integer>25</integer>
 				<key>x</key>
-				<integer>1026</integer>
+				<integer>1367</integer>
 				<key>y</key>
 				<integer>0</integer>
 				<key>offsetX</key>
@@ -53,7 +53,7 @@
 				<key>originalHeight</key>
 				<integer>191</integer>
 				<key>x</key>
-				<integer>1053</integer>
+				<integer>1394</integer>
 				<key>y</key>
 				<integer>0</integer>
 				<key>offsetX</key>
@@ -72,7 +72,7 @@
 				<key>originalHeight</key>
 				<integer>57</integer>
 				<key>x</key>
-				<integer>1382</integer>
+				<integer>1723</integer>
 				<key>y</key>
 				<integer>0</integer>
 				<key>offsetX</key>
@@ -83,11 +83,11 @@
 			<key>ui/c01_fairy/l02_sleep/map.png</key>
 			<dict>
 				<key>width</key>
-				<integer>1024</integer>
+				<integer>1365</integer>
 				<key>height</key>
 				<integer>768</integer>
 				<key>originalWidth</key>
-				<integer>1024</integer>
+				<integer>1365</integer>
 				<key>originalHeight</key>
 				<integer>768</integer>
 				<key>x</key>
@@ -110,7 +110,7 @@
 				<key>originalHeight</key>
 				<integer>62</integer>
 				<key>x</key>
-				<integer>1026</integer>
+				<integer>1367</integer>
 				<key>y</key>
 				<integer>770</integer>
 				<key>offsetX</key>
@@ -129,7 +129,7 @@
 				<key>originalHeight</key>
 				<integer>459</integer>
 				<key>x</key>
-				<integer>1101</integer>
+				<integer>1442</integer>
 				<key>y</key>
 				<integer>770</integer>
 				<key>offsetX</key>
@@ -244,6 +244,25 @@
 				<integer>56</integer>
 				<key>x</key>
 				<integer>112</integer>
+				<key>y</key>
+				<integer>1771</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>ui/c01_fairy/l06_puppet/icon.png</key>
+			<dict>
+				<key>width</key>
+				<integer>76</integer>
+				<key>height</key>
+				<integer>90</integer>
+				<key>originalWidth</key>
+				<integer>76</integer>
+				<key>originalHeight</key>
+				<integer>90</integer>
+				<key>x</key>
+				<integer>176</integer>
 				<key>y</key>
 				<integer>1771</integer>
 				<key>offsetX</key>

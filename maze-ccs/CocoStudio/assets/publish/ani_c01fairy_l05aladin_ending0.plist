@@ -7,9 +7,9 @@
 			<key>animation/c01_fairy/l05_aladin/ending/line05.png</key>
 			<dict>
 				<key>width</key>
-				<integer>1024</integer>
+				<integer>156</integer>
 				<key>height</key>
-				<integer>768</integer>
+				<integer>105</integer>
 				<key>originalWidth</key>
 				<integer>1024</integer>
 				<key>originalHeight</key>
@@ -19,11 +19,163 @@
 				<key>y</key>
 				<integer>0</integer>
 				<key>offsetX</key>
-				<real>0</real>
+				<real>25</real>
 				<key>offsetY</key>
-				<real>0</real>
+				<real>300.5</real>
 			</dict>
 			<key>animation/c01_fairy/l05_aladin/ending/line04.png</key>
+			<dict>
+				<key>width</key>
+				<integer>192</integer>
+				<key>height</key>
+				<integer>129</integer>
+				<key>originalWidth</key>
+				<integer>1024</integer>
+				<key>originalHeight</key>
+				<integer>768</integer>
+				<key>x</key>
+				<integer>0</integer>
+				<key>y</key>
+				<integer>107</integer>
+				<key>offsetX</key>
+				<real>229</real>
+				<key>offsetY</key>
+				<real>234.5</real>
+			</dict>
+			<key>animation/c01_fairy/l05_aladin/ending/line03.png</key>
+			<dict>
+				<key>width</key>
+				<integer>259</integer>
+				<key>height</key>
+				<integer>174</integer>
+				<key>originalWidth</key>
+				<integer>1024</integer>
+				<key>originalHeight</key>
+				<integer>768</integer>
+				<key>x</key>
+				<integer>0</integer>
+				<key>y</key>
+				<integer>238</integer>
+				<key>offsetX</key>
+				<real>172.5</real>
+				<key>offsetY</key>
+				<real>57</real>
+			</dict>
+			<key>animation/c01_fairy/l05_aladin/ending/line02.png</key>
+			<dict>
+				<key>width</key>
+				<integer>336</integer>
+				<key>height</key>
+				<integer>227</integer>
+				<key>originalWidth</key>
+				<integer>1024</integer>
+				<key>originalHeight</key>
+				<integer>768</integer>
+				<key>x</key>
+				<integer>261</integer>
+				<key>y</key>
+				<integer>0</integer>
+				<key>offsetX</key>
+				<real>147</real>
+				<key>offsetY</key>
+				<real>-119.5</real>
+			</dict>
+			<key>animation/c01_fairy/l05_aladin/ending/line01.png</key>
+			<dict>
+				<key>width</key>
+				<integer>377</integer>
+				<key>height</key>
+				<integer>254</integer>
+				<key>originalWidth</key>
+				<integer>1024</integer>
+				<key>originalHeight</key>
+				<integer>768</integer>
+				<key>x</key>
+				<integer>261</integer>
+				<key>y</key>
+				<integer>229</integer>
+				<key>offsetX</key>
+				<real>230.5</real>
+				<key>offsetY</key>
+				<real>-216</real>
+			</dict>
+			<key>animation/c01_fairy/l05_aladin/ending/Djinni.png</key>
+			<dict>
+				<key>width</key>
+				<integer>550</integer>
+				<key>height</key>
+				<integer>572</integer>
+				<key>originalWidth</key>
+				<integer>1024</integer>
+				<key>originalHeight</key>
+				<integer>768</integer>
+				<key>x</key>
+				<integer>640</integer>
+				<key>y</key>
+				<integer>0</integer>
+				<key>offsetX</key>
+				<real>80</real>
+				<key>offsetY</key>
+				<real>-1</real>
+			</dict>
+			<key>animation/c01_fairy/l05_aladin/ending/boy2.png</key>
+			<dict>
+				<key>width</key>
+				<integer>218</integer>
+				<key>height</key>
+				<integer>195</integer>
+				<key>originalWidth</key>
+				<integer>1024</integer>
+				<key>originalHeight</key>
+				<integer>768</integer>
+				<key>x</key>
+				<integer>0</integer>
+				<key>y</key>
+				<integer>414</integer>
+				<key>offsetX</key>
+				<real>311</real>
+				<key>offsetY</key>
+				<real>-248.5</real>
+			</dict>
+			<key>animation/c01_fairy/l05_aladin/ending/boy01.png</key>
+			<dict>
+				<key>width</key>
+				<integer>195</integer>
+				<key>height</key>
+				<integer>189</integer>
+				<key>originalWidth</key>
+				<integer>1024</integer>
+				<key>originalHeight</key>
+				<integer>768</integer>
+				<key>x</key>
+				<integer>0</integer>
+				<key>y</key>
+				<integer>611</integer>
+				<key>offsetX</key>
+				<real>299.5</real>
+				<key>offsetY</key>
+				<real>-245.5</real>
+			</dict>
+			<key>animation/c01_fairy/l05_aladin/ending/wind.png</key>
+			<dict>
+				<key>width</key>
+				<integer>788</integer>
+				<key>height</key>
+				<integer>751</integer>
+				<key>originalWidth</key>
+				<integer>1024</integer>
+				<key>originalHeight</key>
+				<integer>768</integer>
+				<key>x</key>
+				<integer>1192</integer>
+				<key>y</key>
+				<integer>0</integer>
+				<key>offsetX</key>
+				<real>118</real>
+				<key>offsetY</key>
+				<real>-8.5</real>
+			</dict>
+			<key>animation/c01_fairy/l05_aladin/ending/road.png</key>
 			<dict>
 				<key>width</key>
 				<integer>1024</integer>
@@ -36,11 +188,30 @@
 				<key>x</key>
 				<integer>0</integer>
 				<key>y</key>
-				<integer>770</integer>
+				<integer>802</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
 				<real>0</real>
+			</dict>
+			<key>animation/c01_fairy/l05_aladin/ending/lamp.png</key>
+			<dict>
+				<key>width</key>
+				<integer>225</integer>
+				<key>height</key>
+				<integer>157</integer>
+				<key>originalWidth</key>
+				<integer>1024</integer>
+				<key>originalHeight</key>
+				<integer>768</integer>
+				<key>x</key>
+				<integer>220</integer>
+				<key>y</key>
+				<integer>485</integer>
+				<key>offsetX</key>
+				<real>332.5</real>
+				<key>offsetY</key>
+				<real>-286.5</real>
 			</dict>
 		</dict>
 		<key>metadata</key>

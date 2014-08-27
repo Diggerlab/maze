@@ -12,6 +12,7 @@
     <string>ui_level_select_01.json</string>
     <string>ui_level_select_02.json</string>
     <string>ui_buylevel.json</string>
+    <string>ui_welcome2.json</string>
   </JsonList>
   <CanvasSize>
     <Width>1365</Width>
@@ -23,8 +24,28 @@
   <imageFileList>
     <string>ui_main0.plist</string>
     <string>ui_main1.plist</string>
+    <string>ui_main2.plist</string>
   </imageFileList>
-  <imagePngList />
+  <imagePngList>
+    <string>ui_main0.png</string>
+    <string>ui_main1.png</string>
+    <string>ui_main2.png</string>
+    <string>ui_main0.png</string>
+    <string>ui_main1.png</string>
+    <string>ui_main2.png</string>
+    <string>ui_main0.png</string>
+    <string>ui_main1.png</string>
+    <string>ui_main2.png</string>
+    <string>ui_main0.png</string>
+    <string>ui_main1.png</string>
+    <string>ui_main2.png</string>
+    <string>ui_main0.png</string>
+    <string>ui_main1.png</string>
+    <string>ui_main2.png</string>
+    <string>ui_main0.png</string>
+    <string>ui_main1.png</string>
+    <string>ui_main2.png</string>
+  </imagePngList>
   <JsonSuffix>.json</JsonSuffix>
-  <CurrentUIJson>ui_buylevel.json</CurrentUIJson>
+  <CurrentUIJson>ui_level_select_02.json</CurrentUIJson>
 </UIProject>

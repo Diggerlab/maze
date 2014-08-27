@@ -20,4 +20,8 @@
     <Project>ui_level_select_02</Project>
     <GuidesList />
   </GuidesProject>
+  <GuidesProject>
+    <Project>ui_welcome2</Project>
+    <GuidesList />
+  </GuidesProject>
 </ArrayOfGuidesProject>

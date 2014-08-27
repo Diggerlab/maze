@@ -79,7 +79,7 @@
       "mov_data": [
         {
           "name": "Animation1",
-          "dr": 41,
+          "dr": 101,
           "lp": false,
           "to": 0,
           "drTW": 0,
@@ -125,6 +125,21 @@
                   "tweenFrame": true,
                   "bd_src": 1,
                   "bd_dst": 771
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 100,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
                 }
               ]
             },
@@ -163,6 +178,21 @@
                   "kX": 0.0,
                   "kY": 0.0,
                   "fi": 26,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 100,
                   "twE": 0,
                   "tweenFrame": true,
                   "bd_src": 1,

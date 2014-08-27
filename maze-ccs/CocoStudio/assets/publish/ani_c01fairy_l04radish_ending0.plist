@@ -9,7 +9,7 @@
 				<key>width</key>
 				<integer>1024</integer>
 				<key>height</key>
-				<integer>576</integer>
+				<integer>303</integer>
 				<key>originalWidth</key>
 				<integer>1024</integer>
 				<key>originalHeight</key>
@@ -21,14 +21,14 @@
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
-				<real>0</real>
+				<real>25.5</real>
 			</dict>
 			<key>animation/c01_fairy/l04_radish/ending/a03.png</key>
 			<dict>
 				<key>width</key>
 				<integer>1024</integer>
 				<key>height</key>
-				<integer>576</integer>
+				<integer>308</integer>
 				<key>originalWidth</key>
 				<integer>1024</integer>
 				<key>originalHeight</key>
@@ -36,18 +36,18 @@
 				<key>x</key>
 				<integer>0</integer>
 				<key>y</key>
-				<integer>578</integer>
+				<integer>305</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
-				<real>0</real>
+				<real>28</real>
 			</dict>
 			<key>animation/c01_fairy/l04_radish/ending/a02.png</key>
 			<dict>
 				<key>width</key>
 				<integer>1024</integer>
 				<key>height</key>
-				<integer>576</integer>
+				<integer>270</integer>
 				<key>originalWidth</key>
 				<integer>1024</integer>
 				<key>originalHeight</key>
@@ -55,11 +55,30 @@
 				<key>x</key>
 				<integer>0</integer>
 				<key>y</key>
-				<integer>1156</integer>
+				<integer>615</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
+				<real>9</real>
+			</dict>
+			<key>animation/c01_fairy/l04_radish/ending/a01.png</key>
+			<dict>
+				<key>width</key>
+				<integer>1024</integer>
+				<key>height</key>
+				<integer>270</integer>
+				<key>originalWidth</key>
+				<integer>1024</integer>
+				<key>originalHeight</key>
+				<integer>576</integer>
+				<key>x</key>
+				<integer>0</integer>
+				<key>y</key>
+				<integer>887</integer>
+				<key>offsetX</key>
 				<real>0</real>
+				<key>offsetY</key>
+				<real>9</real>
 			</dict>
 		</dict>
 		<key>metadata</key>

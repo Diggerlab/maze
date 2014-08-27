@@ -2,8 +2,8 @@
   "content_scale": 1.0,
   "armature_data": [
     {
-      "strVersion": "1.5.0.0",
-      "version": 1.5,
+      "strVersion": "1.6.0.0",
+      "version": 1.6,
       "name": "ani_c01fairy_l04radish_ending",
       "bone_data": [
         {
@@ -20,6 +20,7 @@
           "arrow_x": 0.0,
           "arrow_y": 0.0,
           "effectbyskeleton": false,
+          "bl": 0,
           "display_data": [
             {
               "name": "animation/c01_fairy/l04_radish/ending/a04.png",
@@ -51,6 +52,7 @@
           "arrow_x": 0.0,
           "arrow_y": 0.0,
           "effectbyskeleton": false,
+          "bl": 0,
           "display_data": [
             {
               "name": "animation/c01_fairy/l04_radish/ending/a03.png",
@@ -82,6 +84,7 @@
           "arrow_x": 0.0,
           "arrow_y": 0.0,
           "effectbyskeleton": false,
+          "bl": 0,
           "display_data": [
             {
               "name": "animation/c01_fairy/l04_radish/ending/a02.png",
@@ -113,6 +116,7 @@
           "arrow_x": 0.0,
           "arrow_y": 0.0,
           "effectbyskeleton": false,
+          "bl": 0,
           "display_data": [
             {
               "name": "animation/c01_fairy/l04_radish/ending/a01.png",
@@ -139,7 +143,7 @@
       "mov_data": [
         {
           "name": "Animation1",
-          "dr": 91,
+          "dr": 151,
           "lp": false,
           "to": 0,
           "drTW": 0,
@@ -167,7 +171,9 @@
                     "r": 255,
                     "g": 255,
                     "b": 255
-                  }
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 771
                 },
                 {
                   "dI": 0,
@@ -180,7 +186,24 @@
                   "kY": 0.0,
                   "fi": 90,
                   "twE": 0,
-                  "tweenFrame": true
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 150,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
                 }
               ]
             },
@@ -205,7 +228,9 @@
                     "r": 255,
                     "g": 255,
                     "b": 255
-                  }
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 771
                 },
                 {
                   "dI": 0,
@@ -218,7 +243,9 @@
                   "kY": 0.0,
                   "fi": 60,
                   "twE": 0,
-                  "tweenFrame": true
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
                 },
                 {
                   "dI": 0,
@@ -231,7 +258,9 @@
                   "kY": 0.0,
                   "fi": 84,
                   "twE": 0,
-                  "tweenFrame": true
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
                 },
                 {
                   "dI": 0,
@@ -250,7 +279,9 @@
                     "r": 255,
                     "g": 255,
                     "b": 255
-                  }
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 771
                 }
               ]
             },
@@ -275,7 +306,9 @@
                     "r": 255,
                     "g": 255,
                     "b": 255
-                  }
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 771
                 },
                 {
                   "dI": 0,
@@ -288,7 +321,9 @@
                   "kY": 0.0,
                   "fi": 30,
                   "twE": 0,
-                  "tweenFrame": true
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
                 },
                 {
                   "dI": 0,
@@ -301,7 +336,9 @@
                   "kY": 0.0,
                   "fi": 54,
                   "twE": 0,
-                  "tweenFrame": true
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
                 },
                 {
                   "dI": 0,
@@ -320,7 +357,9 @@
                     "r": 255,
                     "g": 255,
                     "b": 255
-                  }
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 771
                 }
               ]
             },
@@ -339,7 +378,9 @@
                   "kY": 0.0,
                   "fi": 0,
                   "twE": 0,
-                  "tweenFrame": true
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
                 },
                 {
                   "dI": 0,
@@ -352,7 +393,9 @@
                   "kY": 0.0,
                   "fi": 30,
                   "twE": 0,
-                  "tweenFrame": true
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
                 },
                 {
                   "dI": 0,
@@ -371,7 +414,9 @@
                     "r": 255,
                     "g": 255,
                     "b": 255
-                  }
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 771
                 }
               ]
             }
@@ -399,16 +444,16 @@
     },
     {
       "name": "animation/c01_fairy/l04_radish/ending/a03",
-      "width": 2048.0,
-      "height": 1152.0,
+      "width": 1024.0,
+      "height": 576.0,
       "pX": 0.5,
       "pY": 0.5,
       "plistFile": ""
     },
     {
       "name": "animation/c01_fairy/l04_radish/ending/a04",
-      "width": 2048.0,
-      "height": 1152.0,
+      "width": 1024.0,
+      "height": 576.0,
       "pX": 0.5,
       "pY": 0.5,
       "plistFile": ""
