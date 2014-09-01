@@ -2,10 +2,42 @@
   "content_scale": 1.0,
   "armature_data": [
     {
-      "strVersion": "1.4.0.1",
-      "version": 1.401,
+      "strVersion": "1.6.0.0",
+      "version": 1.6,
       "name": "ani_c01fairy_l01duck_ending",
       "bone_data": [
+        {
+          "name": "Layer1",
+          "parent": "",
+          "dI": 0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 4,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": 0.0,
+          "kY": 0.0,
+          "arrow_x": 0.0,
+          "arrow_y": 0.0,
+          "effectbyskeleton": false,
+          "bl": 0,
+          "display_data": [
+            {
+              "name": "animation/c01_fairy/l01_duck/ending/swam0002.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            }
+          ]
+        },
         {
           "name": "Layer6",
           "parent": "",
@@ -20,6 +52,7 @@
           "arrow_x": 0.0,
           "arrow_y": 0.0,
           "effectbyskeleton": false,
+          "bl": 0,
           "display_data": [
             {
               "name": "animation/c01_fairy/l01_duck/ending/swam0021.png",
@@ -51,6 +84,7 @@
           "arrow_x": 0.0,
           "arrow_y": 0.0,
           "effectbyskeleton": false,
+          "bl": 0,
           "display_data": [
             {
               "name": "animation/c01_fairy/l01_duck/ending/swam0001.png",
@@ -82,6 +116,7 @@
           "arrow_x": 0.0,
           "arrow_y": 0.0,
           "effectbyskeleton": false,
+          "bl": 0,
           "display_data": [
             {
               "name": "animation/c01_fairy/l01_duck/ending/swam0060.png",
@@ -108,7 +143,7 @@
       "mov_data": [
         {
           "name": "ani_ending",
-          "dr": 61,
+          "dr": 146,
           "lp": false,
           "to": 0,
           "drTW": 0,
@@ -116,13 +151,13 @@
           "sc": 1.0,
           "mov_bone_data": [
             {
-              "name": "Layer6",
+              "name": "Layer1",
               "dl": 0.0,
               "frame_data": [
                 {
                   "dI": 0,
-                  "x": 0.0,
-                  "y": 0.0,
+                  "x": -10.0,
+                  "y": 12.153839111328125,
                   "z": 0,
                   "cX": 1.0,
                   "cY": 1.0,
@@ -136,12 +171,14 @@
                     "r": 255,
                     "g": 255,
                     "b": 255
-                  }
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 771
                 },
                 {
                   "dI": 0,
-                  "x": 0.0,
-                  "y": 0.0,
+                  "x": -10.0,
+                  "y": 12.153839111328125,
                   "z": 0,
                   "cX": 1.0,
                   "cY": 1.0,
@@ -149,31 +186,35 @@
                   "kY": 0.0,
                   "fi": 21,
                   "twE": 0,
-                  "tweenFrame": true
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
                 },
                 {
                   "dI": 0,
-                  "x": 0.0,
-                  "y": 0.0,
+                  "x": -10.0,
+                  "y": 12.153839111328125,
                   "z": 0,
                   "cX": 1.0,
                   "cY": 1.0,
                   "kX": 0.0,
                   "kY": 0.0,
-                  "fi": 41,
+                  "fi": 40,
                   "twE": 0,
-                  "tweenFrame": true
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
                 },
                 {
                   "dI": 0,
-                  "x": 0.0,
-                  "y": 0.0,
+                  "x": -10.0,
+                  "y": 12.153839111328125,
                   "z": 0,
                   "cX": 1.0,
                   "cY": 1.0,
                   "kX": 0.0,
                   "kY": 0.0,
-                  "fi": 60,
+                  "fi": 59,
                   "twE": 0,
                   "tweenFrame": true,
                   "color": {
@@ -181,7 +222,108 @@
                     "r": 255,
                     "g": 255,
                     "b": 255
-                  }
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 771
+                }
+              ]
+            },
+            {
+              "name": "Layer6",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 40,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 0,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 59,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 79,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 98,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 0,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 145,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 0,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 771
                 }
               ]
             },
@@ -200,7 +342,9 @@
                   "kY": 0.0,
                   "fi": 0,
                   "twE": 0,
-                  "tweenFrame": true
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
                 },
                 {
                   "dI": 0,
@@ -213,7 +357,9 @@
                   "kY": 0.0,
                   "fi": 2,
                   "twE": 0,
-                  "tweenFrame": true
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
                 },
                 {
                   "dI": 0,
@@ -232,7 +378,9 @@
                     "r": 255,
                     "g": 255,
                     "b": 255
-                  }
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 771
                 },
                 {
                   "dI": 0,
@@ -251,7 +399,9 @@
                     "r": 255,
                     "g": 255,
                     "b": 255
-                  }
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 771
                 }
               ]
             },
@@ -268,7 +418,7 @@
                   "cY": 1.0,
                   "kX": 0.0,
                   "kY": 0.0,
-                  "fi": 41,
+                  "fi": 79,
                   "twE": 0,
                   "tweenFrame": true,
                   "color": {
@@ -276,7 +426,9 @@
                     "r": 255,
                     "g": 255,
                     "b": 255
-                  }
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 771
                 },
                 {
                   "dI": 0,
@@ -287,9 +439,11 @@
                   "cY": 1.0,
                   "kX": 0.0,
                   "kY": 0.0,
-                  "fi": 60,
+                  "fi": 98,
                   "twE": 0,
-                  "tweenFrame": true
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
                 }
               ]
             }
@@ -298,13 +452,20 @@
       ]
     }
   ],
-  "texture_data": [],
+  "texture_data": [
+    {
+      "name": "animation/c01_fairy/l01_duck/ending/swam0002",
+      "width": 792.0,
+      "height": 412.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    }
+  ],
   "config_file_path": [
-    "ani_c01fairy_l01duck_ending0.plist",
-    "ani_c01fairy_l01duck_ending1.plist"
+    "ani_c01fairy_l01duck_ending0.plist"
   ],
   "config_png_path": [
-    "ani_c01fairy_l01duck_ending0.png",
-    "ani_c01fairy_l01duck_ending1.png"
+    "ani_c01fairy_l01duck_ending0.png"
   ]
 }
