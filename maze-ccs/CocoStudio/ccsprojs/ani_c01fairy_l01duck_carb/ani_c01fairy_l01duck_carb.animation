@@ -14,8 +14,6 @@
   <filePath>C:\Users\Render\Documents\GitHub\maze\maze-ccs\CocoStudio\ccsprojs\ani_c01fairy_l01duck_carb\ani_c01fairy_l01duck_carb.animation</filePath>
   <ProjectType>AnimationProject</ProjectType>
   <ResRelativePath>\\..\\..\\assets</ResRelativePath>
-  <ResourceFileList>
-    <string>ani_c01fairy_l01duck_carb0.plist</string>
-  </ResourceFileList>
+  <ResourceFileList />
   <bBatchImage>true</bBatchImage>
 </AnimationProject>

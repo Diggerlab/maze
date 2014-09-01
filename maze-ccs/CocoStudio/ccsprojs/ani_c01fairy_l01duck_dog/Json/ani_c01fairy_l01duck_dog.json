@@ -2,8 +2,8 @@
   "content_scale": 1.0,
   "armature_data": [
     {
-      "strVersion": "1.5.0.0",
-      "version": 1.5,
+      "strVersion": "1.6.0.0",
+      "version": 1.6,
       "name": "ani_c01fairy_l01duck_dog",
       "bone_data": [
         {
@@ -20,6 +20,7 @@
           "arrow_x": 0.0,
           "arrow_y": 0.0,
           "effectbyskeleton": false,
+          "bl": 0,
           "display_data": [
             {
               "name": "animation/c01_fairy/l01_duck/dog/dog_5.png",
@@ -65,6 +66,7 @@
           "arrow_x": 0.0,
           "arrow_y": 0.0,
           "effectbyskeleton": false,
+          "bl": 0,
           "display_data": [
             {
               "name": "animation/c01_fairy/l01_duck/dog/dog_1.png",
@@ -161,11 +163,13 @@
                     "r": 255,
                     "g": 255,
                     "b": 255
-                  }
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 771
                 },
                 {
                   "dI": 0,
-                  "x": 0.0,
+                  "x": -38.0,
                   "y": 0.0,
                   "z": 0,
                   "cX": 1.0,
@@ -174,11 +178,13 @@
                   "kY": 0.0,
                   "fi": 1,
                   "twE": 0,
-                  "tweenFrame": true
+                  "tweenFrame": false,
+                  "bd_src": 1,
+                  "bd_dst": 771
                 },
                 {
                   "dI": 1,
-                  "x": 0.0,
+                  "x": -15.0,
                   "y": 0.0,
                   "z": 0,
                   "cX": 1.0,
@@ -187,11 +193,13 @@
                   "kY": 0.0,
                   "fi": 7,
                   "twE": 0,
-                  "tweenFrame": true
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
                 },
                 {
                   "dI": 1,
-                  "x": 0.0,
+                  "x": -15.0,
                   "y": 0.0,
                   "z": 0,
                   "cX": 1.0,
@@ -200,11 +208,13 @@
                   "kY": 0.0,
                   "fi": 29,
                   "twE": 0,
-                  "tweenFrame": true
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
                 },
                 {
                   "dI": 1,
-                  "x": 0.0,
+                  "x": -15.0,
                   "y": 0.0,
                   "z": 0,
                   "cX": 1.0,
@@ -219,7 +229,9 @@
                     "r": 255,
                     "g": 255,
                     "b": 255
-                  }
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 771
                 },
                 {
                   "dI": 1,
@@ -238,7 +250,9 @@
                     "r": 255,
                     "g": 255,
                     "b": 255
-                  }
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 771
                 }
               ]
             },
@@ -257,7 +271,9 @@
                   "kY": 0.0,
                   "fi": 0,
                   "twE": 0,
-                  "tweenFrame": true
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
                 },
                 {
                   "dI": 1,
@@ -270,7 +286,9 @@
                   "kY": 0.0,
                   "fi": 2,
                   "twE": 0,
-                  "tweenFrame": true
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
                 },
                 {
                   "dI": 2,
@@ -283,7 +301,9 @@
                   "kY": 0.0,
                   "fi": 7,
                   "twE": 0,
-                  "tweenFrame": true
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
                 },
                 {
                   "dI": 3,
@@ -296,7 +316,9 @@
                   "kY": 0.0,
                   "fi": 10,
                   "twE": 0,
-                  "tweenFrame": true
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
                 },
                 {
                   "dI": 2,
@@ -309,7 +331,9 @@
                   "kY": 0.0,
                   "fi": 13,
                   "twE": 0,
-                  "tweenFrame": true
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
                 },
                 {
                   "dI": 3,
@@ -322,7 +346,9 @@
                   "kY": 0.0,
                   "fi": 16,
                   "twE": 0,
-                  "tweenFrame": true
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
                 },
                 {
                   "dI": 2,
@@ -335,7 +361,9 @@
                   "kY": 0.0,
                   "fi": 19,
                   "twE": 0,
-                  "tweenFrame": true
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
                 },
                 {
                   "dI": 3,
@@ -348,7 +376,9 @@
                   "kY": 0.0,
                   "fi": 22,
                   "twE": 0,
-                  "tweenFrame": true
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
                 },
                 {
                   "dI": 0,
@@ -361,7 +391,9 @@
                   "kY": 0.0,
                   "fi": 34,
                   "twE": 0,
-                  "tweenFrame": true
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
                 }
               ]
             }
