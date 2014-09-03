@@ -11,7 +11,8 @@
   "designWidth": 1365,
   "textures": [
     "ui_main0.plist",
-    "ui_main1.plist"
+    "ui_main1.plist",
+    "ui_main2.plist"
   ],
   "texturesPng": [],
   "version": "1.6.0.0",
