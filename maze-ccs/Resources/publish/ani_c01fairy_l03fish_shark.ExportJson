@@ -1,0 +1,249 @@
+{
+  "content_scale": 1.0,
+  "armature_data": [
+    {
+      "strVersion": "1.5.0.0",
+      "version": 1.5,
+      "name": "ani_c01fairy_l03fish_shark",
+      "bone_data": [
+        {
+          "name": "Layer1",
+          "parent": "",
+          "dI": 4,
+          "x": -0.5,
+          "y": -0.32666015625,
+          "z": 1,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": 0.0,
+          "kY": 0.0,
+          "arrow_x": 0.0,
+          "arrow_y": 0.0,
+          "effectbyskeleton": false,
+          "display_data": [
+            {
+              "name": "animation/c01_fairy/l03_fish/shark/shark_01.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            },
+            {
+              "name": "animation/c01_fairy/l03_fish/shark/shark_02.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            },
+            {
+              "name": "animation/c01_fairy/l03_fish/shark/shark_03.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            },
+            {
+              "name": "animation/c01_fairy/l03_fish/shark/shark_04.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            },
+            {
+              "name": "animation/c01_fairy/l03_fish/shark/shark_05.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "animation_data": [
+    {
+      "name": "ani_c01fairy_l03fish_shark",
+      "mov_data": [
+        {
+          "name": "Animation1",
+          "dr": 17,
+          "lp": false,
+          "to": 0,
+          "drTW": 0,
+          "twE": 0,
+          "sc": 0.2,
+          "mov_bone_data": [
+            {
+              "name": "Layer1",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 4,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 0.5,
+                  "cY": 0.5,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 0.5,
+                  "cY": 0.5,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 1,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 1,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 0.5,
+                  "cY": 0.5,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 4,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 2,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 0.5,
+                  "cY": 0.5,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 7,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 3,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 0.5,
+                  "cY": 0.5,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 13,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 4,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 0.5,
+                  "cY": 0.5,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 16,
+                  "twE": 0,
+                  "tweenFrame": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "texture_data": [
+    {
+      "name": "animation/c01_fairy/l03_fish/shark/shark_01",
+      "width": 859.0,
+      "height": 646.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "animation/c01_fairy/l03_fish/shark/shark_02",
+      "width": 859.0,
+      "height": 646.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "animation/c01_fairy/l03_fish/shark/shark_03",
+      "width": 859.0,
+      "height": 646.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "animation/c01_fairy/l03_fish/shark/shark_04",
+      "width": 859.0,
+      "height": 646.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "animation/c01_fairy/l03_fish/shark/shark_05",
+      "width": 859.0,
+      "height": 646.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    }
+  ],
+  "config_file_path": [
+    "ani_c01fairy_l03fish_shark0.plist"
+  ],
+  "config_png_path": [
+    "ani_c01fairy_l03fish_shark0.png"
+  ]
+}

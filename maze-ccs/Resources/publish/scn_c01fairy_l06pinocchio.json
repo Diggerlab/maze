@@ -1,6 +1,6 @@
 {
   "classname": "CCNode",
-  "name": null,
+  "name": "scn_root",
   "canedit": true,
   "objecttag": 10000,
   "rotation": 0,
@@ -14,7 +14,7 @@
     {
       "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
       "classname": "CCNode",
-      "name": null,
+      "name": "ui_main",
       "canedit": true,
       "objecttag": 10003,
       "rotation": 0,
@@ -24,7 +24,38 @@
       "x": 0,
       "y": 0,
       "zorder": 1,
-      "gameobjects": [],
+      "gameobjects": [
+        {
+          "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+          "classname": "CCNode",
+          "name": "ani_ending_LA112_E",
+          "canedit": true,
+          "objecttag": 10013,
+          "rotation": 0,
+          "scalex": 0.5,
+          "scaley": 0.5,
+          "visible": 1,
+          "x": 225.41656494140625,
+          "y": 1040.41650390625,
+          "zorder": 1,
+          "gameobjects": [],
+          "components": [
+            {
+              "__type": "ComArmatureAdapterSurrogate:#EditorCommon.JsonModel.Component",
+              "classname": "CCArmature",
+              "name": "CCArmature",
+              "file": null,
+              "fileData": {
+                "path": "publish/ani_c01fairy_l06pinocchio_ending.ExportJson",
+                "plistFile": "",
+                "resourceType": 0
+              },
+              "isShowColliderRect": false,
+              "selectedactionname": "Animation1"
+            }
+          ]
+        }
+      ],
       "components": [
         {
           "__type": "ComGUIAdapterSurrogate:#EditorCommon.JsonModel.Component",
@@ -32,7 +63,7 @@
           "name": "GUIComponent",
           "file": null,
           "fileData": {
-            "path": "publish/ui_welcome2.ExportJson",
+            "path": "publish/ui_c01fairy_l06pinocchio.ExportJson",
             "plistFile": "",
             "resourceType": 0
           }
@@ -51,7 +82,7 @@
       "__type": "ComSceneSurrogate:#EditorCommon.JsonModel.Component",
       "classname": "CCScene",
       "name": "CCScene",
-      "scenename": "scn_c00main_firstmaze"
+      "scenename": "scn_c01fairy_l06pinocchio"
     },
     {
       "__type": "ComSimpleAudioSurrogate:#EditorCommon.JsonModel.Component",

@@ -1,0 +1,280 @@
+{
+  "classname": "CCNode",
+  "name": "scn_root",
+  "canedit": true,
+  "objecttag": 10000,
+  "rotation": 0,
+  "scalex": 1,
+  "scaley": 1,
+  "visible": 1,
+  "x": 0,
+  "y": 0,
+  "zorder": 1,
+  "gameobjects": [
+    {
+      "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+      "classname": "CCNode",
+      "name": "ui_main",
+      "canedit": true,
+      "objecttag": 10003,
+      "rotation": 0,
+      "scalex": 1,
+      "scaley": 1,
+      "visible": 1,
+      "x": 0,
+      "y": 0,
+      "zorder": 1,
+      "gameobjects": [
+        {
+          "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+          "classname": "CCNode",
+          "name": "ani_snake_LG005H003",
+          "canedit": true,
+          "objecttag": 10004,
+          "rotation": 0,
+          "scalex": 0.5,
+          "scaley": 0.5,
+          "visible": 1,
+          "x": 900.00006103515625,
+          "y": 591.4285888671875,
+          "zorder": 1,
+          "gameobjects": [],
+          "components": [
+            {
+              "__type": "ComArmatureAdapterSurrogate:#EditorCommon.JsonModel.Component",
+              "classname": "CCArmature",
+              "name": "CCArmature",
+              "file": null,
+              "fileData": {
+                "path": "publish/ani_c01fairy_l05aladin_snake.ExportJson",
+                "plistFile": "",
+                "resourceType": 0
+              },
+              "isShowColliderRect": false,
+              "selectedactionname": "Animation1"
+            }
+          ]
+        },
+        {
+          "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+          "classname": "CCNode",
+          "name": "ani_knife_LO002",
+          "canedit": true,
+          "objecttag": 10005,
+          "rotation": 0,
+          "scalex": 0.5,
+          "scaley": 0.5,
+          "visible": 1,
+          "x": 460.2381591796875,
+          "y": 148.04762268066406,
+          "zorder": 1,
+          "gameobjects": [],
+          "components": [
+            {
+              "__type": "ComArmatureAdapterSurrogate:#EditorCommon.JsonModel.Component",
+              "classname": "CCArmature",
+              "name": "CCArmature",
+              "file": null,
+              "fileData": {
+                "path": "publish/ani_c01fairy_l05aladin_knife.ExportJson",
+                "plistFile": "",
+                "resourceType": 0
+              },
+              "isShowColliderRect": false,
+              "selectedactionname": "Animation1"
+            }
+          ]
+        },
+        {
+          "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+          "classname": "CCNode",
+          "name": "ani_box_LL007",
+          "canedit": true,
+          "objecttag": 10006,
+          "rotation": 0,
+          "scalex": 0.5,
+          "scaley": 0.5,
+          "visible": 1,
+          "x": 478.77593994140625,
+          "y": 423.18975830078125,
+          "zorder": 1,
+          "gameobjects": [],
+          "components": [
+            {
+              "__type": "ComArmatureAdapterSurrogate:#EditorCommon.JsonModel.Component",
+              "classname": "CCArmature",
+              "name": "CCArmature",
+              "file": null,
+              "fileData": {
+                "path": "publish/ani_c01fairy_l05aladin_box.ExportJson",
+                "plistFile": "",
+                "resourceType": 0
+              },
+              "isShowColliderRect": false,
+              "selectedactionname": "Animation1"
+            }
+          ]
+        },
+        {
+          "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+          "classname": "CCNode",
+          "name": "ani_bat_LD004Q002",
+          "canedit": true,
+          "objecttag": 10007,
+          "rotation": 0,
+          "scalex": 0.5,
+          "scaley": 0.5,
+          "visible": 1,
+          "x": 297.84317016601562,
+          "y": 267.1568603515625,
+          "zorder": 1,
+          "gameobjects": [],
+          "components": [
+            {
+              "__type": "ComArmatureAdapterSurrogate:#EditorCommon.JsonModel.Component",
+              "classname": "CCArmature",
+              "name": "CCArmature",
+              "file": null,
+              "fileData": {
+                "path": "publish/ani_c01fairy_l05aladin_bat.ExportJson",
+                "plistFile": "",
+                "resourceType": 0
+              },
+              "isShowColliderRect": false,
+              "selectedactionname": "Animation1"
+            }
+          ]
+        },
+        {
+          "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+          "classname": "CCNode",
+          "name": "ani_crocodile_LK002",
+          "canedit": true,
+          "objecttag": 10008,
+          "rotation": 0,
+          "scalex": 0.5,
+          "scaley": 0.5,
+          "visible": 1,
+          "x": 834.15386962890625,
+          "y": 494.07693481445312,
+          "zorder": 1,
+          "gameobjects": [],
+          "components": [
+            {
+              "__type": "ComArmatureAdapterSurrogate:#EditorCommon.JsonModel.Component",
+              "classname": "CCArmature",
+              "name": "CCArmature",
+              "file": null,
+              "fileData": {
+                "path": "publish/ani_c01fairy_l05aladin_crocodile.ExportJson",
+                "plistFile": "",
+                "resourceType": 0
+              },
+              "isShowColliderRect": false,
+              "selectedactionname": "Animation1"
+            }
+          ]
+        },
+        {
+          "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+          "classname": "CCNode",
+          "name": "ani_bag_LN009",
+          "canedit": true,
+          "objecttag": 10009,
+          "rotation": 0,
+          "scalex": 0.5,
+          "scaley": 0.5,
+          "visible": 1,
+          "x": 924.03289794921875,
+          "y": 215.93405151367188,
+          "zorder": 1,
+          "gameobjects": [],
+          "components": [
+            {
+              "__type": "ComArmatureAdapterSurrogate:#EditorCommon.JsonModel.Component",
+              "classname": "CCArmature",
+              "name": "CCArmature",
+              "file": null,
+              "fileData": {
+                "path": "publish/ani_c01fairy_l05aladin_bag.ExportJson",
+                "plistFile": "",
+                "resourceType": 0
+              },
+              "isShowColliderRect": false,
+              "selectedactionname": "Animation1"
+            }
+          ]
+        },
+        {
+          "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+          "classname": "CCNode",
+          "name": "ani_ending_LA135_E",
+          "canedit": true,
+          "objecttag": 10011,
+          "rotation": 0,
+          "scalex": 1,
+          "scaley": 1,
+          "visible": 1,
+          "x": 650.27825927734375,
+          "y": 270.55560302734375,
+          "zorder": 1,
+          "gameobjects": [],
+          "components": [
+            {
+              "__type": "ComArmatureAdapterSurrogate:#EditorCommon.JsonModel.Component",
+              "classname": "CCArmature",
+              "name": "CCArmature",
+              "file": null,
+              "fileData": {
+                "path": "publish/ani_c01fairy_l05aladin_ending.ExportJson",
+                "plistFile": "",
+                "resourceType": 0
+              },
+              "isShowColliderRect": false,
+              "selectedactionname": "Animation1"
+            }
+          ]
+        }
+      ],
+      "components": [
+        {
+          "__type": "ComGUIAdapterSurrogate:#EditorCommon.JsonModel.Component",
+          "classname": "GUIComponent",
+          "name": "GUIComponent",
+          "file": null,
+          "fileData": {
+            "path": "publish/ui_c01fairy_l05aladin.ExportJson",
+            "plistFile": "",
+            "resourceType": 0
+          }
+        }
+      ]
+    }
+  ],
+  "CanvasSize": {
+    "_height": 768,
+    "_width": 1365
+  },
+  "Triggers": null,
+  "Version": "1.6.0.0",
+  "components": [
+    {
+      "__type": "ComSceneSurrogate:#EditorCommon.JsonModel.Component",
+      "classname": "CCScene",
+      "name": "CCScene",
+      "scenename": "scn_c01fairy_l05aladin"
+    },
+    {
+      "__type": "ComSimpleAudioSurrogate:#EditorCommon.JsonModel.Component",
+      "classname": "CCBackgroundAudio",
+      "name": "CCBackgroundAudio",
+      "file": null,
+      "fileData": {
+        "path": null,
+        "plistFile": null,
+        "resourceType": 0
+      },
+      "loop": 0
+    }
+  ]
+}

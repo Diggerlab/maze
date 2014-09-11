@@ -1,0 +1,284 @@
+{
+  "content_scale": 1.0,
+  "armature_data": [
+    {
+      "strVersion": "1.5.0.0",
+      "version": 1.5,
+      "name": "ani_c01fairy_l02sleep_spider",
+      "bone_data": [
+        {
+          "name": "Layer1",
+          "parent": "",
+          "dI": 5,
+          "x": 3.5,
+          "y": -1.32666015625,
+          "z": 1,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": 0.0,
+          "kY": 0.0,
+          "arrow_x": 0.0,
+          "arrow_y": 0.0,
+          "effectbyskeleton": false,
+          "display_data": [
+            {
+              "name": "animation/c01_fairy/l02_sleep/spider/spider_1.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            },
+            {
+              "name": "animation/c01_fairy/l02_sleep/spider/spider_2.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            },
+            {
+              "name": "animation/c01_fairy/l02_sleep/spider/spider_3.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            },
+            {
+              "name": "animation/c01_fairy/l02_sleep/spider/spider_4.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            },
+            {
+              "name": "animation/c01_fairy/l02_sleep/spider/spider_5.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            },
+            {
+              "name": "animation/c01_fairy/l02_sleep/spider/spider_6.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "animation_data": [
+    {
+      "name": "ani_c01fairy_l02sleep_spider",
+      "mov_data": [
+        {
+          "name": "Animation1",
+          "dr": 30,
+          "lp": false,
+          "to": 0,
+          "drTW": 0,
+          "twE": 0,
+          "sc": 0.2,
+          "mov_bone_data": [
+            {
+              "name": "Layer1",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 5,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 1,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 1,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 9,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 2,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 15,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 3,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 19,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 4,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 28,
+                  "twE": 0,
+                  "tweenFrame": true
+                },
+                {
+                  "dI": 5,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 29,
+                  "twE": 0,
+                  "tweenFrame": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "texture_data": [
+    {
+      "name": "animation/c01_fairy/l02_sleep/spider/spider_1",
+      "width": 102.0,
+      "height": 92.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "animation/c01_fairy/l02_sleep/spider/spider_2",
+      "width": 0.0,
+      "height": 0.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "animation/c01_fairy/l02_sleep/spider/spider_3",
+      "width": 102.0,
+      "height": 92.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "animation/c01_fairy/l02_sleep/spider/spider_4",
+      "width": 102.0,
+      "height": 92.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "animation/c01_fairy/l02_sleep/spider/spider_5",
+      "width": 204.0,
+      "height": 184.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "animation/c01_fairy/l02_sleep/spider/spider_6",
+      "width": 204.0,
+      "height": 184.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    }
+  ],
+  "config_file_path": [
+    "ani_c01fairy_l02sleep_spider0.plist"
+  ],
+  "config_png_path": [
+    "ani_c01fairy_l02sleep_spider0.png"
+  ]
+}
