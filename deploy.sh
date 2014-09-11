@@ -28,9 +28,9 @@ pathRes=$pathDesign/../Resources
 function copyRes()
 {
     cp -r $pathDesign/maze-ccs/Resources/data $pathRes/
-    cp -r $pathDesign/maze-ccs/Resources/publish $pathRes/
+    cp -r $pathDesign/maze-ccs/Resources/publish $pathRes
 
-    cp $pathDesign/maze-ccs/CocoStudio/assets/publish/*.plist $pathRes/Resources/publish/
+    cp $pathDesign/maze-ccs/CocoStudio/assets/publish/*.plist $pathRes/publish/
 
     #rsync -av $pathDesign/Icon/iOS/ "$pathRes/../proj.ios_mac/Poodle iOS/Images.xcassets/AppIcon.appiconset/"
     rsync -av $pathDesign/Splash/iOS/ "$pathRes/../proj.ios_mac/Maze iOS/Images.xcassets/LaunchImage.launchimage/"
