@@ -38,8 +38,17 @@ function copyRes()
     #cp -r -f $pathDesign/Icon/V3/Android/ "$pathRes/../proj.android/res/"
     #cp -f $pathDesign/Splash/V3/Android/* "$pathRes/../proj.android/res/drawable/"
 
-}
+    find maze-ccs/CocoStudio/assets/animation -name "opening" |awk \
+        '{ printf "mkdir -p %s\n",$1}'|sed    \
+        's/maze-ccs\/CocoStudio\/assets\/animation/tmp/'|sh
 
+    find maze-ccs/CocoStudio/assets/animation -name "opening" |awk \
+        '{ printf "cp -f %s/* t%s\n",$1,$1}'|sed  \
+        's/tmaze-ccs\/CocoStudio\/assets\/animation/tmp/'|sh
+
+    cp -r -f tmp/* $pathRes/opening
+    rm -r tmp
+}
 
 
 cd $pathDesign
