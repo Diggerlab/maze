@@ -46,7 +46,7 @@ function copyRes()
         '{ printf "cp -f %s/* t%s\n",$1,$1}'|sed  \
         's/tmaze-ccs\/CocoStudio\/assets\/animation/tmp/'|sh
 
-    cp tmp/* $pathRes/opening
+    cp -r -f tmp/* $pathRes/images/
     rm -r tmp
 }
 
