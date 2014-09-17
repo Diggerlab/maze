@@ -1,6 +1,6 @@
 {
   "classname": "CCNode",
-  "name": null,
+  "name": "pl_main",
   "canedit": true,
   "objecttag": 10000,
   "rotation": 0,
@@ -14,7 +14,7 @@
     {
       "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
       "classname": "CCNode",
-      "name": null,
+      "name": "ui_main",
       "canedit": true,
       "objecttag": 10003,
       "rotation": 0,
