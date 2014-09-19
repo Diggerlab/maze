@@ -1,6 +1,6 @@
 {
   "classname": "CCNode",
-  "name": "pl_main",
+  "name": "scn_root",
   "canedit": true,
   "objecttag": 10000,
   "rotation": 0,
@@ -14,7 +14,7 @@
     {
       "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
       "classname": "CCNode",
-      "name": null,
+      "name": "ui_main",
       "canedit": true,
       "objecttag": 10007,
       "rotation": 0,
@@ -28,7 +28,7 @@
         {
           "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
           "classname": "CCNode",
-          "name": null,
+          "name": "ani_brain_LH012",
           "canedit": true,
           "objecttag": 10046,
           "rotation": 0,
@@ -58,7 +58,7 @@
         {
           "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
           "classname": "CCNode",
-          "name": null,
+          "name": "ani_heart_MA092A094_MA093A091",
           "canedit": true,
           "objecttag": 10047,
           "rotation": 0,
@@ -88,7 +88,7 @@
         {
           "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
           "classname": "CCNode",
-          "name": null,
+          "name": "ani_kidneys_LF002",
           "canedit": true,
           "objecttag": 10048,
           "rotation": 0,
@@ -118,7 +118,7 @@
         {
           "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
           "classname": "CCNode",
-          "name": null,
+          "name": "ani_largeintestine_MA056A054_MA055A057",
           "canedit": true,
           "objecttag": 10049,
           "rotation": 0,
@@ -148,7 +148,7 @@
         {
           "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
           "classname": "CCNode",
-          "name": null,
+          "name": "ani_liver_MA078A080_MA079A077",
           "canedit": true,
           "objecttag": 10050,
           "rotation": 0,
@@ -178,7 +178,7 @@
         {
           "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
           "classname": "CCNode",
-          "name": null,
+          "name": "ani_smallintestine_MA026A028_MA027A025",
           "canedit": true,
           "objecttag": 10051,
           "rotation": 0,
@@ -208,7 +208,7 @@
         {
           "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
           "classname": "CCNode",
-          "name": null,
+          "name": "ani_stomach_MA014A016_MA015A013",
           "canedit": true,
           "objecttag": 10052,
           "rotation": 0,
