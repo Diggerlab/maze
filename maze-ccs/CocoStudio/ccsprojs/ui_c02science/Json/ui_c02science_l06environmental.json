@@ -12677,14 +12677,14 @@
           "rotation": 0,
           "scaleX": 1,
           "scaleY": 1,
-          "sizePercentX": 0.750183165,
+          "sizePercentX": 1,
           "sizePercentY": 1,
           "sizeType": 0,
           "tag": 5,
           "touchAble": false,
           "useMergedTexture": false,
           "visible": true,
-          "width": 1024,
+          "width": 1365,
           "x": 682,
           "y": 384,
           "capInsetsHeight": 1,
@@ -12699,7 +12699,7 @@
           },
           "scale9Enable": false,
           "scale9Height": 768,
-          "scale9Width": 1024
+          "scale9Width": 1365
         }
       },
       {

@@ -15,32 +15,7 @@
     "ui_c02science2.plist",
     "ui_c02science3.plist"
   ],
-  "texturesPng": [
-    "ui_c02science0.png",
-    "ui_c02science1.png",
-    "ui_c02science2.png",
-    "ui_c02science3.png",
-    "ui_c02science0.png",
-    "ui_c02science1.png",
-    "ui_c02science2.png",
-    "ui_c02science3.png",
-    "ui_c02science0.png",
-    "ui_c02science1.png",
-    "ui_c02science2.png",
-    "ui_c02science3.png",
-    "ui_c02science0.png",
-    "ui_c02science1.png",
-    "ui_c02science2.png",
-    "ui_c02science3.png",
-    "ui_c02science0.png",
-    "ui_c02science1.png",
-    "ui_c02science2.png",
-    "ui_c02science3.png",
-    "ui_c02science0.png",
-    "ui_c02science1.png",
-    "ui_c02science2.png",
-    "ui_c02science3.png"
-  ],
+  "texturesPng": [],
   "version": "1.6.0.0",
   "widgetTree": {
     "classname": "Panel",
@@ -99,7 +74,7 @@
           "touchAble": false,
           "useMergedTexture": false,
           "visible": true,
-          "width": 1024,
+          "width": 1365,
           "x": 682,
           "y": 384,
           "capInsetsHeight": 1,
@@ -114,7 +89,7 @@
           },
           "scale9Enable": false,
           "scale9Height": 768,
-          "scale9Width": 1024
+          "scale9Width": 1365
         }
       },
       {
@@ -9362,7 +9337,7 @@
             "options": {
               "__type": "ImageViewSurrogate:#EditorCommon.JsonModel.Component.GUI",
               "classname": "ImageView",
-              "name": "B003",
+              "name": "B003_H",
               "ZOrder": 0,
               "actiontag": 19782442,
               "anchorPointX": 0.5,

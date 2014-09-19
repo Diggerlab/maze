@@ -112,11 +112,11 @@
         {
           "name": "Animation1",
           "dr": 59,
-          "lp": true,
+          "lp": false,
           "to": 0,
           "drTW": 0,
           "twE": 0,
-          "sc": 1.0,
+          "sc": 0.2,
           "mov_bone_data": [
             {
               "name": "Layer3",
@@ -154,7 +154,7 @@
                   "kY": 0.0,
                   "fi": 38,
                   "twE": 0,
-                  "tweenFrame": true,
+                  "tweenFrame": false,
                   "bd_src": 1,
                   "bd_dst": 771
                 },
@@ -169,7 +169,7 @@
                   "kY": 0.0,
                   "fi": 58,
                   "twE": 0,
-                  "tweenFrame": true,
+                  "tweenFrame": false,
                   "bd_src": 1,
                   "bd_dst": 771
                 }
@@ -211,7 +211,7 @@
                   "kY": 0.0,
                   "fi": 18,
                   "twE": 0,
-                  "tweenFrame": true,
+                  "tweenFrame": false,
                   "bd_src": 1,
                   "bd_dst": 771
                 }

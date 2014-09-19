@@ -79,7 +79,7 @@
           "touchAble": false,
           "useMergedTexture": true,
           "visible": true,
-          "width": 1024,
+          "width": 1365,
           "x": 682,
           "y": 384,
           "capInsetsHeight": 1,
@@ -94,7 +94,7 @@
           },
           "scale9Enable": false,
           "scale9Height": 768,
-          "scale9Width": 1024
+          "scale9Width": 1365
         }
       },
       {
@@ -9342,7 +9342,7 @@
             "options": {
               "__type": "ImageViewSurrogate:#EditorCommon.JsonModel.Component.GUI",
               "classname": "ImageView",
-              "name": "B003",
+              "name": "B003_H",
               "ZOrder": 0,
               "actiontag": 19782442,
               "anchorPointX": 0.5,

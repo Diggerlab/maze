@@ -7,9 +7,9 @@
 			<key>animation/c02_science/l01_mammalia/carb/01.png</key>
 			<dict>
 				<key>width</key>
-				<integer>212</integer>
+				<integer>324</integer>
 				<key>height</key>
-				<integer>205</integer>
+				<integer>308</integer>
 				<key>originalWidth</key>
 				<integer>324</integer>
 				<key>originalHeight</key>
@@ -19,47 +19,47 @@
 				<key>y</key>
 				<integer>0</integer>
 				<key>offsetX</key>
-				<real>-9</real>
+				<real>0</real>
 				<key>offsetY</key>
-				<real>-0.5</real>
+				<real>0</real>
 			</dict>
 			<key>animation/c02_science/l01_mammalia/carb/02.png</key>
 			<dict>
 				<key>width</key>
-				<integer>247</integer>
+				<integer>324</integer>
 				<key>height</key>
-				<integer>197</integer>
+				<integer>308</integer>
 				<key>originalWidth</key>
 				<integer>324</integer>
 				<key>originalHeight</key>
 				<integer>308</integer>
 				<key>x</key>
-				<integer>214</integer>
+				<integer>326</integer>
 				<key>y</key>
 				<integer>0</integer>
 				<key>offsetX</key>
-				<real>-14.5</real>
+				<real>0</real>
 				<key>offsetY</key>
-				<real>-4.5</real>
+				<real>0</real>
 			</dict>
 			<key>animation/c02_science/l01_mammalia/carb/03.png</key>
 			<dict>
 				<key>width</key>
-				<integer>205</integer>
+				<integer>324</integer>
 				<key>height</key>
-				<integer>207</integer>
+				<integer>308</integer>
 				<key>originalWidth</key>
 				<integer>324</integer>
 				<key>originalHeight</key>
 				<integer>308</integer>
 				<key>x</key>
-				<integer>0</integer>
+				<integer>652</integer>
 				<key>y</key>
-				<integer>207</integer>
+				<integer>0</integer>
 				<key>offsetX</key>
-				<real>-8.5</real>
+				<real>0</real>
 				<key>offsetY</key>
-				<real>0.5</real>
+				<real>0</real>
 			</dict>
 		</dict>
 		<key>metadata</key>

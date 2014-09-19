@@ -1,20 +1,20 @@
 <?xml version="1.0"?>
 <SceneProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <ProjectDir>D:\workspace\maze\maze-ccs\CocoStudio\ccsprojs\scn_c00main_firstmaze</ProjectDir>
+  <ProjectDir>C:\Users\Render\Documents\GitHub\maze\maze-ccs\CocoStudio\ccsprojs\scn_c00main_firstmaze</ProjectDir>
   <Version>1.6.0.0</Version>
-  <Resources>D:\workspace\maze\maze-ccs</Resources>
+  <Resources>C:\Users\Render\Documents\GitHub\maze\maze-ccs</Resources>
   <Name>scn_c00main_firstmaze</Name>
   <JsonFileName>scn_c00main_firstmaze.json</JsonFileName>
-  <JsonFolder>D:\workspace\maze\maze-ccs\CocoStudio\assets\publish</JsonFolder>
+  <JsonFolder>C:\Users\Render\Documents\GitHub\maze\maze-ccs\CocoStudio\assets\publish</JsonFolder>
   <JsonList />
   <CanvasSize>
     <Width>1365</Width>
     <Height>768</Height>
   </CanvasSize>
-  <filePath>D:\workspace\maze\maze-ccs\CocoStudio\ccsprojs\scn_c00main_firstmaze\scn_c00main_firstmaze.xml.scene</filePath>
+  <filePath>C:\Users\Render\Documents\GitHub\maze\maze-ccs\CocoStudio\ccsprojs\scn_c00main_firstmaze\scn_c00main_firstmaze.xml.scene</filePath>
   <ProjectType>SceneProject</ProjectType>
   <ResRelativePath>\\..\\..\\assets</ResRelativePath>
   <JSFileList />
   <DefaultUI_JSList />
-  <Res>D:\workspace\maze\maze-ccs\CocoStudio\assets</Res>
+  <Res>C:\Users\Render\Documents\GitHub\maze\maze-ccs\CocoStudio\assets</Res>
 </SceneProject>
