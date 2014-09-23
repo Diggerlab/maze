@@ -234,6 +234,36 @@
               "selectedactionname": "Animation1"
             }
           ]
+        },
+        {
+          "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+          "classname": "CCNode",
+          "name": null,
+          "canedit": true,
+          "objecttag": 10053,
+          "rotation": 0,
+          "scalex": 0.4,
+          "scaley": 0.4,
+          "visible": 1,
+          "x": 649.88916015625,
+          "y": 339.22235107421875,
+          "zorder": 1,
+          "gameobjects": [],
+          "components": [
+            {
+              "__type": "ComArmatureAdapterSurrogate:#EditorCommon.JsonModel.Component",
+              "classname": "CCArmature",
+              "name": "CCArmature",
+              "file": null,
+              "fileData": {
+                "path": "publish/ani_c02science_l05virus_ending.ExportJson",
+                "plistFile": "",
+                "resourceType": 0
+              },
+              "isShowColliderRect": false,
+              "selectedactionname": "Animation1"
+            }
+          ]
         }
       ],
       "components": [

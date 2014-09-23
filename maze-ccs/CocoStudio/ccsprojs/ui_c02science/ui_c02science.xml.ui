@@ -27,7 +27,32 @@
     <string>ui_c02science2.plist</string>
     <string>ui_c02science3.plist</string>
   </imageFileList>
-  <imagePngList />
+  <imagePngList>
+    <string>ui_c02science0.png</string>
+    <string>ui_c02science1.png</string>
+    <string>ui_c02science2.png</string>
+    <string>ui_c02science3.png</string>
+    <string>ui_c02science0.png</string>
+    <string>ui_c02science1.png</string>
+    <string>ui_c02science2.png</string>
+    <string>ui_c02science3.png</string>
+    <string>ui_c02science0.png</string>
+    <string>ui_c02science1.png</string>
+    <string>ui_c02science2.png</string>
+    <string>ui_c02science3.png</string>
+    <string>ui_c02science0.png</string>
+    <string>ui_c02science1.png</string>
+    <string>ui_c02science2.png</string>
+    <string>ui_c02science3.png</string>
+    <string>ui_c02science0.png</string>
+    <string>ui_c02science1.png</string>
+    <string>ui_c02science2.png</string>
+    <string>ui_c02science3.png</string>
+    <string>ui_c02science0.png</string>
+    <string>ui_c02science1.png</string>
+    <string>ui_c02science2.png</string>
+    <string>ui_c02science3.png</string>
+  </imagePngList>
   <JsonSuffix>.json</JsonSuffix>
-  <CurrentUIJson>ui_c02science_l05virus.json</CurrentUIJson>
+  <CurrentUIJson>ui_c02science_l06environmental.json</CurrentUIJson>
 </UIProject>
