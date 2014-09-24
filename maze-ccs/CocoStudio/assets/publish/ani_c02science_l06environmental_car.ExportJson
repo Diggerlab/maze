@@ -737,6 +737,10 @@
       "plistFile": ""
     }
   ],
-  "config_file_path": [],
-  "config_png_path": []
+  "config_file_path": [
+    "ani_c02science_l06environmental_car0.plist"
+  ],
+  "config_png_path": [
+    "ani_c02science_l06environmental_car0.png"
+  ]
 }

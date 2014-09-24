@@ -1,6 +1,6 @@
 {
   "classname": "CCNode",
-  "name": "pl_main",
+  "name": "scn_root",
   "canedit": true,
   "objecttag": 10000,
   "rotation": 0,
@@ -14,7 +14,7 @@
     {
       "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
       "classname": "CCNode",
-      "name": null,
+      "name": "ui_main",
       "canedit": true,
       "objecttag": 10009,
       "rotation": 0,
@@ -28,7 +28,7 @@
         {
           "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
           "classname": "CCNode",
-          "name": null,
+          "name": "ani_apple_MA015A017_MA018A016",
           "canedit": true,
           "objecttag": 10010,
           "rotation": 0,
@@ -58,7 +58,7 @@
         {
           "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
           "classname": "CCNode",
-          "name": null,
+          "name": "ani_applex_LF005B007",
           "canedit": true,
           "objecttag": 10011,
           "rotation": 0,
@@ -88,7 +88,7 @@
         {
           "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
           "classname": "CCNode",
-          "name": null,
+          "name": "ani_can_MA051A053_MA052A050",
           "canedit": true,
           "objecttag": 10012,
           "rotation": 0,
@@ -118,7 +118,7 @@
         {
           "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
           "classname": "CCNode",
-          "name": null,
+          "name": "ani_computer_MA089A087_MA088A090",
           "canedit": true,
           "objecttag": 10013,
           "rotation": 0,
@@ -148,7 +148,7 @@
         {
           "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
           "classname": "CCNode",
-          "name": null,
+          "name": "ani_computerx_LM005",
           "canedit": true,
           "objecttag": 10014,
           "rotation": 0,
@@ -178,7 +178,7 @@
         {
           "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
           "classname": "CCNode",
-          "name": null,
+          "name": "ani_lamp_MA031A029_MA030A032",
           "canedit": true,
           "objecttag": 10015,
           "rotation": 0,
@@ -208,7 +208,7 @@
         {
           "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
           "classname": "CCNode",
-          "name": null,
+          "name": "ani_lampx_LK002D002",
           "canedit": true,
           "objecttag": 10016,
           "rotation": 0,
@@ -238,7 +238,7 @@
         {
           "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
           "classname": "CCNode",
-          "name": null,
+          "name": "ani_PowerPlant_MA132A134_MA135A133",
           "canedit": true,
           "objecttag": 10017,
           "rotation": 0,
@@ -268,7 +268,7 @@
         {
           "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
           "classname": "CCNode",
-          "name": null,
+          "name": "ani_thermometer_LI018C012",
           "canedit": true,
           "objecttag": 10018,
           "rotation": 0,
@@ -298,7 +298,7 @@
         {
           "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
           "classname": "CCNode",
-          "name": null,
+          "name": "ani_water_MA069A067_MA068A070",
           "canedit": true,
           "objecttag": 10019,
           "rotation": 0,
@@ -328,7 +328,7 @@
         {
           "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
           "classname": "CCNode",
-          "name": null,
+          "name": "ani_waterx_LE004N005",
           "canedit": true,
           "objecttag": 10020,
           "rotation": 0,
@@ -358,7 +358,7 @@
         {
           "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
           "classname": "CCNode",
-          "name": null,
+          "name": "ani_canx_LD004J002",
           "canedit": true,
           "objecttag": 10021,
           "rotation": 0,
@@ -407,6 +407,96 @@
               "file": null,
               "fileData": {
                 "path": "publish/ani_c02science_l06environmental_ending.ExportJson",
+                "plistFile": "",
+                "resourceType": 0
+              },
+              "isShowColliderRect": false,
+              "selectedactionname": "Animation1"
+            }
+          ]
+        },
+        {
+          "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+          "classname": "CCNode",
+          "name": "ani_PowerPlantx_LH003",
+          "canedit": true,
+          "objecttag": 10079,
+          "rotation": 0,
+          "scalex": 0.5,
+          "scaley": 0.5,
+          "visible": 1,
+          "x": 490,
+          "y": 601,
+          "zorder": 1,
+          "gameobjects": [],
+          "components": [
+            {
+              "__type": "ComArmatureAdapterSurrogate:#EditorCommon.JsonModel.Component",
+              "classname": "CCArmature",
+              "name": "CCArmature",
+              "file": null,
+              "fileData": {
+                "path": "publish/ani_c02science_l06environmental_PowerPlantx.ExportJson",
+                "plistFile": "",
+                "resourceType": 0
+              },
+              "isShowColliderRect": false,
+              "selectedactionname": "Animation1"
+            }
+          ]
+        },
+        {
+          "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+          "classname": "CCNode",
+          "name": "ani_bike_ML005L007_ML006L004",
+          "canedit": true,
+          "objecttag": 10080,
+          "rotation": 0,
+          "scalex": 0.5,
+          "scaley": 0.5,
+          "visible": 1,
+          "x": 675.666748046875,
+          "y": 407.988525390625,
+          "zorder": 1,
+          "gameobjects": [],
+          "components": [
+            {
+              "__type": "ComArmatureAdapterSurrogate:#EditorCommon.JsonModel.Component",
+              "classname": "CCArmature",
+              "name": "CCArmature",
+              "file": null,
+              "fileData": {
+                "path": "publish/ani_c02science_l06environmental_bike.ExportJson",
+                "plistFile": "",
+                "resourceType": 0
+              },
+              "isShowColliderRect": false,
+              "selectedactionname": "Animation1"
+            }
+          ]
+        },
+        {
+          "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+          "classname": "CCNode",
+          "name": "ani_car_LL010G006",
+          "canedit": true,
+          "objecttag": 10081,
+          "rotation": 0,
+          "scalex": 0.5,
+          "scaley": 0.5,
+          "visible": 1,
+          "x": 525.55548095703125,
+          "y": 437.8887939453125,
+          "zorder": 1,
+          "gameobjects": [],
+          "components": [
+            {
+              "__type": "ComArmatureAdapterSurrogate:#EditorCommon.JsonModel.Component",
+              "classname": "CCArmature",
+              "name": "CCArmature",
+              "file": null,
+              "fileData": {
+                "path": "publish/ani_c02science_l06environmental_car.ExportJson",
                 "plistFile": "",
                 "resourceType": 0
               },
