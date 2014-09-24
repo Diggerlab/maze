@@ -9,7 +9,7 @@
         {
           "name": "Layer6",
           "parent": "",
-          "dI": 13,
+          "dI": 0,
           "x": -6.5,
           "y": 11.67333984375,
           "z": 3,
@@ -840,7 +840,7 @@
         {
           "name": "Animation1",
           "dr": 81,
-          "lp": true,
+          "lp": false,
           "to": 0,
           "drTW": 0,
           "twE": 0,

@@ -16,7 +16,7 @@
       "classname": "CCNode",
       "name": "ui_main",
       "canedit": true,
-      "objecttag": 10014,
+      "objecttag": 10004,
       "rotation": 0,
       "scalex": 1,
       "scaley": 1,
@@ -30,13 +30,13 @@
           "classname": "CCNode",
           "name": "ani_carb_LD020",
           "canedit": true,
-          "objecttag": 10113,
+          "objecttag": 10011,
           "rotation": 0,
           "scalex": 0.5,
           "scaley": 0.5,
           "visible": 1,
-          "x": 1068.6668701171875,
-          "y": 135.3333740234375,
+          "x": 1068.57177734375,
+          "y": 131.42861938476563,
           "zorder": 1,
           "gameobjects": [],
           "components": [
@@ -58,45 +58,15 @@
         {
           "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
           "classname": "CCNode",
-          "name": null,
-          "canedit": true,
-          "objecttag": 10115,
-          "rotation": 0,
-          "scalex": 1,
-          "scaley": 1,
-          "visible": 1,
-          "x": 312.50003051757812,
-          "y": 660,
-          "zorder": 1,
-          "gameobjects": [],
-          "components": [
-            {
-              "__type": "ComArmatureAdapterSurrogate:#EditorCommon.JsonModel.Component",
-              "classname": "CCArmature",
-              "name": "CCArmature",
-              "file": null,
-              "fileData": {
-                "path": "",
-                "plistFile": "",
-                "resourceType": 0
-              },
-              "isShowColliderRect": false,
-              "selectedactionname": null
-            }
-          ]
-        },
-        {
-          "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
-          "classname": "CCNode",
           "name": "ani_clownfish_LB003",
           "canedit": true,
-          "objecttag": 10116,
+          "objecttag": 10012,
           "rotation": 0,
           "scalex": 0.5,
           "scaley": 0.5,
           "visible": 1,
-          "x": 406.66668701171875,
-          "y": 491.666748046875,
+          "x": 408.571533203125,
+          "y": 490.00009155273438,
           "zorder": 1,
           "gameobjects": [],
           "components": [
@@ -118,45 +88,15 @@
         {
           "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
           "classname": "CCNode",
-          "name": null,
+          "name": "ani_seaset_LC026",
           "canedit": true,
-          "objecttag": 10117,
-          "rotation": 0,
-          "scalex": 1,
-          "scaley": 1,
-          "visible": 1,
-          "x": 1116.666748046875,
-          "y": 476.666748046875,
-          "zorder": 1,
-          "gameobjects": [],
-          "components": [
-            {
-              "__type": "ComArmatureAdapterSurrogate:#EditorCommon.JsonModel.Component",
-              "classname": "CCArmature",
-              "name": "CCArmature",
-              "file": null,
-              "fileData": {
-                "path": "",
-                "plistFile": "",
-                "resourceType": 0
-              },
-              "isShowColliderRect": false,
-              "selectedactionname": null
-            }
-          ]
-        },
-        {
-          "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
-          "classname": "CCNode",
-          "name": "ani_seaset_LC025",
-          "canedit": true,
-          "objecttag": 10118,
+          "objecttag": 10013,
           "rotation": 0,
           "scalex": 0.5,
           "scaley": 0.5,
           "visible": 1,
-          "x": 385.00006103515625,
-          "y": 145.00001525878906,
+          "x": 384.28579711914062,
+          "y": 148.57147216796875,
           "zorder": 1,
           "gameobjects": [],
           "components": [

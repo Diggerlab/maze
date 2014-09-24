@@ -14,9 +14,9 @@
     {
       "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
       "classname": "CCNode",
-      "name": "ui_main",
+      "name": "ui_mian",
       "canedit": true,
-      "objecttag": 10119,
+      "objecttag": 10005,
       "rotation": 0,
       "scalex": 1,
       "scaley": 1,
@@ -28,165 +28,15 @@
         {
           "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
           "classname": "CCNode",
-          "name": "ani_neptune_LB006",
-          "canedit": true,
-          "objecttag": 10120,
-          "rotation": 0,
-          "scalex": 0.5,
-          "scaley": 0.5,
-          "visible": 1,
-          "x": 628.7303466796875,
-          "y": 671.27001953125,
-          "zorder": 1,
-          "gameobjects": [],
-          "components": [
-            {
-              "__type": "ComArmatureAdapterSurrogate:#EditorCommon.JsonModel.Component",
-              "classname": "CCArmature",
-              "name": "CCArmature",
-              "file": null,
-              "fileData": {
-                "path": "publish/ani_c02science_l02solar_neptune.ExportJson",
-                "plistFile": "",
-                "resourceType": 0
-              },
-              "isShowColliderRect": false,
-              "selectedactionname": "Animation1"
-            }
-          ]
-        },
-        {
-          "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
-          "classname": "CCNode",
-          "name": "ani_jupiter_LH007",
-          "canedit": true,
-          "objecttag": 10121,
-          "rotation": 0,
-          "scalex": 0.5,
-          "scaley": 0.5,
-          "visible": 1,
-          "x": 359.0477294921875,
-          "y": 514.28582763671875,
-          "zorder": 1,
-          "gameobjects": [],
-          "components": [
-            {
-              "__type": "ComArmatureAdapterSurrogate:#EditorCommon.JsonModel.Component",
-              "classname": "CCArmature",
-              "name": "CCArmature",
-              "file": null,
-              "fileData": {
-                "path": "publish/ani_c02science_l02solar_jupiter.ExportJson",
-                "plistFile": "",
-                "resourceType": 0
-              },
-              "isShowColliderRect": false,
-              "selectedactionname": "Animation1"
-            }
-          ]
-        },
-        {
-          "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
-          "classname": "CCNode",
-          "name": "ani_saturn_LG004",
-          "canedit": true,
-          "objecttag": 10122,
-          "rotation": 0,
-          "scalex": 0.5,
-          "scaley": 0.5,
-          "visible": 1,
-          "x": 814.57159423828125,
-          "y": 369.8572998046875,
-          "zorder": 1,
-          "gameobjects": [],
-          "components": [
-            {
-              "__type": "ComArmatureAdapterSurrogate:#EditorCommon.JsonModel.Component",
-              "classname": "CCArmature",
-              "name": "CCArmature",
-              "file": null,
-              "fileData": {
-                "path": "publish/ani_c02science_l02solar_saturn.ExportJson",
-                "plistFile": "",
-                "resourceType": 0
-              },
-              "isShowColliderRect": false,
-              "selectedactionname": "Animation1"
-            }
-          ]
-        },
-        {
-          "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
-          "classname": "CCNode",
-          "name": "ani_uranus_LD006",
-          "canedit": true,
-          "objecttag": 10123,
-          "rotation": 0,
-          "scalex": 0.5,
-          "scaley": 0.5,
-          "visible": 1,
-          "x": 1048.4923095703125,
-          "y": 125.11903381347656,
-          "zorder": 1,
-          "gameobjects": [],
-          "components": [
-            {
-              "__type": "ComArmatureAdapterSurrogate:#EditorCommon.JsonModel.Component",
-              "classname": "CCArmature",
-              "name": "CCArmature",
-              "file": null,
-              "fileData": {
-                "path": "publish/ani_c02science_l02solar_uranus.ExportJson",
-                "plistFile": "",
-                "resourceType": 0
-              },
-              "isShowColliderRect": false,
-              "selectedactionname": "Animation1"
-            }
-          ]
-        },
-        {
-          "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
-          "classname": "CCNode",
-          "name": "ani_mars_LJ007",
-          "canedit": true,
-          "objecttag": 10124,
-          "rotation": 0,
-          "scalex": 0.5,
-          "scaley": 0.5,
-          "visible": 1,
-          "x": 629.16656494140625,
-          "y": 397.49996948242188,
-          "zorder": 1,
-          "gameobjects": [],
-          "components": [
-            {
-              "__type": "ComArmatureAdapterSurrogate:#EditorCommon.JsonModel.Component",
-              "classname": "CCArmature",
-              "name": "CCArmature",
-              "file": null,
-              "fileData": {
-                "path": "publish/ani_c02science_l02solar_mars.ExportJson",
-                "plistFile": "",
-                "resourceType": 0
-              },
-              "isShowColliderRect": false,
-              "selectedactionname": "Animation1"
-            }
-          ]
-        },
-        {
-          "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
-          "classname": "CCNode",
           "name": "ani_earth_LM003",
           "canedit": true,
-          "objecttag": 10125,
+          "objecttag": 10016,
           "rotation": 0,
           "scalex": 0.5,
           "scaley": 0.5,
           "visible": 1,
-          "x": 478.61111450195312,
-          "y": 378.61111450195312,
+          "x": 478.571533203125,
+          "y": 380.00006103515625,
           "zorder": 1,
           "gameobjects": [],
           "components": [
@@ -208,15 +58,165 @@
         {
           "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
           "classname": "CCNode",
-          "name": "ani_venus_LN002",
+          "name": "ani_jupiter_LH007",
           "canedit": true,
-          "objecttag": 10126,
+          "objecttag": 10017,
           "rotation": 0,
           "scalex": 0.5,
           "scaley": 0.5,
           "visible": 1,
-          "x": 630.83331298828125,
-          "y": 197.22221374511719,
+          "x": 362.85726928710938,
+          "y": 508.57159423828125,
+          "zorder": 1,
+          "gameobjects": [],
+          "components": [
+            {
+              "__type": "ComArmatureAdapterSurrogate:#EditorCommon.JsonModel.Component",
+              "classname": "CCArmature",
+              "name": "CCArmature",
+              "file": null,
+              "fileData": {
+                "path": "publish/ani_c02science_l02solar_jupiter.ExportJson",
+                "plistFile": "",
+                "resourceType": 0
+              },
+              "isShowColliderRect": false,
+              "selectedactionname": "Animation1"
+            }
+          ]
+        },
+        {
+          "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+          "classname": "CCNode",
+          "name": "ani_mars_LJ007",
+          "canedit": true,
+          "objecttag": 10018,
+          "rotation": 0,
+          "scalex": 0.5,
+          "scaley": 0.5,
+          "visible": 1,
+          "x": 637.14300537109375,
+          "y": 397.14297485351562,
+          "zorder": 1,
+          "gameobjects": [],
+          "components": [
+            {
+              "__type": "ComArmatureAdapterSurrogate:#EditorCommon.JsonModel.Component",
+              "classname": "CCArmature",
+              "name": "CCArmature",
+              "file": null,
+              "fileData": {
+                "path": "publish/ani_c02science_l02solar_mars.ExportJson",
+                "plistFile": "",
+                "resourceType": 0
+              },
+              "isShowColliderRect": false,
+              "selectedactionname": "Animation1"
+            }
+          ]
+        },
+        {
+          "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+          "classname": "CCNode",
+          "name": "ani_mercury_LQ004",
+          "canedit": true,
+          "objecttag": 10019,
+          "rotation": 0,
+          "scalex": 0.5,
+          "scaley": 0.5,
+          "visible": 1,
+          "x": 591.42877197265625,
+          "y": 102.85717010498047,
+          "zorder": 1,
+          "gameobjects": [],
+          "components": [
+            {
+              "__type": "ComArmatureAdapterSurrogate:#EditorCommon.JsonModel.Component",
+              "classname": "CCArmature",
+              "name": "CCArmature",
+              "file": null,
+              "fileData": {
+                "path": "publish/ani_c02science_l02solar_mercury.ExportJson",
+                "plistFile": "",
+                "resourceType": 0
+              },
+              "isShowColliderRect": false,
+              "selectedactionname": "Animation1"
+            }
+          ]
+        },
+        {
+          "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+          "classname": "CCNode",
+          "name": "ani_neptune_LB006",
+          "canedit": true,
+          "objecttag": 10020,
+          "rotation": 0,
+          "scalex": 0.5,
+          "scaley": 0.5,
+          "visible": 1,
+          "x": 630.00018310546875,
+          "y": 671.42877197265625,
+          "zorder": 1,
+          "gameobjects": [],
+          "components": [
+            {
+              "__type": "ComArmatureAdapterSurrogate:#EditorCommon.JsonModel.Component",
+              "classname": "CCArmature",
+              "name": "CCArmature",
+              "file": null,
+              "fileData": {
+                "path": "publish/ani_c02science_l02solar_neptune.ExportJson",
+                "plistFile": "",
+                "resourceType": 0
+              },
+              "isShowColliderRect": false,
+              "selectedactionname": "Animation1"
+            }
+          ]
+        },
+        {
+          "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+          "classname": "CCNode",
+          "name": "ani_uranus_LD006",
+          "canedit": true,
+          "objecttag": 10022,
+          "rotation": 0,
+          "scalex": 0.5,
+          "scaley": 0.5,
+          "visible": 1,
+          "x": 1050.000244140625,
+          "y": 127.14289855957031,
+          "zorder": 1,
+          "gameobjects": [],
+          "components": [
+            {
+              "__type": "ComArmatureAdapterSurrogate:#EditorCommon.JsonModel.Component",
+              "classname": "CCArmature",
+              "name": "CCArmature",
+              "file": null,
+              "fileData": {
+                "path": "publish/ani_c02science_l02solar_uranus.ExportJson",
+                "plistFile": "",
+                "resourceType": 0
+              },
+              "isShowColliderRect": false,
+              "selectedactionname": "Animation1"
+            }
+          ]
+        },
+        {
+          "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+          "classname": "CCNode",
+          "name": "ani_venus_LN002",
+          "canedit": true,
+          "objecttag": 10023,
+          "rotation": 0,
+          "scalex": 0.5,
+          "scaley": 0.5,
+          "visible": 1,
+          "x": 627.14300537109375,
+          "y": 197.14291381835938,
           "zorder": 1,
           "gameobjects": [],
           "components": [
@@ -238,15 +238,15 @@
         {
           "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
           "classname": "CCNode",
-          "name": "ani_mercury_LQ004",
+          "name": "ani_saturn_LG004",
           "canedit": true,
-          "objecttag": 10127,
+          "objecttag": 10065,
           "rotation": 0,
           "scalex": 0.5,
           "scaley": 0.5,
           "visible": 1,
-          "x": 591.6666259765625,
-          "y": 98.611091613769531,
+          "x": 807.1429443359375,
+          "y": 382.85714721679688,
           "zorder": 1,
           "gameobjects": [],
           "components": [
@@ -256,7 +256,37 @@
               "name": "CCArmature",
               "file": null,
               "fileData": {
-                "path": "publish/ani_c02science_l02solar_mercury.ExportJson",
+                "path": "publish/ani_c02science_l02solar_saturn.ExportJson",
+                "plistFile": "",
+                "resourceType": 0
+              },
+              "isShowColliderRect": false,
+              "selectedactionname": "Animation1"
+            }
+          ]
+        },
+        {
+          "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+          "classname": "CCNode",
+          "name": null,
+          "canedit": true,
+          "objecttag": 10066,
+          "rotation": 0,
+          "scalex": 0.5,
+          "scaley": 0.5,
+          "visible": 1,
+          "x": 385.76190185546875,
+          "y": 129.8095703125,
+          "zorder": 1,
+          "gameobjects": [],
+          "components": [
+            {
+              "__type": "ComArmatureAdapterSurrogate:#EditorCommon.JsonModel.Component",
+              "classname": "CCArmature",
+              "name": "CCArmature",
+              "file": null,
+              "fileData": {
+                "path": "publish/ani_c02science_l02solar_ending.ExportJson",
                 "plistFile": "",
                 "resourceType": 0
               },

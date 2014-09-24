@@ -9342,7 +9342,7 @@
             "options": {
               "__type": "ImageViewSurrogate:#EditorCommon.JsonModel.Component.GUI",
               "classname": "ImageView",
-              "name": "B003",
+              "name": "B003_H",
               "ZOrder": 0,
               "actiontag": 19782442,
               "anchorPointX": 0.5,

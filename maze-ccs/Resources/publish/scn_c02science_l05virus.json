@@ -1,6 +1,6 @@
 {
   "classname": "CCNode",
-  "name": null,
+  "name": "scn_root",
   "canedit": true,
   "objecttag": 10000,
   "rotation": 0,
@@ -14,9 +14,9 @@
     {
       "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
       "classname": "CCNode",
-      "name": null,
+      "name": "ui_main",
       "canedit": true,
-      "objecttag": 10138,
+      "objecttag": 10007,
       "rotation": 0,
       "scalex": 1,
       "scaley": 1,
@@ -30,13 +30,13 @@
           "classname": "CCNode",
           "name": "ani_brain_LH012",
           "canedit": true,
-          "objecttag": 10139,
+          "objecttag": 10046,
           "rotation": 0,
           "scalex": 0.5,
           "scaley": 0.5,
           "visible": 1,
-          "x": 955.7144775390625,
-          "y": 650.00006103515625,
+          "x": 962.0001220703125,
+          "y": 646.0001220703125,
           "zorder": 1,
           "gameobjects": [],
           "components": [
@@ -58,75 +58,15 @@
         {
           "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
           "classname": "CCNode",
-          "name": "ani_kidneys_LF002",
+          "name": "ani_heart_MA092A094_MA093A091",
           "canedit": true,
-          "objecttag": 10140,
+          "objecttag": 10047,
           "rotation": 0,
           "scalex": 0.5,
           "scaley": 0.5,
           "visible": 1,
-          "x": 652.25274658203125,
-          "y": 86.758247375488281,
-          "zorder": 1,
-          "gameobjects": [],
-          "components": [
-            {
-              "__type": "ComArmatureAdapterSurrogate:#EditorCommon.JsonModel.Component",
-              "classname": "CCArmature",
-              "name": "CCArmature",
-              "file": null,
-              "fileData": {
-                "path": "publish/ani_c02science_l05virus_kidneys.ExportJson",
-                "plistFile": "",
-                "resourceType": 0
-              },
-              "isShowColliderRect": false,
-              "selectedactionname": "Animation1"
-            }
-          ]
-        },
-        {
-          "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
-          "classname": "CCNode",
-          "name": null,
-          "canedit": true,
-          "objecttag": 10141,
-          "rotation": 0,
-          "scalex": 0.5,
-          "scaley": 0.5,
-          "visible": 1,
-          "x": 352,
-          "y": 130,
-          "zorder": 1,
-          "gameobjects": [],
-          "components": [
-            {
-              "__type": "ComArmatureAdapterSurrogate:#EditorCommon.JsonModel.Component",
-              "classname": "CCArmature",
-              "name": "CCArmature",
-              "file": null,
-              "fileData": {
-                "path": "publish/ani_c02science_l05virus_liver.ExportJson",
-                "plistFile": "",
-                "resourceType": 0
-              },
-              "isShowColliderRect": false,
-              "selectedactionname": "Animation1"
-            }
-          ]
-        },
-        {
-          "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
-          "classname": "CCNode",
-          "name": null,
-          "canedit": true,
-          "objecttag": 10142,
-          "rotation": 0,
-          "scalex": 0.5,
-          "scaley": 0.5,
-          "visible": 1,
-          "x": 427.77780151367188,
-          "y": 456.66668701171875,
+          "x": 425.00006103515625,
+          "y": 456.66671752929688,
           "zorder": 1,
           "gameobjects": [],
           "components": [
@@ -148,15 +88,45 @@
         {
           "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
           "classname": "CCNode",
-          "name": null,
+          "name": "ani_kidneys_LF002",
           "canedit": true,
-          "objecttag": 10143,
+          "objecttag": 10048,
           "rotation": 0,
           "scalex": 0.5,
           "scaley": 0.5,
           "visible": 1,
-          "x": 891.3056640625,
-          "y": 283.1944580078125,
+          "x": 653.119140625,
+          "y": 86.714286804199219,
+          "zorder": 1,
+          "gameobjects": [],
+          "components": [
+            {
+              "__type": "ComArmatureAdapterSurrogate:#EditorCommon.JsonModel.Component",
+              "classname": "CCArmature",
+              "name": "CCArmature",
+              "file": null,
+              "fileData": {
+                "path": "publish/ani_c02science_l05virus_kidneys.ExportJson",
+                "plistFile": "",
+                "resourceType": 0
+              },
+              "isShowColliderRect": false,
+              "selectedactionname": "Animation1"
+            }
+          ]
+        },
+        {
+          "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+          "classname": "CCNode",
+          "name": "ani_largeintestine_MA056A054_MA055A057",
+          "canedit": true,
+          "objecttag": 10049,
+          "rotation": 0,
+          "scalex": 0.5,
+          "scaley": 0.5,
+          "visible": 1,
+          "x": 891.78173828125,
+          "y": 283.50582885742188,
           "zorder": 1,
           "gameobjects": [],
           "components": [
@@ -178,15 +148,75 @@
         {
           "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
           "classname": "CCNode",
-          "name": null,
+          "name": "ani_liver_MA078A080_MA079A077",
           "canedit": true,
-          "objecttag": 10144,
+          "objecttag": 10050,
           "rotation": 0,
           "scalex": 0.5,
           "scaley": 0.5,
           "visible": 1,
-          "x": 868.22216796875,
-          "y": 468.51858520507812,
+          "x": 351.66671752929688,
+          "y": 126.66667938232422,
+          "zorder": 1,
+          "gameobjects": [],
+          "components": [
+            {
+              "__type": "ComArmatureAdapterSurrogate:#EditorCommon.JsonModel.Component",
+              "classname": "CCArmature",
+              "name": "CCArmature",
+              "file": null,
+              "fileData": {
+                "path": "publish/ani_c02science_l05virus_liver.ExportJson",
+                "plistFile": "",
+                "resourceType": 0
+              },
+              "isShowColliderRect": false,
+              "selectedactionname": "Animation1"
+            }
+          ]
+        },
+        {
+          "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+          "classname": "CCNode",
+          "name": "ani_smallintestine_MA026A028_MA027A025",
+          "canedit": true,
+          "objecttag": 10051,
+          "rotation": 0,
+          "scalex": 0.5,
+          "scaley": 0.5,
+          "visible": 1,
+          "x": 1033.33349609375,
+          "y": 111.66667175292969,
+          "zorder": 1,
+          "gameobjects": [],
+          "components": [
+            {
+              "__type": "ComArmatureAdapterSurrogate:#EditorCommon.JsonModel.Component",
+              "classname": "CCArmature",
+              "name": "CCArmature",
+              "file": null,
+              "fileData": {
+                "path": "publish/ani_c02science_l05virus_smallintestine.ExportJson",
+                "plistFile": "",
+                "resourceType": 0
+              },
+              "isShowColliderRect": false,
+              "selectedactionname": "Animation1"
+            }
+          ]
+        },
+        {
+          "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+          "classname": "CCNode",
+          "name": "ani_stomach_MA014A016_MA015A013",
+          "canedit": true,
+          "objecttag": 10052,
+          "rotation": 0,
+          "scalex": 0.5,
+          "scaley": 0.5,
+          "visible": 1,
+          "x": 867.041748046875,
+          "y": 468.041748046875,
           "zorder": 1,
           "gameobjects": [],
           "components": [
@@ -210,13 +240,13 @@
           "classname": "CCNode",
           "name": null,
           "canedit": true,
-          "objecttag": 10145,
+          "objecttag": 10053,
           "rotation": 0,
-          "scalex": 0.5,
-          "scaley": 0.5,
+          "scalex": 0.4,
+          "scaley": 0.4,
           "visible": 1,
-          "x": 1033.500244140625,
-          "y": 112.00001525878906,
+          "x": 649.88916015625,
+          "y": 339.22235107421875,
           "zorder": 1,
           "gameobjects": [],
           "components": [
@@ -226,7 +256,7 @@
               "name": "CCArmature",
               "file": null,
               "fileData": {
-                "path": "publish/ani_c02science_l05virus_smallintestine.ExportJson",
+                "path": "publish/ani_c02science_l05virus_ending.ExportJson",
                 "plistFile": "",
                 "resourceType": 0
               },
