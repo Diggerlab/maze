@@ -1,7 +1,7 @@
 {
   "classname": "CCNode",
   "name": "scn_root",
-  "canedit": true,
+  "canedit": false,
   "objecttag": 10000,
   "rotation": 0,
   "scalex": 1,
@@ -15,7 +15,7 @@
       "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
       "classname": "CCNode",
       "name": "ui_main",
-      "canedit": true,
+      "canedit": false,
       "objecttag": 10003,
       "rotation": 0,
       "scalex": 1,
