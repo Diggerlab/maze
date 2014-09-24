@@ -268,7 +268,7 @@
         {
           "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
           "classname": "CCNode",
-          "name": null,
+          "name": "ani_ending_A089_E",
           "canedit": true,
           "objecttag": 10066,
           "rotation": 0,

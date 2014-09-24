@@ -4,14 +4,110 @@
     {
       "strVersion": "1.6.0.0",
       "version": 1.6,
-      "name": "ani_c02science_l01mammalia_seahorse",
+      "name": "ani_c02science_l01mammalia_ending",
       "bone_data": [
+        {
+          "name": "Layer7",
+          "parent": "",
+          "dI": 0,
+          "x": 44.000381469726562,
+          "y": -5.2662773132324219,
+          "z": 7,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": 0.0,
+          "kY": 0.0,
+          "arrow_x": 0.0,
+          "arrow_y": 0.0,
+          "effectbyskeleton": false,
+          "bl": 0,
+          "display_data": [
+            {
+              "name": "animation/c02_science/l01_mammalia/ending/ed4.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Layer6",
+          "parent": "",
+          "dI": 0,
+          "x": 44.000381469726562,
+          "y": -5.2662773132324219,
+          "z": 6,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": 0.0,
+          "kY": 0.0,
+          "arrow_x": 0.0,
+          "arrow_y": 0.0,
+          "effectbyskeleton": false,
+          "bl": 0,
+          "display_data": [
+            {
+              "name": "animation/c02_science/l01_mammalia/ending/ed3.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Layer5",
+          "parent": "",
+          "dI": 0,
+          "x": 44.000381469726562,
+          "y": -5.2662773132324219,
+          "z": 5,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": 0.0,
+          "kY": 0.0,
+          "arrow_x": 0.0,
+          "arrow_y": 0.0,
+          "effectbyskeleton": false,
+          "bl": 0,
+          "display_data": [
+            {
+              "name": "animation/c02_science/l01_mammalia/ending/ed2.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            }
+          ]
+        },
         {
           "name": "Layer3",
           "parent": "",
           "dI": 0,
-          "x": -4.5,
-          "y": 4.67333984375,
+          "x": 44.000381469726562,
+          "y": -5.2662773132324219,
           "z": 4,
           "cX": 1.0,
           "cY": 1.0,
@@ -23,7 +119,7 @@
           "bl": 0,
           "display_data": [
             {
-              "name": "animation/c02_science/l01_mammalia/seahorse/03.png",
+              "name": "animation/c02_science/l01_mammalia/ending/ed1.png",
               "displayType": 0,
               "skin_data": [
                 {
@@ -42,8 +138,8 @@
           "name": "Layer2",
           "parent": "",
           "dI": 0,
-          "x": -4.5,
-          "y": 4.67333984375,
+          "x": 44.000381469726562,
+          "y": -5.2662773132324219,
           "z": 3,
           "cX": 1.0,
           "cY": 1.0,
@@ -55,39 +151,7 @@
           "bl": 0,
           "display_data": [
             {
-              "name": "animation/c02_science/l01_mammalia/seahorse/02.png",
-              "displayType": 0,
-              "skin_data": [
-                {
-                  "x": 0.0,
-                  "y": 0.0,
-                  "cX": 1.0,
-                  "cY": 1.0,
-                  "kX": 0.0,
-                  "kY": 0.0
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Layer1",
-          "parent": "",
-          "dI": 0,
-          "x": -4.5,
-          "y": 4.67333984375,
-          "z": 2,
-          "cX": 1.0,
-          "cY": 1.0,
-          "kX": 0.0,
-          "kY": 0.0,
-          "arrow_x": 0.0,
-          "arrow_y": 0.0,
-          "effectbyskeleton": false,
-          "bl": 0,
-          "display_data": [
-            {
-              "name": "animation/c02_science/l01_mammalia/seahorse/01.png",
+              "name": "animation/c02_science/l01_mammalia/ending/01.png",
               "displayType": 0,
               "skin_data": [
                 {
@@ -106,8 +170,8 @@
           "name": "Layer4",
           "parent": "",
           "dI": 0,
-          "x": -4.5,
-          "y": 4.67333984375,
+          "x": 44.000381469726562,
+          "y": -5.2662773132324219,
           "z": 1,
           "cX": 1.0,
           "cY": 1.0,
@@ -119,7 +183,7 @@
           "bl": 0,
           "display_data": [
             {
-              "name": "animation/c02_science/l01_mammalia/seahorse/05.png",
+              "name": "animation/c02_science/l01_mammalia/ending/bg.png",
               "displayType": 0,
               "skin_data": [
                 {
@@ -139,25 +203,160 @@
   ],
   "animation_data": [
     {
-      "name": "ani_c02science_l01mammalia_seahorse",
+      "name": "ani_c02science_l01mammalia_ending",
       "mov_data": [
         {
           "name": "Animation1",
-          "dr": 36,
-          "lp": true,
+          "dr": 106,
+          "lp": false,
           "to": 0,
           "drTW": 0,
           "twE": 0,
-          "sc": 1.0,
+          "sc": 0.2,
           "mov_bone_data": [
             {
-              "name": "Layer3",
+              "name": "Layer7",
               "dl": 0.0,
               "frame_data": [
                 {
                   "dI": 0,
                   "x": 0.0,
                   "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 66,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 0,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 78,
+                  "twE": 0,
+                  "tweenFrame": false,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 105,
+                  "twE": 0,
+                  "tweenFrame": false,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                }
+              ]
+            },
+            {
+              "name": "Layer6",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 48,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 0,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 54,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 66,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 78,
+                  "twE": 0,
+                  "tweenFrame": false,
+                  "color": {
+                    "a": 0,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 771
+                }
+              ]
+            },
+            {
+              "name": "Layer5",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": -126.0,
+                  "y": -66.0,
                   "z": 0,
                   "cX": 1.0,
                   "cY": 1.0,
@@ -177,6 +376,78 @@
                 },
                 {
                   "dI": 0,
+                  "x": -126.0,
+                  "y": -66.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 25,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 0,
+                  "x": 348.0,
+                  "y": -188.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 36,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 0,
+                  "x": 348.0,
+                  "y": -188.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 48,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 0,
+                  "x": 348.0,
+                  "y": -188.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 54,
+                  "twE": 0,
+                  "tweenFrame": false,
+                  "color": {
+                    "a": 0,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 771
+                }
+              ]
+            },
+            {
+              "name": "Layer3",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
                   "x": 0.0,
                   "y": 0.0,
                   "z": 0,
@@ -184,7 +455,43 @@
                   "cY": 1.0,
                   "kX": 0.0,
                   "kY": 0.0,
-                  "fi": 25,
+                  "fi": 18,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 0,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 24,
+                  "twE": 0,
+                  "tweenFrame": false,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 48,
                   "twE": 0,
                   "tweenFrame": true,
                   "bd_src": 1,
@@ -199,9 +506,15 @@
                   "cY": 1.0,
                   "kX": 0.0,
                   "kY": 0.0,
-                  "fi": 35,
+                  "fi": 54,
                   "twE": 0,
-                  "tweenFrame": true,
+                  "tweenFrame": false,
+                  "color": {
+                    "a": 0,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
                   "bd_src": 1,
                   "bd_dst": 771
                 }
@@ -213,50 +526,14 @@
               "frame_data": [
                 {
                   "dI": 0,
-                  "x": 0.0,
-                  "y": 0.0,
+                  "x": 562.4998779296875,
+                  "y": 605.0,
                   "z": 0,
                   "cX": 1.0,
                   "cY": 1.0,
                   "kX": 0.0,
                   "kY": 0.0,
-                  "fi": 3,
-                  "twE": 0,
-                  "tweenFrame": true,
-                  "color": {
-                    "a": 0,
-                    "r": 255,
-                    "g": 255,
-                    "b": 255
-                  },
-                  "bd_src": 1,
-                  "bd_dst": 771
-                },
-                {
-                  "dI": 0,
-                  "x": 0.0,
-                  "y": 0.0,
-                  "z": 0,
-                  "cX": 1.0,
-                  "cY": 1.0,
-                  "kX": 0.0,
-                  "kY": 0.0,
-                  "fi": 8,
-                  "twE": 0,
-                  "tweenFrame": false,
-                  "bd_src": 1,
-                  "bd_dst": 771
-                },
-                {
-                  "dI": 0,
-                  "x": 0.0,
-                  "y": 0.0,
-                  "z": 0,
-                  "cX": 1.0,
-                  "cY": 1.0,
-                  "kX": 0.0,
-                  "kY": 0.0,
-                  "fi": 16,
+                  "fi": 0,
                   "twE": 0,
                   "tweenFrame": true,
                   "bd_src": 1,
@@ -265,40 +542,28 @@
                 {
                   "dI": 0,
                   "x": 0.0,
-                  "y": 0.0,
+                  "y": 88.0,
                   "z": 0,
-                  "cX": 1.0,
-                  "cY": 1.0,
+                  "cX": 1.63172686,
+                  "cY": 1.8726877,
                   "kX": 0.0,
                   "kY": 0.0,
-                  "fi": 21,
+                  "fi": 12,
                   "twE": 0,
                   "tweenFrame": false,
-                  "color": {
-                    "a": 0,
-                    "r": 255,
-                    "g": 255,
-                    "b": 255
-                  },
                   "bd_src": 1,
                   "bd_dst": 771
-                }
-              ]
-            },
-            {
-              "name": "Layer1",
-              "dl": 0.0,
-              "frame_data": [
+                },
                 {
                   "dI": 0,
                   "x": 0.0,
-                  "y": 0.0,
+                  "y": 88.0,
                   "z": 0,
-                  "cX": 1.0,
-                  "cY": 1.0,
+                  "cX": 1.63172686,
+                  "cY": 1.8726877,
                   "kX": 0.0,
                   "kY": 0.0,
-                  "fi": 3,
+                  "fi": 18,
                   "twE": 0,
                   "tweenFrame": true,
                   "bd_src": 1,
@@ -307,76 +572,13 @@
                 {
                   "dI": 0,
                   "x": 0.0,
-                  "y": 0.0,
+                  "y": 88.0,
                   "z": 0,
-                  "cX": 1.0,
-                  "cY": 1.0,
+                  "cX": 1.63172686,
+                  "cY": 1.8726877,
                   "kX": 0.0,
                   "kY": 0.0,
-                  "fi": 8,
-                  "twE": 0,
-                  "tweenFrame": false,
-                  "color": {
-                    "a": 0,
-                    "r": 255,
-                    "g": 255,
-                    "b": 255
-                  },
-                  "bd_src": 1,
-                  "bd_dst": 771
-                },
-                {
-                  "dI": 0,
-                  "x": 0.0,
-                  "y": 0.0,
-                  "z": 0,
-                  "cX": 1.0,
-                  "cY": 1.0,
-                  "kX": 0.0,
-                  "kY": 0.0,
-                  "fi": 16,
-                  "twE": 0,
-                  "tweenFrame": true,
-                  "color": {
-                    "a": 0,
-                    "r": 255,
-                    "g": 255,
-                    "b": 255
-                  },
-                  "bd_src": 1,
-                  "bd_dst": 771
-                },
-                {
-                  "dI": 0,
-                  "x": 0.0,
-                  "y": 0.0,
-                  "z": 0,
-                  "cX": 1.0,
-                  "cY": 1.0,
-                  "kX": 0.0,
-                  "kY": 0.0,
-                  "fi": 21,
-                  "twE": 0,
-                  "tweenFrame": false,
-                  "color": {
-                    "a": 255,
-                    "r": 255,
-                    "g": 255,
-                    "b": 255
-                  },
-                  "bd_src": 1,
-                  "bd_dst": 771
-                },
-                {
-                  "dI": 0,
-                  "x": 0.0,
-                  "y": 0.0,
-                  "z": 0,
-                  "cX": 1.0,
-                  "cY": 1.0,
-                  "kX": 0.0,
-                  "kY": 0.0,
-                  "fi": 25,
+                  "fi": 24,
                   "twE": 0,
                   "tweenFrame": false,
                   "color": {
@@ -396,35 +598,14 @@
               "frame_data": [
                 {
                   "dI": 0,
-                  "x": -5.0,
-                  "y": -60.0,
+                  "x": 74.0,
+                  "y": -22.0,
                   "z": 0,
-                  "cX": 1.0,
-                  "cY": 1.0,
-                  "kX": -0.463647783,
-                  "kY": 0.463647783,
-                  "fi": 8,
-                  "twE": 0,
-                  "tweenFrame": true,
-                  "color": {
-                    "a": 0,
-                    "r": 255,
-                    "g": 255,
-                    "b": 255
-                  },
-                  "bd_src": 1,
-                  "bd_dst": 771
-                },
-                {
-                  "dI": 0,
-                  "x": -6.0,
-                  "y": -55.0,
-                  "z": 0,
-                  "cX": 1.0,
-                  "cY": 1.0,
-                  "kX": -0.463647783,
-                  "kY": 0.463647783,
-                  "fi": 9,
+                  "cX": 0.0,
+                  "cY": 0.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 18,
                   "twE": 0,
                   "tweenFrame": true,
                   "bd_src": 1,
@@ -432,37 +613,31 @@
                 },
                 {
                   "dI": 0,
-                  "x": -81.0,
-                  "y": 25.0,
+                  "x": 74.0,
+                  "y": -22.0,
                   "z": 0,
-                  "cX": 1.0,
-                  "cY": 1.0,
-                  "kX": -0.09183686,
-                  "kY": 0.09183686,
-                  "fi": 21,
+                  "cX": 1.1,
+                  "cY": 1.1,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 22,
                   "twE": 0,
-                  "tweenFrame": false,
+                  "tweenFrame": true,
                   "bd_src": 1,
                   "bd_dst": 771
                 },
                 {
                   "dI": 0,
-                  "x": -81.0,
-                  "y": 25.0,
+                  "x": 74.0,
+                  "y": -22.0,
                   "z": 0,
                   "cX": 1.0,
                   "cY": 1.0,
-                  "kX": -0.09183686,
-                  "kY": 0.09183686,
-                  "fi": 25,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 24,
                   "twE": 0,
                   "tweenFrame": true,
-                  "color": {
-                    "a": 0,
-                    "r": 255,
-                    "g": 255,
-                    "b": 255
-                  },
                   "bd_src": 1,
                   "bd_dst": 771
                 }
@@ -475,33 +650,49 @@
   ],
   "texture_data": [
     {
-      "name": "animation/c02_science/l01_mammalia/seahorse/01",
-      "width": 277.0,
-      "height": 293.0,
+      "name": "animation/c02_science/l01_mammalia/ending/01",
+      "width": 854.0,
+      "height": 325.0,
       "pX": 0.5,
       "pY": 0.5,
       "plistFile": ""
     },
     {
-      "name": "animation/c02_science/l01_mammalia/seahorse/02",
-      "width": 277.0,
-      "height": 293.0,
+      "name": "animation/c02_science/l01_mammalia/ending/ed1",
+      "width": 2048.0,
+      "height": 1536.0,
       "pX": 0.5,
       "pY": 0.5,
       "plistFile": ""
     },
     {
-      "name": "animation/c02_science/l01_mammalia/seahorse/03",
-      "width": 277.0,
-      "height": 293.0,
+      "name": "animation/c02_science/l01_mammalia/ending/bg",
+      "width": 2048.0,
+      "height": 1536.0,
       "pX": 0.5,
       "pY": 0.5,
       "plistFile": ""
     },
     {
-      "name": "animation/c02_science/l01_mammalia/seahorse/05",
-      "width": 48.0,
-      "height": 97.0,
+      "name": "animation/c02_science/l01_mammalia/ending/ed2",
+      "width": 2048.0,
+      "height": 1536.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "animation/c02_science/l01_mammalia/ending/ed3",
+      "width": 2048.0,
+      "height": 1536.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "animation/c02_science/l01_mammalia/ending/ed4",
+      "width": 2048.0,
+      "height": 1536.0,
       "pX": 0.5,
       "pY": 0.5,
       "plistFile": ""

@@ -507,6 +507,10 @@
       "plistFile": ""
     }
   ],
-  "config_file_path": [],
-  "config_png_path": []
+  "config_file_path": [
+    "ani_c02science_l01mammalia_seahorse0.plist"
+  ],
+  "config_png_path": [
+    "ani_c02science_l01mammalia_seahorse0.png"
+  ]
 }
