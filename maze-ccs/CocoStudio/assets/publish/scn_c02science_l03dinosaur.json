@@ -178,7 +178,7 @@
         {
           "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
           "classname": "CCNode",
-          "name": null,
+          "name": "ani_pterodactylus_LF002",
           "canedit": true,
           "objecttag": 10030,
           "rotation": 0,

@@ -7,9 +7,9 @@
 			<key>animation/c02_science/l06_environmental/thermometer/004.png</key>
 			<dict>
 				<key>width</key>
-				<integer>184</integer>
+				<integer>65</integer>
 				<key>height</key>
-				<integer>290</integer>
+				<integer>159</integer>
 				<key>originalWidth</key>
 				<integer>184</integer>
 				<key>originalHeight</key>
@@ -19,66 +19,66 @@
 				<key>y</key>
 				<integer>0</integer>
 				<key>offsetX</key>
-				<real>0</real>
+				<real>-2.5</real>
 				<key>offsetY</key>
-				<real>0</real>
+				<real>14.5</real>
 			</dict>
 			<key>animation/c02_science/l06_environmental/thermometer/003.png</key>
 			<dict>
 				<key>width</key>
-				<integer>184</integer>
+				<integer>65</integer>
 				<key>height</key>
-				<integer>290</integer>
+				<integer>159</integer>
 				<key>originalWidth</key>
 				<integer>184</integer>
 				<key>originalHeight</key>
 				<integer>290</integer>
 				<key>x</key>
-				<integer>186</integer>
+				<integer>67</integer>
 				<key>y</key>
 				<integer>0</integer>
 				<key>offsetX</key>
-				<real>0</real>
+				<real>-2.5</real>
 				<key>offsetY</key>
-				<real>0</real>
+				<real>14.5</real>
 			</dict>
 			<key>animation/c02_science/l06_environmental/thermometer/002.png</key>
 			<dict>
 				<key>width</key>
-				<integer>184</integer>
+				<integer>65</integer>
 				<key>height</key>
-				<integer>290</integer>
+				<integer>159</integer>
 				<key>originalWidth</key>
 				<integer>184</integer>
 				<key>originalHeight</key>
 				<integer>290</integer>
 				<key>x</key>
-				<integer>372</integer>
+				<integer>134</integer>
 				<key>y</key>
 				<integer>0</integer>
 				<key>offsetX</key>
-				<real>0</real>
+				<real>-2.5</real>
 				<key>offsetY</key>
-				<real>0</real>
+				<real>14.5</real>
 			</dict>
 			<key>animation/c02_science/l06_environmental/thermometer/001.png</key>
 			<dict>
 				<key>width</key>
-				<integer>184</integer>
+				<integer>65</integer>
 				<key>height</key>
-				<integer>290</integer>
+				<integer>159</integer>
 				<key>originalWidth</key>
 				<integer>184</integer>
 				<key>originalHeight</key>
 				<integer>290</integer>
 				<key>x</key>
-				<integer>558</integer>
+				<integer>201</integer>
 				<key>y</key>
 				<integer>0</integer>
 				<key>offsetX</key>
-				<real>0</real>
+				<real>-2.5</real>
 				<key>offsetY</key>
-				<real>0</real>
+				<real>14.5</real>
 			</dict>
 		</dict>
 		<key>metadata</key>

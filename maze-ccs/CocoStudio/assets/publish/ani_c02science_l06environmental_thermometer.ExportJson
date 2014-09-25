@@ -144,11 +144,11 @@
         {
           "name": "Animation1",
           "dr": 55,
-          "lp": true,
+          "lp": false,
           "to": 0,
           "drTW": 0,
           "twE": 0,
-          "sc": 1.0,
+          "sc": 0.2,
           "mov_bone_data": [
             {
               "name": "Layer4",
