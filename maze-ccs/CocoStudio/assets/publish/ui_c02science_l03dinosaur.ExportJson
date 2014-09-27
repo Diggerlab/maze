@@ -12,22 +12,18 @@
   "textures": [
     "ui_c02science0.plist",
     "ui_c02science1.plist",
-    "ui_c02science2.plist",
-    "ui_c02science3.plist"
+    "ui_c02science2.plist"
   ],
   "texturesPng": [
     "ui_c02science0.png",
     "ui_c02science1.png",
     "ui_c02science2.png",
-    "ui_c02science3.png",
     "ui_c02science0.png",
     "ui_c02science1.png",
     "ui_c02science2.png",
-    "ui_c02science3.png",
     "ui_c02science0.png",
     "ui_c02science1.png",
-    "ui_c02science2.png",
-    "ui_c02science3.png"
+    "ui_c02science2.png"
   ],
   "version": "1.6.0.0",
   "widgetTree": {
@@ -10470,16 +10466,16 @@
               "customProperty": "",
               "flipX": false,
               "flipY": false,
-              "height": 768,
+              "height": 395,
               "ignoreSize": true,
               "layoutParameter": null,
               "opacity": 255,
-              "positionPercentX": 0.4959707,
-              "positionPercentY": 0.497395843,
+              "positionPercentX": 0.274791867,
+              "positionPercentY": 0.8616242,
               "positionType": 0,
-              "rotation": 0,
-              "scaleX": 1,
-              "scaleY": 1,
+              "rotation": 115.240791,
+              "scaleX": 0.5,
+              "scaleY": 0.5,
               "sizePercentX": 0.750183165,
               "sizePercentY": 1,
               "sizeType": 0,
@@ -10487,9 +10483,9 @@
               "touchAble": true,
               "useMergedTexture": true,
               "visible": true,
-              "width": 1024,
-              "x": 677,
-              "y": 382,
+              "width": 287,
+              "x": 375,
+              "y": 661,
               "capInsetsHeight": 1,
               "capInsetsWidth": 1,
               "capInsetsX": 0,
@@ -10501,8 +10497,8 @@
                 "resourceType": 1
               },
               "scale9Enable": false,
-              "scale9Height": 768,
-              "scale9Width": 1024
+              "scale9Height": 395,
+              "scale9Width": 287
             }
           },
           {

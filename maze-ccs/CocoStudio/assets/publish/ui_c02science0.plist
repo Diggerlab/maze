@@ -156,6 +156,25 @@
 				<key>offsetY</key>
 				<real>0</real>
 			</dict>
+			<key>ui/c02_science/l03_dinosaur/player.PNG</key>
+			<dict>
+				<key>width</key>
+				<integer>287</integer>
+				<key>height</key>
+				<integer>395</integer>
+				<key>originalWidth</key>
+				<integer>287</integer>
+				<key>originalHeight</key>
+				<integer>395</integer>
+				<key>x</key>
+				<integer>0</integer>
+				<key>y</key>
+				<integer>1540</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
 			<key>ui/c02_science/l03_dinosaur/icon.png</key>
 			<dict>
 				<key>width</key>
@@ -167,7 +186,7 @@
 				<key>originalHeight</key>
 				<integer>83</integer>
 				<key>x</key>
-				<integer>0</integer>
+				<integer>289</integer>
 				<key>y</key>
 				<integer>1540</integer>
 				<key>offsetX</key>
@@ -186,7 +205,7 @@
 				<key>originalHeight</key>
 				<integer>97</integer>
 				<key>x</key>
-				<integer>85</integer>
+				<integer>374</integer>
 				<key>y</key>
 				<integer>1540</integer>
 				<key>offsetX</key>
@@ -205,7 +224,7 @@
 				<key>originalHeight</key>
 				<integer>116</integer>
 				<key>x</key>
-				<integer>220</integer>
+				<integer>509</integer>
 				<key>y</key>
 				<integer>1540</integer>
 				<key>offsetX</key>
@@ -224,7 +243,7 @@
 				<key>originalHeight</key>
 				<integer>191</integer>
 				<key>x</key>
-				<integer>372</integer>
+				<integer>661</integer>
 				<key>y</key>
 				<integer>1540</integer>
 				<key>offsetX</key>
@@ -243,45 +262,7 @@
 				<key>originalHeight</key>
 				<integer>128</integer>
 				<key>x</key>
-				<integer>559</integer>
-				<key>y</key>
-				<integer>1540</integer>
-				<key>offsetX</key>
-				<real>0</real>
-				<key>offsetY</key>
-				<real>0</real>
-			</dict>
-			<key>ui/c02_science/l06_environmental/player.png</key>
-			<dict>
-				<key>width</key>
-				<integer>146</integer>
-				<key>height</key>
-				<integer>214</integer>
-				<key>originalWidth</key>
-				<integer>146</integer>
-				<key>originalHeight</key>
-				<integer>214</integer>
-				<key>x</key>
-				<integer>658</integer>
-				<key>y</key>
-				<integer>1540</integer>
-				<key>offsetX</key>
-				<real>0</real>
-				<key>offsetY</key>
-				<real>0</real>
-			</dict>
-			<key>ui/c02_science/l06_environmental/icon.png</key>
-			<dict>
-				<key>width</key>
-				<integer>139</integer>
-				<key>height</key>
-				<integer>120</integer>
-				<key>originalWidth</key>
-				<integer>139</integer>
-				<key>originalHeight</key>
-				<integer>120</integer>
-				<key>x</key>
-				<integer>806</integer>
+				<integer>848</integer>
 				<key>y</key>
 				<integer>1540</integer>
 				<key>offsetX</key>

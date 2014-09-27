@@ -4,7 +4,7 @@
 	<dict>
 		<key>frames</key>
 		<dict>
-			<key>ui/c02_science/l04_visual/map.png</key>
+			<key>ui/c02_science/l05_virus/map.png</key>
 			<dict>
 				<key>width</key>
 				<integer>1365</integer>
@@ -23,7 +23,7 @@
 				<key>offsetY</key>
 				<real>0</real>
 			</dict>
-			<key>ui/c02_science/l05_virus/map.png</key>
+			<key>ui/c02_science/l06_environmental/map.png</key>
 			<dict>
 				<key>width</key>
 				<integer>1365</integer>
